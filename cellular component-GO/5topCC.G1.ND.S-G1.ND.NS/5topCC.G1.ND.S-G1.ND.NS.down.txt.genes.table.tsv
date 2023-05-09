@@ -1,0 +1,760 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value	nc	Genes
+GO:0000139	Golgi membrane	516	1	0.94	0.612	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0000325	plant-type vacuole	392	1	0.71	0.513	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0000428	DNA-directed RNA polymerase complex	128	1	0.23	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0000786	nucleosome	115	2	0.21	0.019	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0000786	nucleosome	115	2	0.21	0.019	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09786.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc36030.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0005576	extracellular region	3535	9	6.43	0.393	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005615	extracellular space	125	1	0.23	0.204	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09786.1
+GO:0005618	cell wall	1389	1	2.53	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05129.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33091.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37168.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0005622	intracellular	25291	48	46.02	0.562	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33091.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37168.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05129.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0005623	cell	28265	50	51.43	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0005634	nucleus	11883	20	21.62	0.841	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0005666	RNA polymerase III complex	24	1	0.04	0.043	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0005694	chromosome	553	2	1.01	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005694	chromosome	553	2	1.01	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005730	nucleolus	692	2	1.26	0.360	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005730	nucleolus	692	2	1.26	0.360	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33091.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37168.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05129.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0005737	cytoplasm	17484	36	31.81	0.344	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0005739	mitochondrion	3546	4	6.45	0.933	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0005739	mitochondrion	3546	4	6.45	0.933	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0005739	mitochondrion	3546	4	6.45	0.933	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0005739	mitochondrion	3546	4	6.45	0.933	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005759	mitochondrial matrix	166	1	0.3	0.262	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005773	vacuole	2126	3	3.87	0.845	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005773	vacuole	2126	3	3.87	0.845	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005773	vacuole	2126	3	3.87	0.845	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0005774	vacuolar membrane	1266	2	2.3	0.677	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005774	vacuolar membrane	1266	2	2.3	0.677	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005777	peroxisome	397	1	0.72	0.517	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0005783	endoplasmic reticulum	1291	2	2.35	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005783	endoplasmic reticulum	1291	2	2.35	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005789	endoplasmic reticulum membrane	582	2	1.06	0.286	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0005789	endoplasmic reticulum membrane	582	2	1.06	0.286	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0005794	Golgi apparatus	1788	2	3.25	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005794	Golgi apparatus	1788	2	3.25	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0005829	cytosol	3633	7	6.61	0.525	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005834	heterotrimeric G-protein complex	99	1	0.18	0.165	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0005840	ribosome	836	1	1.52	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005856	cytoskeleton	525	1	0.96	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0005886	plasma membrane	6041	12	10.99	0.496	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0005911	cell-cell junction	1689	4	3.07	0.781	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0005911	cell-cell junction	1689	4	3.07	0.781	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0005911	cell-cell junction	1689	4	3.07	0.781	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0005911	cell-cell junction	1689	4	3.07	0.781	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0009505	plant-type cell wall	546	1	0.99	0.633	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0009506	plasmodesma	1686	4	3.07	0.368	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0009506	plasmodesma	1686	4	3.07	0.368	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0009506	plasmodesma	1686	4	3.07	0.368	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0009506	plasmodesma	1686	4	3.07	0.368	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0009507	chloroplast	6002	12	10.92	0.792	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0009522	photosystem I	68	1	0.12	0.117	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009523	photosystem II	91	1	0.17	0.153	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009532	plastid stroma	1286	4	2.34	0.578	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0009532	plastid stroma	1286	4	2.34	0.578	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0009532	plastid stroma	1286	4	2.34	0.578	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0009532	plastid stroma	1286	4	2.34	0.578	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0009534	chloroplast thylakoid	823	4	1.5	0.063	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0009534	chloroplast thylakoid	823	4	1.5	0.063	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009534	chloroplast thylakoid	823	4	1.5	0.063	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0009534	chloroplast thylakoid	823	4	1.5	0.063	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0009535	chloroplast thylakoid membrane	663	2	1.21	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0009535	chloroplast thylakoid membrane	663	2	1.21	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0009536	plastid	6095	12	11.09	0.701	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0009570	chloroplast stroma	1253	4	2.28	0.193	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0009570	chloroplast stroma	1253	4	2.28	0.193	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0009570	chloroplast stroma	1253	4	2.28	0.193	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0009570	chloroplast stroma	1253	4	2.28	0.193	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0009898	cytoplasmic side of plasma membrane	118	1	0.21	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0010319	stromule	92	2	0.17	0.012	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0010319	stromule	92	2	0.17	0.012	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0015629	actin cytoskeleton	120	1	0.22	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0015934	large ribosomal subunit	351	1	0.64	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17798.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc32535.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17281.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc36030.1
+GO:0016020	membrane	11769	25	21.41	0.724	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17281.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17798.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc36030.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc32535.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0016021	integral component of membrane	6855	17	12.47	0.101	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0016459	myosin complex	34	1	0.06	0.060	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0022625	cytosolic large ribosomal subunit	307	1	0.56	0.430	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0022626	cytosolic ribosome	627	1	1.14	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0030054	cell junction	1689	4	3.07	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0030054	cell junction	1689	4	3.07	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0030054	cell junction	1689	4	3.07	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0030054	cell junction	1689	4	3.07	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0030312	external encapsulating structure	1389	1	2.53	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0030880	RNA polymerase complex	128	1	0.23	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0031090	organelle membrane	2911	3	5.3	0.923	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0031090	organelle membrane	2911	3	5.3	0.923	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0031090	organelle membrane	2911	3	5.3	0.923	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17281.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc36030.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17798.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc32535.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0031224	intrinsic component of membrane	7102	17	12.92	0.408	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0031234	extrinsic component of cytoplasmic side ...	101	1	0.18	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0031974	membrane-enclosed lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0031974	membrane-enclosed lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0031974	membrane-enclosed lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0031975	envelope	1854	2	3.37	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0031975	envelope	1854	2	3.37	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0031976	plastid thylakoid	823	4	1.5	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0031976	plastid thylakoid	823	4	1.5	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0031976	plastid thylakoid	823	4	1.5	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0031976	plastid thylakoid	823	4	1.5	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0031977	thylakoid lumen	144	1	0.26	0.231	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0031981	nuclear lumen	1369	2	2.49	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0031981	nuclear lumen	1369	2	2.49	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0031984	organelle subcompartment	2113	7	3.84	0.750	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0032991	protein-containing complex	3707	7	6.75	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0032993	protein-DNA complex	149	2	0.27	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0032993	protein-DNA complex	149	2	0.27	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0033597	mitotic checkpoint complex	6	1	0.01	0.011	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0042579	microbody	397	1	0.72	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0042651	thylakoid membrane	693	2	1.26	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0042651	thylakoid membrane	693	2	1.26	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0043226	organelle	22668	39	41.25	0.915	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0043227	membrane-bounded organelle	22217	37	40.43	0.962	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0043228	non-membrane-bounded organelle	2452	4	4.46	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0043228	non-membrane-bounded organelle	2452	4	4.46	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0043228	non-membrane-bounded organelle	2452	4	4.46	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0043228	non-membrane-bounded organelle	2452	4	4.46	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0043229	intracellular organelle	22663	39	41.24	0.876	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0043231	intracellular membrane-bounded organelle	22082	37	40.18	0.954	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044391	ribosomal subunit	581	1	1.06	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044421	extracellular region part	162	1	0.29	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09786.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044422	organelle part	7774	16	14.15	0.955	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33091.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37168.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05129.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0044424	intracellular part	25254	48	45.95	0.511	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17281.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17798.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc32535.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044425	membrane part	7765	18	14.13	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc36030.1
+GO:0044427	chromosomal part	468	2	0.85	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044427	chromosomal part	468	2	0.85	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044428	nuclear part	1699	4	3.09	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044428	nuclear part	1699	4	3.09	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0044428	nuclear part	1699	4	3.09	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044428	nuclear part	1699	4	3.09	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044429	mitochondrial part	709	1	1.29	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044437	vacuolar part	1272	2	2.31	0.716	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044437	vacuolar part	1272	2	2.31	0.716	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0044444	cytoplasmic part	14595	28	26.56	0.705	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0044445	cytosolic part	679	1	1.24	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044446	intracellular organelle part	7759	16	14.12	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17293.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17100.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05535.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc08810.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc27125.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc35029.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18332.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05129.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33091.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37168.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc26737.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc05507.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc11644.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16370.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22743.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18440.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc25770.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc16321.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc09783.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc07954.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc22390.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc01058.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31923.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31395.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29813.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28982.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15658.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc20378.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31183.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30445.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0044464	cell part	28265	50	51.43	0.938	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0044815	DNA packaging complex	123	2	0.22	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0044815	DNA packaging complex	123	2	0.22	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0048046	apoplast	888	3	1.62	0.219	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0048046	apoplast	888	3	1.62	0.219	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0048046	apoplast	888	3	1.62	0.219	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0055029	nuclear DNA-directed RNA polymerase comp...	96	1	0.17	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0055035	plastid thylakoid membrane	663	2	1.21	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc33092.1
+GO:0055035	plastid thylakoid membrane	663	2	1.21	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0055044	symplast	1686	4	3.07	0.533	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0055044	symplast	1686	4	3.07	0.533	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0055044	symplast	1686	4	3.07	0.533	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0055044	symplast	1686	4	3.07	0.533	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0061695	transferase complex, transferring phosph...	180	1	0.33	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:0070013	intracellular organelle lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc17713.1
+GO:0070013	intracellular organelle lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18773.1
+GO:0070013	intracellular organelle lumen	1647	3	3	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28228.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc28398.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc21909.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc15669.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37506.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30107.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc29911.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc06090.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc34796.1
+GO:0071944	cell periphery	7143	13	13	0.617	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc37595.1
+GO:0098552	side of membrane	158	1	0.29	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0098562	cytoplasmic side of membrane	137	1	0.25	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0098588	bounding membrane of organelle	2152	3	3.92	0.939	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0098588	bounding membrane of organelle	2152	3	3.92	0.939	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0098588	bounding membrane of organelle	2152	3	3.92	0.939	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:0098791	Golgi subcompartment	808	1	1.47	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc38785.1
+GO:0098796	membrane protein complex	890	2	1.62	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc03922.1
+GO:0098796	membrane protein complex	890	2	1.62	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0098797	plasma membrane protein complex	150	1	0.27	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:0098805	whole membrane	1724	2	3.14	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc30574.1
+GO:0098805	whole membrane	1724	2	3.14	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18596.1
+GO:1905360	GTPase complex	99	1	0.18	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc19450.1
+GO:1990234	transferase complex	611	1	1.11	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc18688.1
+GO:1990904	ribonucleoprotein complex	1155	1	2.1	1.000	5topCC.G1.ND.S-G1.ND.NS.down.txt	Lc31999.1

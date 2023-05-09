@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0044434	chloroplast part	2303	343	163.88	< 1e-30
+GO:0009521	photosystem	129	34	9.18	1.5e-11
+GO:0009579	thylakoid	952	191	67.74	1.3e-07
+GO:0010319	stromule	92	18	6.55	7.5e-05
+GO:0005622	intracellular	25291	1899	1799.69	0.00036
+GO:0031977	thylakoid lumen	144	40	10.25	0.00054
+GO:0000326	protein storage vacuole	29	8	2.06	0.00072
+GO:0009528	plastid inner membrane	140	20	9.96	0.00220
+GO:0031304	intrinsic component of mitochondrial inn...	39	8	2.78	0.00546
+GO:0009509	chromoplast	12	4	0.85	0.00796
+GO:0043231	intracellular membrane-bounded organelle	22082	1678	1571.34	0.01594
+GO:0000315	organellar large ribosomal subunit	25	5	1.78	0.02916
+GO:0009705	plant-type vacuole membrane	250	28	17.79	0.04211
+GO:0009295	nucleoid	96	13	6.83	0.05921
+GO:0031359	integral component of chloroplast outer ...	13	3	0.93	0.06010
+GO:0032580	Golgi cisterna membrane	43	6	3.06	0.08235
+GO:1990316	Atg1/ULK1 kinase complex	7	2	0.5	0.08364
+GO:0036513	Derlin-1 retrotranslocation complex	7	2	0.5	0.08364
+GO:0009508	plastid chromosome	24	4	1.71	0.08696
+GO:0005744	TIM23 mitochondrial import inner membran...	34	5	2.42	0.09068
+GO:0019005	SCF ubiquitin ligase complex	55	7	3.91	0.09395
+GO:0009507	chloroplast	6002	601	427.1	0.10529
+GO:0005759	mitochondrial matrix	166	18	11.81	0.11871
+GO:0034426	etioplast membrane	9	2	0.64	0.13056
+GO:0031350	intrinsic component of plastid membrane	15	4	1.07	0.13713
+GO:0034045	phagophore assembly site membrane	19	3	1.35	0.14907
+GO:0048046	apoplast	888	71	63.19	0.16607
+GO:0042807	central vacuole	11	2	0.78	0.18187
+GO:0031519	PcG protein complex	11	2	0.78	0.18187
+GO:0043227	membrane-bounded organelle	22217	1681	1580.95	0.18467
+GO:0046930	pore complex	21	3	1.49	0.18477
+GO:0016602	CCAAT-binding factor complex	12	2	0.85	0.20850
+GO:0009898	cytoplasmic side of plasma membrane	118	11	8.4	0.21844
+GO:0030687	preribosome, large subunit precursor	13	2	0.93	0.23548
+GO:0044424	intracellular part	25254	1894	1797.06	0.24230
+GO:0000783	nuclear telomere cap complex	15	2	1.07	0.28979
+GO:0030139	endocytic vesicle	27	3	1.92	0.30109
+GO:0009517	PSII associated light-harvesting complex...	5	1	0.36	0.30865
+GO:0031019	mitochondrial mRNA editing complex	5	1	0.36	0.30865
+GO:0030286	dynein complex	5	1	0.36	0.30865
+GO:0012507	ER to Golgi transport vesicle membrane	40	4	2.85	0.31697
+GO:0009986	cell surface	40	4	2.85	0.31697
+GO:0031225	anchored component of membrane	319	25	22.7	0.33731
+GO:0030124	AP-4 adaptor complex	6	1	0.43	0.35786
+GO:0005751	mitochondrial respiratory chain complex ...	6	1	0.43	0.35786
+GO:0005884	actin filament	30	3	2.13	0.36101
+GO:0071458	integral component of cytoplasmic side o...	18	2	1.28	0.37003
+GO:0005763	mitochondrial small ribosomal subunit	19	2	1.35	0.39602
+GO:0030173	integral component of Golgi membrane	7	1	0.5	0.40356
+GO:0005960	glycine cleavage complex	7	1	0.5	0.40356
+GO:0005754	mitochondrial proton-transporting ATP sy...	7	1	0.5	0.40356
+GO:0032432	actin filament bundle	7	1	0.5	0.40356
+GO:0016593	Cdc73/Paf1 complex	7	1	0.5	0.40356
+GO:0046861	glyoxysomal membrane	7	1	0.5	0.40356
+GO:0098562	cytoplasmic side of membrane	137	13	9.75	0.41511
+GO:0016607	nuclear speck	115	9	8.18	0.43395
+GO:0000792	heterochromatin	34	3	2.42	0.43941
+GO:0005776	autophagosome	34	3	2.42	0.43941
+GO:0000796	condensin complex	8	1	0.57	0.44601
+GO:0031414	N-terminal protein acetyltransferase com...	8	1	0.57	0.44601
+GO:0031902	late endosome membrane	117	9	8.33	0.45452
+GO:0000314	organellar small ribosomal subunit	46	4	3.27	0.47715
+GO:0009331	glycerol-3-phosphate dehydrogenase compl...	9	1	0.64	0.48544
+GO:0071782	endoplasmic reticulum tubular network	9	1	0.64	0.48544
+GO:0019898	extrinsic component of membrane	208	16	14.8	0.49411
+GO:0035618	root hair	10	1	0.71	0.52207
+GO:0031463	Cul3-RING ubiquitin ligase complex	10	1	0.71	0.52207
+GO:0005689	U12-type spliceosomal complex	10	1	0.71	0.52207
+GO:0005945	6-phosphofructokinase complex	10	1	0.71	0.52207
+GO:0005795	Golgi stack	93	10	6.62	0.55518
+GO:0012511	monolayer-surrounded lipid storage body	11	1	0.78	0.55609
+GO:0070847	core mediator complex	11	1	0.78	0.55609
+GO:0071556	integral component of lumenal side of en...	11	1	0.78	0.55609
+GO:0009527	plastid outer membrane	67	8	4.77	0.56036
+GO:0016592	mediator complex	56	4	3.98	0.57090
+GO:0015629	actin cytoskeleton	120	9	8.54	0.57986
+GO:0009512	cytochrome b6f complex	12	1	0.85	0.58769
+GO:1902554	serine/threonine protein kinase complex	30	4	2.13	0.61673
+GO:0000784	nuclear chromosome, telomeric region	28	3	1.99	0.61688
+GO:0030131	clathrin adaptor complex	13	1	0.93	0.61704
+GO:0005765	lysosomal membrane	29	2	2.06	0.62135
+GO:0005634	nucleus	11883	846	845.59	0.62533
+GO:0042170	plastid membrane	411	56	29.25	0.63955
+GO:0005775	vacuolar lumen	14	1	1	0.64430
+GO:0005788	endoplasmic reticulum lumen	77	5	5.48	0.64811
+GO:0005885	Arp2/3 protein complex	15	1	1.07	0.66963
+GO:0017119	Golgi transport complex	15	1	1.07	0.66963
+GO:0048226	Casparian strip	15	1	1.07	0.66963
+GO:0005680	anaphase-promoting complex	16	1	1.14	0.69315
+GO:0016459	myosin complex	34	2	2.42	0.70716
+GO:0000781	chromosome, telomeric region	31	3	2.21	0.71482
+GO:0009514	glyoxysome	21	2	1.49	0.71487
+GO:0005849	mRNA cleavage factor complex	17	1	1.21	0.71499
+GO:0009536	plastid	6095	607	433.72	0.71628
+GO:0005887	integral component of plasma membrane	359	23	25.55	0.72951
+GO:0048471	perinuclear region of cytoplasm	18	1	1.28	0.73529
+GO:0005840	ribosome	836	59	59.49	0.74849
+GO:0098552	side of membrane	158	14	11.24	0.74962
+GO:0034707	chloride channel complex	19	1	1.35	0.75413
+GO:0005739	mitochondrion	3546	250	252.33	0.75451

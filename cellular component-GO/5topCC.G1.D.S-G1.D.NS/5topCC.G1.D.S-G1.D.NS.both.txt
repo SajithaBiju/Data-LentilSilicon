@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0031224	intrinsic component of membrane	7102	1656	1486.35	1.2e-08
+GO:0005886	plasma membrane	6041	1425	1264.3	3.4e-08
+GO:0005875	microtubule associated complex	93	32	19.46	0.0018
+GO:0036513	Derlin-1 retrotranslocation complex	7	5	1.47	0.0057
+GO:0017053	transcriptional repressor complex	35	14	7.33	0.0080
+GO:0035102	PRC1 complex	5	4	1.05	0.0080
+GO:0000326	protein storage vacuole	29	12	6.07	0.0100
+GO:0005874	microtubule	232	66	48.55	0.0101
+GO:0000779	condensed chromosome, centromeric region	27	11	5.65	0.0153
+GO:0033597	mitotic checkpoint complex	6	4	1.26	0.0200
+GO:0009574	preprophase band	23	9	4.81	0.0358
+GO:0005782	peroxisomal matrix	7	4	1.47	0.0389
+GO:0031350	intrinsic component of plastid membrane	15	7	3.14	0.0438
+GO:0042555	MCM complex	8	4	1.67	0.0652
+GO:0044614	nuclear pore cytoplasmic filaments	5	3	1.05	0.0653
+GO:0072686	mitotic spindle	19	7	3.98	0.0830
+GO:0016602	CCAAT-binding factor complex	12	5	2.51	0.0855
+GO:0008278	cohesin complex	6	3	1.26	0.1106
+GO:0055037	recycling endosome	6	3	1.26	0.1106
+GO:0031359	integral component of chloroplast outer ...	13	5	2.72	0.1159
+GO:0005634	nucleus	11883	2499	2486.95	0.1268
+GO:0031463	Cul3-RING ubiquitin ligase complex	10	4	2.09	0.1378
+GO:0043680	filiform apparatus	14	5	2.93	0.1506
+GO:0009501	amyloplast	14	5	2.93	0.1506
+GO:0048471	perinuclear region of cytoplasm	18	6	3.77	0.1566
+GO:1990316	Atg1/ULK1 kinase complex	7	3	1.47	0.1643
+GO:0010007	magnesium chelatase complex	7	3	1.47	0.1643
+GO:0055028	cortical microtubule	35	10	7.33	0.1806
+GO:0009986	cell surface	40	11	8.37	0.2004
+GO:0019897	extrinsic component of plasma membrane	132	32	27.63	0.2012
+GO:0000796	condensin complex	8	3	1.67	0.2239
+GO:0016328	lateral plasma membrane	8	3	1.67	0.2239
+GO:0016442	RISC complex	20	6	4.19	0.2271
+GO:1990391	DNA repair complex	12	4	2.51	0.2306
+GO:0009514	glyoxysome	21	6	4.4	0.2656
+GO:0030687	preribosome, large subunit precursor	13	4	2.72	0.2816
+GO:0005828	kinetochore microtubule	5	2	1.05	0.2818
+GO:0031019	mitochondrial mRNA editing complex	5	2	1.05	0.2818
+GO:0009537	proplastid	5	2	1.05	0.2818
+GO:0070552	BRISC complex	5	2	1.05	0.2818
+GO:0000815	ESCRT III complex	9	3	1.88	0.2866
+GO:0032585	multivesicular body membrane	9	3	1.88	0.2866
+GO:0009331	glycerol-3-phosphate dehydrogenase compl...	9	3	1.88	0.2866
+GO:0031307	integral component of mitochondrial oute...	22	6	4.6	0.3056
+GO:0005720	nuclear heterochromatin	14	4	2.93	0.3341
+GO:0005779	integral component of peroxisomal membra...	14	4	2.93	0.3341
+GO:0019005	SCF ubiquitin ligase complex	55	13	11.51	0.3607
+GO:0009505	plant-type cell wall	546	118	114.27	0.3626
+GO:0034045	phagophore assembly site membrane	19	5	3.98	0.3651
+GO:0016324	apical plasma membrane	19	5	3.98	0.3651
+GO:0008287	protein serine/threonine phosphatase com...	37	9	7.74	0.3666
+GO:0031012	extracellular matrix	37	9	7.74	0.3666
+GO:0031519	PcG protein complex	11	6	2.3	0.3672
+GO:0005942	phosphatidylinositol 3-kinase complex	6	2	1.26	0.3675
+GO:0009330	DNA topoisomerase complex (ATP-hydrolyzi...	6	2	1.26	0.3675
+GO:0000322	storage vacuole	29	12	6.07	0.3745
+GO:0030863	cortical cytoskeleton	40	11	8.37	0.3866
+GO:0000783	nuclear telomere cap complex	15	4	3.14	0.3868
+GO:0009705	plant-type vacuole membrane	250	57	52.32	0.3908
+GO:0042807	central vacuole	11	3	2.3	0.4134
+GO:0009898	cytoplasmic side of plasma membrane	118	26	24.7	0.4194
+GO:0016459	myosin complex	34	8	7.12	0.4200
+GO:0099513	polymeric cytoskeletal fiber	262	72	54.83	0.4288
+GO:0044421	extracellular region part	162	34	33.9	0.4438
+GO:0070531	BRCA1-A complex	7	2	1.47	0.4487
+GO:0032432	actin filament bundle	7	2	1.47	0.4487
+GO:0016593	Cdc73/Paf1 complex	7	2	1.47	0.4487
+GO:0033588	Elongator holoenzyme complex	7	2	1.47	0.4487
+GO:0005960	glycine cleavage complex	7	2	1.47	0.4487
+GO:0005655	nucleolar ribonuclease P complex	21	5	4.4	0.4565
+GO:0043601	nuclear replisome	12	3	2.51	0.4744
+GO:0009509	chromoplast	12	3	2.51	0.4744
+GO:0010369	chromocenter	22	5	4.6	0.5009
+GO:0005677	chromatin silencing complex	27	10	5.65	0.5054
+GO:0032300	mismatch repair complex	9	3	1.88	0.5056
+GO:0000782	telomere cap complex	15	4	3.14	0.5056
+GO:0030139	endocytic vesicle	27	6	5.65	0.5097
+GO:0000139	Golgi membrane	516	108	107.99	0.5154
+GO:0009513	etioplast	14	3	2.93	0.5237
+GO:0005801	cis-Golgi network	18	4	3.77	0.5385
+GO:0010598	NAD(P)H dehydrogenase complex (plastoqui...	18	4	3.77	0.5385
+GO:0008023	transcription elongation factor complex	27	6	5.65	0.5437
+GO:0045298	tubulin complex	28	6	5.86	0.5484
+GO:0005811	lipid droplet	28	6	5.86	0.5484
+GO:0005769	early endosome	48	10	10.05	0.5634
+GO:0005819	spindle	113	27	23.65	0.5662
+GO:0099512	supramolecular fiber	262	72	54.83	0.5842
+GO:0032580	Golgi cisterna membrane	43	9	9	0.5848
+GO:0000347	THO complex	14	3	2.93	0.5862
+GO:0005776	autophagosome	34	7	7.12	0.5870
+GO:0009524	phragmoplast	166	34	34.74	0.5870
+GO:0005576	extracellular region	3535	735	739.83	0.5897
+GO:1903293	phosphatase complex	37	9	7.74	0.5913
+GO:0000159	protein phosphatase type 2A complex	20	5	4.19	0.5913
+GO:0016605	PML body	9	2	1.88	0.5914
+GO:0033185	dolichol-phosphate-mannose synthase comp...	9	2	1.88	0.5914
+GO:0009527	plastid outer membrane	67	16	14.02	0.5933
+GO:0009504	cell plate	54	11	11.3	0.5938
+GO:0099081	supramolecular polymer	262	72	54.83	0.6080
+GO:0031332	RNAi effector complex	20	6	4.19	0.6090

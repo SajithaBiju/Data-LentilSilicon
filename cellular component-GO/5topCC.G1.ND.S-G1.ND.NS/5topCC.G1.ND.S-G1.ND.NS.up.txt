@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0033597	mitotic checkpoint complex	6	1	0.01	0.0072
+GO:0005785	signal recognition particle receptor com...	12	1	0.01	0.0143
+GO:0030687	preribosome, large subunit precursor	13	1	0.02	0.0155
+GO:0005664	nuclear origin of replication recognitio...	16	1	0.02	0.0191
+GO:0031597	cytosolic proteasome complex	20	1	0.02	0.0238
+GO:0008540	proteasome regulatory particle, base sub...	21	1	0.03	0.0250
+GO:0005786	signal recognition particle, endoplasmic...	21	1	0.03	0.0250
+GO:0045261	proton-transporting ATP synthase complex...	35	1	0.04	0.0413
+GO:0005753	mitochondrial proton-transporting ATP sy...	35	1	0.04	0.0413
+GO:0009506	plasmodesma	1686	5	2.03	0.0499
+GO:0005730	nucleolus	692	3	0.83	0.0500
+GO:0022625	cytosolic large ribosomal subunit	307	2	0.37	0.0525
+GO:0005829	cytosol	3633	10	4.37	0.0571
+GO:0016592	mediator complex	56	1	0.07	0.0652
+GO:0005618	cell wall	1389	4	1.67	0.0841
+GO:0005834	heterotrimeric G-protein complex	99	1	0.12	0.1124
+GO:0044464	cell part	28265	37	33.98	0.1210
+GO:0005615	extracellular space	125	1	0.15	0.1399
+GO:0009570	chloroplast stroma	1253	3	1.51	0.1900
+GO:0005623	cell	28265	37	33.98	0.3473
+GO:0005911	cell-cell junction	1689	5	2.03	0.3785
+GO:0005777	peroxisome	397	1	0.48	0.3816
+GO:0071944	cell periphery	7143	14	8.59	0.4276
+GO:0009532	plastid stroma	1286	3	1.55	0.4345
+GO:0005768	endosome	640	1	0.77	0.5407
+GO:0005634	nucleus	11883	17	14.29	0.5856
+GO:0005783	endoplasmic reticulum	1291	2	1.55	0.6091
+GO:0043226	organelle	22668	29	27.25	0.6184
+GO:0048046	apoplast	888	1	1.07	0.6617
+GO:0043229	intracellular organelle	22663	29	27.25	0.6754
+GO:0005886	plasma membrane	6041	10	7.26	0.6897
+GO:0043227	membrane-bounded organelle	22217	28	26.71	0.7309
+GO:0005774	vacuolar membrane	1266	1	1.52	0.7888
+GO:0043231	intracellular membrane-bounded organelle	22082	27	26.55	0.8507
+GO:0005773	vacuole	2126	2	2.56	0.8564
+GO:0005576	extracellular region	3535	4	4.25	0.8884
+GO:0009507	chloroplast	6002	6	7.22	0.9030
+GO:0009536	plastid	6095	6	7.33	0.9370
+GO:0005739	mitochondrion	3546	3	4.26	0.9571
+GO:0005737	cytoplasm	17484	22	21.02	0.9588
+GO:0044444	cytoplasmic part	14595	19	17.55	0.9885
+GO:0016021	integral component of membrane	6855	3	8.24	0.9941
+GO:0016020	membrane	11769	13	14.15	0.9977
+GO:0044425	membrane part	7765	6	9.34	0.9987
+GO:0031224	intrinsic component of membrane	7102	3	8.54	0.9990
+GO:0031981	nuclear lumen	1369	5	1.65	1.0000
+GO:0031982	vesicle	870	1	1.05	1.0000
+GO:0022624	proteasome accessory complex	40	1	0.05	1.0000
+GO:0031984	organelle subcompartment	2113	1	2.54	1.0000
+GO:0022626	cytosolic ribosome	627	2	0.75	1.0000
+GO:0016469	proton-transporting two-sector ATPase co...	79	1	0.09	1.0000
+GO:0005840	ribosome	836	2	1.01	1.0000
+GO:0097708	intracellular vesicle	852	1	1.02	1.0000
+GO:0000808	origin recognition complex	17	1	0.02	1.0000
+GO:0044391	ribosomal subunit	581	2	0.7	1.0000
+GO:0033178	proton-transporting two-sector ATPase co...	49	1	0.06	1.0000
+GO:0031974	membrane-enclosed lumen	1647	5	1.98	1.0000
+GO:0031975	envelope	1854	1	2.23	1.0000
+GO:0045259	proton-transporting ATP synthase complex	57	1	0.07	1.0000
+GO:0005622	intracellular	25291	32	30.41	1.0000
+GO:0031234	extrinsic component of cytoplasmic side ...	101	1	0.12	1.0000
+GO:0000502	proteasome complex	87	1	0.1	1.0000
+GO:0055044	symplast	1686	5	2.03	1.0000
+GO:0005694	chromosome	553	1	0.66	1.0000
+GO:1990904	ribonucleoprotein complex	1155	4	1.39	1.0000
+GO:0005838	proteasome regulatory particle	40	1	0.05	1.0000
+GO:0044421	extracellular region part	162	1	0.19	1.0000
+GO:0019866	organelle inner membrane	556	1	0.67	1.0000
+GO:0044422	organelle part	7774	12	9.35	1.0000
+GO:0044424	intracellular part	25254	32	30.36	1.0000
+GO:0044427	chromosomal part	468	1	0.56	1.0000
+GO:0030054	cell junction	1689	5	2.03	1.0000
+GO:0044428	nuclear part	1699	6	2.04	1.0000
+GO:0044429	mitochondrial part	709	1	0.85	1.0000
+GO:0098562	cytoplasmic side of membrane	137	1	0.16	1.0000
+GO:0005789	endoplasmic reticulum membrane	582	1	0.7	1.0000
+GO:1905360	GTPase complex	99	1	0.12	1.0000
+GO:0043228	non-membrane-bounded organelle	2452	5	2.95	1.0000
+GO:0070013	intracellular organelle lumen	1647	5	1.98	1.0000
+GO:1905368	peptidase complex	94	1	0.11	1.0000
+GO:1905369	endopeptidase complex	87	1	0.1	1.0000
+GO:0030312	external encapsulating structure	1389	4	1.67	1.0000
+GO:0098552	side of membrane	158	1	0.19	1.0000
+GO:0031410	cytoplasmic vesicle	847	1	1.02	1.0000
+GO:0015934	large ribosomal subunit	351	2	0.42	1.0000
+GO:0098800	inner mitochondrial membrane protein com...	220	1	0.26	1.0000
+GO:0030684	preribosome	52	1	0.06	1.0000
+GO:0098805	whole membrane	1724	1	2.07	1.0000
+GO:0098796	membrane protein complex	890	3	1.07	1.0000
+GO:0098797	plasma membrane protein complex	150	1	0.18	1.0000
+GO:0098798	mitochondrial protein complex	274	1	0.33	1.0000
+GO:0031090	organelle membrane	2911	3	3.5	1.0000
+GO:0032991	protein-containing complex	3707	9	4.46	1.0000
+GO:0044445	cytosolic part	679	3	0.82	1.0000
+GO:0044446	intracellular organelle part	7759	12	9.33	1.0000
+GO:0005791	rough endoplasmic reticulum	12	1	0.01	1.0000
+GO:0042579	microbody	397	1	0.48	1.0000
+GO:0009505	plant-type cell wall	546	2	0.66	1.0000
+GO:0009898	cytoplasmic side of plasma membrane	118	1	0.14	1.0000
+GO:0012505	endomembrane system	3282	3	3.95	1.0000

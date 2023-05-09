@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0044815	DNA packaging complex	123	43	7.37	4.2e-22
+GO:0009534	chloroplast thylakoid	823	113	49.28	2.0e-13
+GO:0009523	photosystem II	91	25	5.45	7.9e-11
+GO:0009570	chloroplast stroma	1253	120	75.04	2.4e-07
+GO:0044454	nuclear chromosome part	197	32	11.8	1.5e-06
+GO:0009941	chloroplast envelope	1104	105	66.11	2.2e-06
+GO:0000792	heterochromatin	34	11	2.04	2.7e-06
+GO:0005874	microtubule	232	32	13.89	1.2e-05
+GO:0000779	condensed chromosome, centromeric region	27	9	1.62	1.7e-05
+GO:0009522	photosystem I	68	14	4.07	4.2e-05
+GO:0010598	NAD(P)H dehydrogenase complex (plastoqui...	18	7	1.08	4.8e-05
+GO:0005871	kinesin complex	55	11	3.29	0.00036
+GO:0005730	nucleolus	692	64	41.44	0.00054
+GO:0009524	phragmoplast	166	21	9.94	0.00097
+GO:0005819	spindle	113	16	6.77	0.00114
+GO:0009528	plastid inner membrane	140	17	8.38	0.00432
+GO:0043036	starch grain	8	3	0.48	0.00956
+GO:0005834	heterotrimeric G-protein complex	99	12	5.93	0.01520
+GO:0015934	large ribosomal subunit	351	31	21.02	0.02556
+GO:0030076	light-harvesting complex	43	7	2.58	0.02727
+GO:0009509	chromoplast	12	3	0.72	0.03138
+GO:0005732	small nucleolar ribonucleoprotein comple...	41	6	2.46	0.03405
+GO:0010369	chromocenter	22	4	1.32	0.03949
+GO:0000793	condensed chromosome	102	18	6.11	0.04194
+GO:0009574	preprophase band	23	4	1.38	0.04561
+GO:0009330	DNA topoisomerase complex (ATP-hydrolyzi...	6	2	0.36	0.04575
+GO:0033597	mitotic checkpoint complex	6	2	0.36	0.04575
+GO:0031977	thylakoid lumen	144	22	8.62	0.05407
+GO:0010007	magnesium chelatase complex	7	2	0.42	0.06154
+GO:0031261	DNA replication preinitiation complex	7	2	0.42	0.06154
+GO:0070531	BRCA1-A complex	7	2	0.42	0.06154
+GO:0000808	origin recognition complex	17	3	1.02	0.07777
+GO:0009526	plastid envelope	1146	110	68.63	0.08264
+GO:0000152	nuclear ubiquitin ligase complex	28	4	1.68	0.08355
+GO:0005840	ribosome	836	68	50.06	0.08614
+GO:0030312	external encapsulating structure	1389	95	83.18	0.09291
+GO:0032300	mismatch repair complex	9	2	0.54	0.09749
+GO:0005697	telomerase holoenzyme complex	9	2	0.54	0.09749
+GO:0042575	DNA polymerase complex	9	2	0.54	0.09749
+GO:0005763	mitochondrial small ribosomal subunit	19	3	1.14	0.10156
+GO:1902554	serine/threonine protein kinase complex	30	4	1.8	0.10198
+GO:0005875	microtubule associated complex	93	15	5.57	0.11134
+GO:0009579	thylakoid	952	125	57.01	0.11772
+GO:0005786	signal recognition particle, endoplasmic...	21	3	1.26	0.12784
+GO:0005911	cell-cell junction	1689	112	101.14	0.13783
+GO:0009898	cytoplasmic side of plasma membrane	118	14	7.07	0.15399
+GO:0000176	nuclear exosome (RNase complex)	12	2	0.72	0.15903
+GO:0045263	proton-transporting ATP synthase complex...	12	2	0.72	0.15903
+GO:0005785	signal recognition particle receptor com...	12	2	0.72	0.15903
+GO:0009536	plastid	6095	457	364.99	0.15967
+GO:0031226	intrinsic component of plasma membrane	510	36	30.54	0.17426
+GO:0030687	preribosome, large subunit precursor	13	2	0.78	0.18085
+GO:0031304	intrinsic component of mitochondrial inn...	39	4	2.34	0.20345
+GO:0031225	anchored component of membrane	319	23	19.1	0.20659
+GO:0044434	chloroplast part	2303	230	137.91	0.20816
+GO:0009986	cell surface	40	4	2.4	0.21618
+GO:0048046	apoplast	888	59	53.18	0.21997
+GO:0005885	Arp2/3 protein complex	15	2	0.9	0.22557
+GO:0019898	extrinsic component of membrane	208	21	12.46	0.24057
+GO:0015030	Cajal body	16	2	0.96	0.24824
+GO:0009517	PSII associated light-harvesting complex...	5	1	0.3	0.26566
+GO:0005854	nascent polypeptide-associated complex	5	1	0.3	0.26566
+GO:0035619	root hair tip	5	1	0.3	0.26566
+GO:0035101	FACT complex	5	1	0.3	0.26566
+GO:0098687	chromosomal region	119	17	7.13	0.26842
+GO:0048471	perinuclear region of cytoplasm	18	2	1.08	0.29367
+GO:0030124	AP-4 adaptor complex	6	1	0.36	0.30964
+GO:0005853	eukaryotic translation elongation factor...	6	1	0.36	0.30964
+GO:0034518	RNA cap binding complex	6	1	0.36	0.30964
+GO:0005618	cell wall	1389	95	83.18	0.32321
+GO:0009506	plasmodesma	1686	111	100.96	0.32625
+GO:0005887	integral component of plasma membrane	359	26	21.5	0.33190
+GO:0000159	protein phosphatase type 2A complex	20	2	1.2	0.33870
+GO:0055028	cortical microtubule	35	3	2.1	0.35001
+GO:0005960	glycine cleavage complex	7	1	0.42	0.35099
+GO:0000177	cytoplasmic exosome (RNase complex)	7	1	0.42	0.35099
+GO:0033588	Elongator holoenzyme complex	7	1	0.42	0.35099
+GO:0009507	chloroplast	6002	449	359.43	0.37626
+GO:0022625	cytosolic large ribosomal subunit	307	26	18.38	0.38096
+GO:0010319	stromule	92	9	5.51	0.38207
+GO:0005758	mitochondrial intermembrane space	22	2	1.32	0.38280
+GO:0031012	extracellular matrix	37	3	2.22	0.38326
+GO:0048188	Set1C/COMPASS complex	8	1	0.48	0.38987
+GO:1990726	Lsm1-7-Pat1 complex	8	1	0.48	0.38987
+GO:0005971	ribonucleoside-diphosphate reductase com...	8	1	0.48	0.38987
+GO:0042555	MCM complex	8	1	0.48	0.38987
+GO:0099513	polymeric cytoskeletal fiber	262	34	15.69	0.39371
+GO:0005634	nucleus	11883	737	711.61	0.39579
+GO:0055044	symplast	1686	111	100.96	0.39688
+GO:0019013	viral nucleocapsid	23	2	1.38	0.40438
+GO:0009527	plastid outer membrane	67	5	4.01	0.40649
+GO:0030054	cell junction	1689	112	101.14	0.42124
+GO:1905360	GTPase complex	99	12	5.93	0.42541
+GO:0009508	plastid chromosome	24	2	1.44	0.42559
+GO:0005815	microtubule organizing center	10	1	0.6	0.46077
+GO:0031463	Cul3-RING ubiquitin ligase complex	10	1	0.6	0.46077
+GO:0005856	cytoskeleton	525	52	31.44	0.46394
+GO:0015629	actin cytoskeleton	120	9	7.19	0.48671
+GO:0012511	monolayer-surrounded lipid storage body	11	1	0.66	0.49307
+GO:0032040	small-subunit processome	28	2	1.68	0.50615

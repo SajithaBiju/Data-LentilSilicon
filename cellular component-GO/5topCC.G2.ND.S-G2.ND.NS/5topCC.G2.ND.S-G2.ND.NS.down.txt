@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0022626	cytosolic ribosome	627	189	50.53	< 1e-30
+GO:0005730	nucleolus	692	162	55.76	< 1e-30
+GO:0030684	preribosome	52	26	4.19	2.0e-15
+GO:0005739	mitochondrion	3546	404	285.74	5.0e-13
+GO:0042646	plastid nucleoid	44	17	3.55	2.0e-08
+GO:0032993	protein-DNA complex	149	36	12.01	2.1e-08
+GO:0009507	chloroplast	6002	601	483.65	3.9e-08
+GO:0044454	nuclear chromosome part	197	39	15.87	2.8e-07
+GO:0005732	small nucleolar ribonucleoprotein comple...	41	15	3.3	3.2e-07
+GO:0009506	plasmodesma	1686	183	135.86	1.9e-05
+GO:0000792	heterochromatin	34	11	2.74	4.5e-05
+GO:0005840	ribosome	836	221	67.37	6.9e-05
+GO:0000808	origin recognition complex	17	7	1.37	0.00021
+GO:0019013	viral nucleocapsid	23	8	1.85	0.00029
+GO:0005666	RNA polymerase III complex	24	8	1.93	0.00040
+GO:0031970	organelle envelope lumen	25	8	2.01	0.00055
+GO:0000177	cytoplasmic exosome (RNase complex)	7	4	0.56	0.00121
+GO:0005686	U2 snRNP	8	4	0.64	0.00226
+GO:0032300	mismatch repair complex	9	4	0.73	0.00381
+GO:0005742	mitochondrial outer membrane translocase...	20	6	1.61	0.00393
+GO:0034719	SMN-Sm protein complex	5	3	0.4	0.00462
+GO:0015030	Cajal body	16	5	1.29	0.00695
+GO:0009543	chloroplast thylakoid lumen	103	16	8.3	0.00821
+GO:0005687	U4 snRNP	6	3	0.48	0.00868
+GO:0031225	anchored component of membrane	319	38	25.71	0.01009
+GO:0000176	nuclear exosome (RNase complex)	12	4	0.97	0.01230
+GO:0009579	thylakoid	952	97	76.71	0.01416
+GO:0044424	intracellular part	25254	2178	2035.02	0.01497
+GO:0005744	TIM23 mitochondrial import inner membran...	34	7	2.74	0.01702
+GO:0031012	extracellular matrix	37	7	2.98	0.02641
+GO:0009654	photosystem II oxygen evolving complex	22	5	1.77	0.02800
+GO:0005697	telomerase holoenzyme complex	9	3	0.73	0.03034
+GO:0005663	DNA replication factor C complex	9	3	0.73	0.03034
+GO:0005852	eukaryotic translation initiation factor...	16	4	1.29	0.03493
+GO:0005689	U12-type spliceosomal complex	10	3	0.81	0.04080
+GO:0009536	plastid	6095	614	491.15	0.04848
+GO:0005685	U1 snRNP	18	4	1.45	0.05168
+GO:0000418	RNA polymerase IV complex	18	4	1.45	0.05168
+GO:0031019	mitochondrial mRNA editing complex	5	2	0.4	0.05507
+GO:0005854	nascent polypeptide-associated complex	5	2	0.4	0.05507
+GO:0005853	eukaryotic translation elongation factor...	6	2	0.48	0.07827
+GO:0000781	chromosome, telomeric region	31	5	2.5	0.08358
+GO:0030312	external encapsulating structure	1389	125	111.93	0.09361
+GO:0071011	precatalytic spliceosome	22	4	1.77	0.09596
+GO:0005665	RNA polymerase II, core complex	22	4	1.77	0.09596
+GO:0005682	U5 snRNP	14	3	1.13	0.09742
+GO:0097526	spliceosomal tri-snRNP complex	31	5	2.5	0.09987
+GO:0005782	peroxisomal matrix	7	2	0.56	0.10387
+GO:0015934	large ribosomal subunit	351	103	28.28	0.12622
+GO:0005622	intracellular	25291	2179	2038.01	0.12668
+GO:0005971	ribonucleoside-diphosphate reductase com...	8	2	0.64	0.13132
+GO:0005743	mitochondrial inner membrane	419	43	33.76	0.13173
+GO:1990351	transporter complex	32	4	2.58	0.15262
+GO:0000243	commitment complex	10	2	0.81	0.19002
+GO:0071010	prespliceosome	19	3	1.53	0.19365
+GO:0071013	catalytic step 2 spliceosome	29	4	2.34	0.20213
+GO:0012511	monolayer-surrounded lipid storage body	11	2	0.89	0.22051
+GO:0005911	cell-cell junction	1689	183	136.1	0.23601
+GO:0046930	pore complex	21	3	1.69	0.23702
+GO:0000795	synaptonemal complex	12	2	0.97	0.25135
+GO:0010369	chromocenter	22	3	1.77	0.25930
+GO:0005741	mitochondrial outer membrane	87	12	7.01	0.26603
+GO:0005688	U6 snRNP	13	2	1.05	0.28228
+GO:0031359	integral component of chloroplast outer ...	13	2	1.05	0.28228
+GO:0030532	small nuclear ribonucleoprotein complex	50	8	4.03	0.28510
+GO:0031461	cullin-RING ubiquitin ligase complex	242	22	19.5	0.30885
+GO:0005773	vacuole	2126	177	171.32	0.31975
+GO:0005618	cell wall	1389	125	111.93	0.32016
+GO:0016607	nuclear speck	115	11	9.27	0.32200
+GO:0055044	symplast	1686	183	135.86	0.32849
+GO:0009517	PSII associated light-harvesting complex...	5	1	0.4	0.34302
+GO:0000126	transcription factor TFIIIB complex	5	1	0.4	0.34302
+GO:0035619	root hair tip	5	1	0.4	0.34302
+GO:0030286	dynein complex	5	1	0.4	0.34302
+GO:0031515	tRNA (m1A) methyltransferase complex	5	1	0.4	0.34302
+GO:0031977	thylakoid lumen	144	20	11.6	0.35815
+GO:0009526	plastid envelope	1146	96	92.35	0.39560
+GO:0008278	cohesin complex	6	1	0.48	0.39597
+GO:0044611	nuclear pore inner ring	6	1	0.48	0.39597
+GO:0030093	chloroplast photosystem I	6	1	0.48	0.39597
+GO:0031361	integral component of thylakoid membrane	6	1	0.48	0.39597
+GO:0009532	plastid stroma	1286	128	103.63	0.39892
+GO:0009295	nucleoid	96	22	7.74	0.40515
+GO:0005829	cytosol	3633	422	292.76	0.41958
+GO:0005759	mitochondrial matrix	166	15	13.38	0.42349
+GO:0044464	cell part	28265	2344	2277.66	0.42591
+GO:0048471	perinuclear region of cytoplasm	18	2	1.45	0.43191
+GO:0005681	spliceosomal complex	123	11	9.91	0.44119
+GO:0005960	glycine cleavage complex	7	1	0.56	0.44465
+GO:1990316	Atg1/ULK1 kinase complex	7	1	0.56	0.44465
+GO:0036513	Derlin-1 retrotranslocation complex	7	1	0.56	0.44465
+GO:0070531	BRCA1-A complex	7	1	0.56	0.44465
+GO:0072686	mitotic spindle	19	2	1.53	0.45994
+GO:0016592	mediator complex	56	5	4.51	0.47443
+GO:0090568	nuclear transcriptional repressor comple...	32	3	2.58	0.48238
+GO:0005623	cell	28265	2344	2277.66	0.48744
+GO:0000220	vacuolar proton-transporting V-type ATPa...	8	1	0.64	0.48941
+GO:0048188	Set1C/COMPASS complex	8	1	0.64	0.48941
+GO:1990726	Lsm1-7-Pat1 complex	8	1	0.64	0.48941
+GO:0043036	starch grain	8	1	0.64	0.48941
