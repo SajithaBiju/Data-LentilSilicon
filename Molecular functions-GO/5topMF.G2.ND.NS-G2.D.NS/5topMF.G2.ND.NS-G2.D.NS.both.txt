@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0003700	DNA-binding transcription factor activit...	2186	534	421.61	6.7e-10
+GO:0003677	DNA binding	3131	731	603.88	4.1e-09
+GO:0004674	protein serine/threonine kinase activity	1283	320	247.45	2.1e-07
+GO:0042562	hormone binding	28	15	5.4	5.4e-05
+GO:0004805	trehalose-phosphatase activity	13	9	2.51	0.00012
+GO:0015171	amino acid transmembrane transporter act...	219	63	42.24	0.00024
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	5	0.96	0.00027
+GO:0045543	gibberellin 2-beta-dioxygenase activity	12	8	2.31	0.00045
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	47	29.51	0.00047
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	47	29.51	0.00047
+GO:0016413	O-acetyltransferase activity	90	31	17.36	0.00050
+GO:0043178	alcohol binding	10	7	1.93	0.00068
+GO:0016762	xyloglucan:xyloglucosyl transferase acti...	38	16	7.33	0.00103
+GO:0005034	osmosensor activity	16	9	3.09	0.00112
+GO:0003688	DNA replication origin binding	19	10	3.66	0.00117
+GO:1901682	sulfur compound transmembrane transporte...	49	19	9.45	0.00121
+GO:0016709	oxidoreductase activity, acting on paire...	237	65	45.71	0.00141
+GO:0003777	microtubule motor activity	124	38	23.92	0.00163
+GO:0050734	hydroxycinnamoyltransferase activity	26	10	5.01	0.00187
+GO:0016621	cinnamoyl-CoA reductase activity	9	6	1.74	0.00252
+GO:0005102	signaling receptor binding	67	23	12.92	0.00265
+GO:0016682	oxidoreductase activity, acting on diphe...	56	20	10.8	0.00290
+GO:0046423	allene-oxide cyclase activity	7	5	1.35	0.00395
+GO:0016645	oxidoreductase activity, acting on the C...	46	16	8.87	0.00557
+GO:1901618	organic hydroxy compound transmembrane t...	41	15	7.91	0.00665
+GO:0019207	kinase regulator activity	92	28	17.74	0.00850
+GO:0003988	acetyl-CoA C-acyltransferase activity	8	5	1.54	0.00885
+GO:0090353	polygalacturonase inhibitor activity	8	5	1.54	0.00885
+GO:0016841	ammonia-lyase activity	8	5	1.54	0.00885
+GO:0020037	heme binding	481	114	92.77	0.00899
+GO:0003910	DNA ligase (ATP) activity	11	6	2.12	0.00970
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	6	2.12	0.00970
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	6	2.12	0.00970
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	6	2.12	0.00970
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	6	2.12	0.00970
+GO:0019825	oxygen binding	312	77	60.18	0.01079
+GO:0004867	serine-type endopeptidase inhibitor acti...	15	7	2.89	0.01482
+GO:0047987	hydroperoxide dehydratase activity	6	4	1.16	0.01486
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	4	1.16	0.01486
+GO:0009978	allene oxide synthase activity	6	4	1.16	0.01486
+GO:0009884	cytokinin receptor activity	12	6	2.31	0.01627
+GO:0015271	outward rectifier potassium channel acti...	12	6	2.31	0.01627
+GO:0015293	symporter activity	410	94	79.08	0.02016
+GO:0080054	low-affinity nitrate transmembrane trans...	16	7	3.09	0.02204
+GO:0030515	snoRNA binding	16	7	3.09	0.02204
+GO:0000155	phosphorelay sensor kinase activity	42	14	8.1	0.02217
+GO:0008194	UDP-glycosyltransferase activity	426	121	82.16	0.02458
+GO:0016629	12-oxophytodienoate reductase activity	20	8	3.86	0.02622
+GO:0005267	potassium channel activity	57	20	10.99	0.02704
+GO:0031683	G-protein beta/gamma-subunit complex bin...	10	5	1.93	0.02829
+GO:0046715	active borate transmembrane transporter ...	10	5	1.93	0.02829
+GO:0016856	racemase and epimerase activity, acting ...	10	5	1.93	0.02829
+GO:0004165	dodecenoyl-CoA delta-isomerase activity	10	5	1.93	0.02829
+GO:0042282	hydroxymethylglutaryl-CoA reductase acti...	7	4	1.35	0.02940
+GO:0004420	hydroxymethylglutaryl-CoA reductase (NAD...	7	4	1.35	0.02940
+GO:0052793	pectin acetylesterase activity	7	4	1.35	0.02940
+GO:0080046	quercetin 4'-O-glucosyltransferase activ...	17	7	3.28	0.03136
+GO:0003714	transcription corepressor activity	32	11	6.17	0.03224
+GO:0019199	transmembrane receptor protein kinase ac...	202	50	38.96	0.03243
+GO:0015431	glutathione S-conjugate-exporting ATPase...	14	6	2.7	0.03728
+GO:0010290	chlorophyll catabolite transmembrane tra...	14	6	2.7	0.03728
+GO:0030551	cyclic nucleotide binding	49	15	9.45	0.03894
+GO:0016701	oxidoreductase activity, acting on singl...	81	23	15.62	0.04291
+GO:0051538	3 iron, 4 sulfur cluster binding	11	5	2.12	0.04377
+GO:0008199	ferric iron binding	11	5	2.12	0.04377
+GO:0004322	ferroxidase activity	11	5	2.12	0.04377
+GO:0050403	trans-zeatin O-beta-D-glucosyltransferas...	11	5	2.12	0.04377
+GO:0050502	cis-zeatin O-beta-D-glucosyltransferase ...	11	5	2.12	0.04377
+GO:0008422	beta-glucosidase activity	120	31	23.14	0.04770
+GO:0010428	methyl-CpNpG binding	8	4	1.54	0.04995
+GO:0010429	methyl-CpNpN binding	8	4	1.54	0.04995
+GO:0004864	protein phosphatase inhibitor activity	15	6	2.89	0.05225
+GO:0017022	myosin binding	10	4	1.93	0.05257
+GO:0042389	omega-3 fatty acid desaturase activity	5	3	0.96	0.05257
+GO:0016756	glutathione gamma-glutamylcysteinyltrans...	5	3	0.96	0.05257
+GO:0004383	guanylate cyclase activity	5	3	0.96	0.05257
+GO:0001077	proximal promoter DNA-binding transcript...	5	3	0.96	0.05257
+GO:0005354	galactose transmembrane transporter acti...	19	7	3.66	0.05706
+GO:0140102	catalytic activity, acting on a rRNA	19	7	3.66	0.05706
+GO:0015101	organic cation transmembrane transporter...	23	8	4.44	0.05956
+GO:0038023	signaling receptor activity	296	78	57.09	0.06109
+GO:0046982	protein heterodimerization activity	234	55	45.13	0.06209
+GO:0070008	serine-type exopeptidase activity	78	21	15.04	0.06262
+GO:0004144	diacylglycerol O-acyltransferase activit...	12	5	2.31	0.06342
+GO:0050505	hydroquinone glucosyltransferase activit...	12	5	2.31	0.06342
+GO:0016847	1-aminocyclopropane-1-carboxylate syntha...	12	5	2.31	0.06342
+GO:0030246	carbohydrate binding	403	90	77.73	0.06906
+GO:0043130	ubiquitin binding	32	10	6.17	0.07342
+GO:0005506	iron ion binding	419	95	80.81	0.07603
+GO:0000993	RNA polymerase II complex binding	9	4	1.74	0.07648
+GO:0010385	double-stranded methylated DNA binding	9	4	1.74	0.07648
+GO:0016229	steroid dehydrogenase activity	20	7	3.86	0.08717
+GO:0009927	histidine phosphotransfer kinase activit...	13	5	2.51	0.08721
+GO:0004364	glutathione transferase activity	72	19	13.89	0.08729
+GO:0080161	auxin transmembrane transporter activity	81	21	15.62	0.08775
+GO:0004607	phosphatidylcholine-sterol O-acyltransfe...	6	3	1.16	0.09029
+GO:0005275	amine transmembrane transporter activity	6	3	1.16	0.09029
+GO:0047202	sinapoylglucose-choline O-sinapoyltransf...	6	3	1.16	0.09029
+GO:0004014	adenosylmethionine decarboxylase activit...	6	3	1.16	0.09029
+GO:0008017	microtubule binding	169	40	32.59	0.09074

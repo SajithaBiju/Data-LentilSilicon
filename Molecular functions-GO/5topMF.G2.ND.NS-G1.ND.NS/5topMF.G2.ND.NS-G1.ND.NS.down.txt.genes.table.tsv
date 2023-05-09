@@ -1,0 +1,332 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value	nc	Genes
+GO:0000182	rDNA binding	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03447.1
+GO:0000293	ferric-chelate reductase activity	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29911.1
+GO:0000822	inositol hexakisphosphate binding	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19113.1
+GO:0001077	proximal promoter DNA-binding transcript...	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09190.1
+GO:0003725	double-stranded RNA binding	27	2	0.62	0.12806	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10390.1
+GO:0003725	double-stranded RNA binding	27	2	0.62	0.12806	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07593.1
+GO:0003837	beta-ureidopropionase activity	9	2	0.21	0.01720	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28479.1
+GO:0003837	beta-ureidopropionase activity	9	2	0.21	0.01720	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34718.1
+GO:0003968	RNA-directed 5'-3' RNA polymerase activi...	8	2	0.18	0.01359	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13621.1
+GO:0003968	RNA-directed 5'-3' RNA polymerase activi...	8	2	0.18	0.01359	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03889.1
+GO:0003985	acetyl-CoA C-acetyltransferase activity	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29537.1
+GO:0003989	acetyl-CoA carboxylase activity	12	2	0.28	0.03013	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08548.1
+GO:0003989	acetyl-CoA carboxylase activity	12	2	0.28	0.03013	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38229.1
+GO:0004072	aspartate kinase activity	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04554.1
+GO:0004301	epoxide hydrolase activity	26	2	0.6	0.12034	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27579.1
+GO:0004301	epoxide hydrolase activity	26	2	0.6	0.12034	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05957.1
+GO:0004367	glycerol-3-phosphate dehydrogenase [NAD+...	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27190.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	1	0.21	0.18960	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13652.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05912.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18753.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18615.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22468.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc35132.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17293.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07184.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08017.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04167.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10282.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31781.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26775.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26292.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc12727.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16128.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25549.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22302.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01390.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03818.1
+GO:0004518	nuclease activity	536	20	12.37	0.03908	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18828.1
+GO:0004534	5'-3' exoribonuclease activity	6	2	0.14	0.00750	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17293.1
+GO:0004534	5'-3' exoribonuclease activity	6	2	0.14	0.00750	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22302.1
+GO:0004575	sucrose alpha-glucosidase activity	17	2	0.39	0.05757	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04795.1
+GO:0004575	sucrose alpha-glucosidase activity	17	2	0.39	0.05757	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31476.1
+GO:0004614	phosphoglucomutase activity	10	3	0.23	0.00130	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28228.1
+GO:0004614	phosphoglucomutase activity	10	3	0.23	0.00130	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc21909.1
+GO:0004614	phosphoglucomutase activity	10	3	0.23	0.00130	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17187.1
+GO:0004650	polygalacturonase activity	117	5	2.7	0.13455	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18629.1
+GO:0004650	polygalacturonase activity	117	5	2.7	0.13455	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25020.1
+GO:0004650	polygalacturonase activity	117	5	2.7	0.13455	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24397.1
+GO:0004650	polygalacturonase activity	117	5	2.7	0.13455	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06899.1
+GO:0004650	polygalacturonase activity	117	5	2.7	0.13455	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08823.1
+GO:0004664	prephenate dehydratase activity	9	1	0.21	0.18960	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29755.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	4	1.87	0.11768	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07717.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	4	1.87	0.11768	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00074.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	4	1.87	0.11768	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09389.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	4	1.87	0.11768	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23240.1
+GO:0004801	sedoheptulose-7-phosphate:D-glyceraldehy...	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc15432.1
+GO:0004828	serine-tRNA ligase activity	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27391.1
+GO:0004834	tryptophan synthase activity	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34958.1
+GO:0004843	thiol-dependent ubiquitin-specific prote...	59	4	1.36	0.04729	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05300.1
+GO:0004843	thiol-dependent ubiquitin-specific prote...	59	4	1.36	0.04729	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19915.1
+GO:0004843	thiol-dependent ubiquitin-specific prote...	59	4	1.36	0.04729	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34934.1
+GO:0004843	thiol-dependent ubiquitin-specific prote...	59	4	1.36	0.04729	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26037.1
+GO:0005249	voltage-gated potassium channel activity	53	4	1.22	0.03384	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06272.1
+GO:0005249	voltage-gated potassium channel activity	53	4	1.22	0.03384	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02986.1
+GO:0005249	voltage-gated potassium channel activity	53	4	1.22	0.03384	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04740.1
+GO:0005249	voltage-gated potassium channel activity	53	4	1.22	0.03384	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24310.1
+GO:0005275	amine transmembrane transporter activity	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30952.1
+GO:0005536	glucose binding	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23089.1
+GO:0008106	alcohol dehydrogenase (NADP+) activity	22	3	0.51	0.01360	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19251.1
+GO:0008106	alcohol dehydrogenase (NADP+) activity	22	3	0.51	0.01360	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26737.1
+GO:0008106	alcohol dehydrogenase (NADP+) activity	22	3	0.51	0.01360	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27266.1
+GO:0008142	oxysterol binding	24	2	0.55	0.10526	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25287.1
+GO:0008142	oxysterol binding	24	2	0.55	0.10526	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25684.1
+GO:0008184	glycogen phosphorylase activity	5	2	0.12	0.00508	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18771.1
+GO:0008184	glycogen phosphorylase activity	5	2	0.12	0.00508	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14683.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc33547.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc21952.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07029.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04951.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04643.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17293.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05912.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10954.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20547.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20277.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05112.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17946.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03818.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38261.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02205.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07750.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20254.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02431.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29021.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36864.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17248.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11272.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04465.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc32925.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23850.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16890.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01475.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28542.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc33085.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00463.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31084.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13118.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26292.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11892.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03447.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27108.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31108.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23254.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30699.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22302.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34222.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01668.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18753.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01058.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23767.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23672.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07954.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31781.1
+GO:0008270	zinc ion binding	1310	49	30.24	0.00068	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17947.1
+GO:0008430	selenium binding	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25981.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10819.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30952.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10642.1
+GO:0008574	ATP-dependent microtubule motor activity...	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23417.1
+GO:0008891	glycolate oxidase activity	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11286.1
+GO:0008891	glycolate oxidase activity	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14708.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06334.1
+GO:0009374	biotin binding	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08548.1
+GO:0009672	auxin:proton symporter activity	31	2	0.72	0.16001	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc33616.1
+GO:0009672	auxin:proton symporter activity	31	2	0.72	0.16001	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc21758.1
+GO:0010011	auxin binding	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19113.1
+GO:0010328	auxin influx transmembrane transporter a...	23	3	0.53	0.01538	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28182.1
+GO:0010328	auxin influx transmembrane transporter a...	23	3	0.53	0.01538	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc35447.1
+GO:0010328	auxin influx transmembrane transporter a...	23	3	0.53	0.01538	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06012.1
+GO:0010997	anaphase-promoting complex binding	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19450.1
+GO:0015101	organic cation transmembrane transporter...	23	2	0.53	0.09792	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30952.1
+GO:0015101	organic cation transmembrane transporter...	23	2	0.53	0.09792	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10642.1
+GO:0015166	polyol transmembrane transporter activit...	26	2	0.6	0.12034	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13651.1
+GO:0015166	polyol transmembrane transporter activit...	26	2	0.6	0.12034	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10642.1
+GO:0015204	urea transmembrane transporter activity	12	2	0.28	0.03013	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30952.1
+GO:0015204	urea transmembrane transporter activity	12	2	0.28	0.03013	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13651.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06520.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05186.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02349.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18596.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36451.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28365.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07360.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08110.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08685.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16347.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05701.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc21442.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13651.1
+GO:0015238	drug transmembrane transporter activity	244	14	5.63	0.00172	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc15417.1
+GO:0015334	high-affinity oligopeptide transmembrane...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04603.1
+GO:0015334	high-affinity oligopeptide transmembrane...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14694.1
+GO:0015578	mannose transmembrane transporter activi...	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16933.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06090.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07833.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36614.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10083.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30851.1
+GO:0015662	ATPase activity, coupled to transmembran...	107	6	2.47	0.03784	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22221.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30888.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06244.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28887.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09628.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14402.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07632.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22280.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30890.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17211.1
+GO:0015925	galactosidase activity	63	10	1.45	1.7e-06	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc03126.1
+GO:0016161	beta-amylase activity	15	3	0.35	0.00453	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04787.1
+GO:0016161	beta-amylase activity	15	3	0.35	0.00453	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22952.1
+GO:0016161	beta-amylase activity	15	3	0.35	0.00453	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc32673.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38565.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05116.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38567.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19938.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14638.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05118.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20139.1
+GO:0016168	chlorophyll binding	74	8	1.71	0.00030	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34659.1
+GO:0016229	steroid dehydrogenase activity	20	2	0.46	0.07690	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19251.1
+GO:0016229	steroid dehydrogenase activity	20	2	0.46	0.07690	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27266.1
+GO:0016711	flavonoid 3'-monooxygenase activity	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31183.1
+GO:0016711	flavonoid 3'-monooxygenase activity	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc37747.1
+GO:0017110	nucleoside-diphosphatase activity	7	3	0.16	0.00040	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc35787.1
+GO:0017110	nucleoside-diphosphatase activity	7	3	0.16	0.00040	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24713.1
+GO:0017110	nucleoside-diphosphatase activity	7	3	0.16	0.00040	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08001.1
+GO:0017172	cysteine dioxygenase activity	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09688.1
+GO:0019158	mannokinase activity	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23089.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08144.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34740.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11293.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17756.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31481.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20715.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc21582.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14752.1
+GO:0019199	transmembrane receptor protein kinase ac...	202	9	4.66	0.04566	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18372.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10083.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36614.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30851.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06090.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26792.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07833.1
+GO:0019829	cation-transporting ATPase activity	154	7	3.56	0.06680	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05112.1
+GO:0022841	potassium ion leak channel activity	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02986.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc35772.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24162.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01172.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14683.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36864.1
+GO:0030170	pyridoxal phosphate binding	134	6	3.09	0.09075	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18771.1
+GO:0030551	cyclic nucleotide binding	49	3	1.13	0.10366	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06272.1
+GO:0030551	cyclic nucleotide binding	49	3	1.13	0.10366	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04740.1
+GO:0030551	cyclic nucleotide binding	49	3	1.13	0.10366	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24310.1
+GO:0042937	tripeptide transmembrane transporter act...	26	4	0.6	0.00281	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14694.1
+GO:0042937	tripeptide transmembrane transporter act...	26	4	0.6	0.00281	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19014.1
+GO:0042937	tripeptide transmembrane transporter act...	26	4	0.6	0.00281	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28340.1
+GO:0042937	tripeptide transmembrane transporter act...	26	4	0.6	0.00281	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04603.1
+GO:0043424	protein histidine kinase binding	53	3	1.22	0.12346	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28779.1
+GO:0043424	protein histidine kinase binding	53	3	1.22	0.12346	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09971.1
+GO:0043424	protein histidine kinase binding	53	3	1.22	0.12346	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13155.1
+GO:0045156	electron transporter, transferring elect...	21	4	0.48	0.00123	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34659.1
+GO:0045156	electron transporter, transferring elect...	21	4	0.48	0.00123	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38565.1
+GO:0045156	electron transporter, transferring elect...	21	4	0.48	0.00123	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19938.1
+GO:0045156	electron transporter, transferring elect...	21	4	0.48	0.00123	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05116.1
+GO:0045544	gibberellin 20-oxidase activity	9	2	0.21	0.01720	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10961.1
+GO:0045544	gibberellin 20-oxidase activity	9	2	0.21	0.01720	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04046.1
+GO:0045549	9-cis-epoxycarotenoid dioxygenase activi...	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19053.1
+GO:0046915	transition metal ion transmembrane trans...	95	4	2.19	0.17714	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30574.1
+GO:0046915	transition metal ion transmembrane trans...	95	4	2.19	0.17714	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc30107.1
+GO:0046915	transition metal ion transmembrane trans...	95	4	2.19	0.17714	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10083.1
+GO:0046915	transition metal ion transmembrane trans...	95	4	2.19	0.17714	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc13685.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06848.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17713.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16337.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11058.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24626.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc08144.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24308.1
+GO:0046982	protein heterodimerization activity	234	8	5.4	0.17550	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18773.1
+GO:0047202	sinapoylglucose-choline O-sinapoyltransf...	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10811.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04823.1
+GO:0047769	arogenate dehydratase activity	9	1	0.21	0.18960	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29755.1
+GO:0047911	galacturan 1,4-alpha-galacturonidase act...	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06899.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	3	0.6	0.03500	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10896.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	3	0.6	0.03500	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26069.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	3	0.6	0.03500	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc15103.1
+GO:0050897	cobalt ion binding	62	4	1.43	0.05497	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36864.1
+GO:0050897	cobalt ion binding	62	4	1.43	0.05497	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34854.1
+GO:0050897	cobalt ion binding	62	4	1.43	0.05497	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc34222.1
+GO:0050897	cobalt ion binding	62	4	1.43	0.05497	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29021.1
+GO:0051184	cofactor transmembrane transporter activ...	27	3	0.62	0.02374	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31897.1
+GO:0051184	cofactor transmembrane transporter activ...	27	3	0.62	0.02374	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28480.1
+GO:0051184	cofactor transmembrane transporter activ...	27	3	0.62	0.02374	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28365.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc02001.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27709.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20139.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00533.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38567.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14638.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05118.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc05360.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc20459.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22925.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00624.1
+GO:0051536	iron-sulfur cluster binding	249	12	5.75	0.01351	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28779.1
+GO:0052634	C-19 gibberellin 2-beta-dioxygenase acti...	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16768.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc09630.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27649.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc23170.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22019.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc25793.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26898.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00878.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc31998.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc32000.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc32105.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10287.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc17214.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06158.1
+GO:0052689	carboxylic ester hydrolase activity	425	14	9.81	0.17743	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22250.1
+GO:0052852	very-long-chain-(S)-2-hydroxy-acid oxida...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14708.1
+GO:0052852	very-long-chain-(S)-2-hydroxy-acid oxida...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11286.1
+GO:0052853	long-chain-(S)-2-hydroxy-long-chain-acid...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14708.1
+GO:0052853	long-chain-(S)-2-hydroxy-long-chain-acid...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11286.1
+GO:0052854	medium-chain-(S)-2-hydroxy-acid oxidase ...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc11286.1
+GO:0052854	medium-chain-(S)-2-hydroxy-acid oxidase ...	10	2	0.23	0.02118	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14708.1
+GO:0052861	glucan endo-1,3-beta-glucanase activity,...	9	1	0.21	0.18960	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06679.1
+GO:0055055	D-glucose:proton symporter activity	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc16933.1
+GO:0070401	NADP+ binding	8	2	0.18	0.01359	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19251.1
+GO:0070401	NADP+ binding	8	2	0.18	0.01359	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27266.1
+GO:0070696	transmembrane receptor protein serine/th...	16	2	0.37	0.05157	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc27353.1
+GO:0070696	transmembrane receptor protein serine/th...	16	2	0.37	0.05157	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc36688.1
+GO:0071949	FAD binding	16	2	0.37	0.05157	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc29256.1
+GO:0071949	FAD binding	16	2	0.37	0.05157	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc01308.1
+GO:0080031	methyl salicylate esterase activity	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22019.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26069.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10896.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26069.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10896.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10896.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26069.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc10896.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	2	0.25	0.02549	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc26069.1
+GO:0080131	hydroxyjasmonate sulfotransferase activi...	5	1	0.12	0.11023	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc38906.1
+GO:0090482	vitamin transmembrane transporter activi...	18	2	0.42	0.06380	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28365.1
+GO:0090482	vitamin transmembrane transporter activi...	18	2	0.42	0.06380	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc28480.1
+GO:0097027	ubiquitin-protein transferase activator ...	7	1	0.16	0.15084	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc19450.1
+GO:0099094	ligand-gated cation channel activity	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc06272.1
+GO:0099094	ligand-gated cation channel activity	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04740.1
+GO:0099094	ligand-gated cation channel activity	17	3	0.39	0.00654	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24310.1
+GO:0102229	amylopectin maltohydrolase activity	14	3	0.32	0.00369	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc22952.1
+GO:0102229	amylopectin maltohydrolase activity	14	3	0.32	0.00369	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc04787.1
+GO:0102229	amylopectin maltohydrolase activity	14	3	0.32	0.00369	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc32673.1
+GO:0102490	8-oxo-dGTP phosphohydrolase activity	8	1	0.18	0.17045	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc24713.1
+GO:0102499	SHG alpha-glucan phosphorylase activity	5	2	0.12	0.00508	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc14683.1
+GO:0102499	SHG alpha-glucan phosphorylase activity	5	2	0.12	0.00508	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc18771.1
+GO:1990136	linoleate 9S-lipoxygenase activity	24	2	0.55	0.10526	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc07065.1
+GO:1990136	linoleate 9S-lipoxygenase activity	24	2	0.55	0.10526	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc37643.1
+GO:1990137	plant seed peroxidase activity	6	1	0.14	0.13077	5topMF.G2.ND.NS-G1.ND.NS.down.txt	Lc00769.1

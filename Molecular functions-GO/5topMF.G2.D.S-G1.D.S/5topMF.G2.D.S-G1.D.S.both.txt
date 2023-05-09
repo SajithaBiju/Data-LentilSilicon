@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0051213	dioxygenase activity	224	87	53.05	2.8e-08
+GO:0016705	oxidoreductase activity, acting on paire...	533	178	126.22	6.4e-08
+GO:0004672	protein kinase activity	1452	425	343.86	1.2e-07
+GO:0004805	trehalose-phosphatase activity	13	12	3.08	3.1e-07
+GO:0035251	UDP-glucosyltransferase activity	269	98	63.7	1.7e-06
+GO:0015103	inorganic anion transmembrane transporte...	197	75	46.65	3.1e-06
+GO:0043531	ADP binding	330	113	78.15	8.5e-06
+GO:0030246	carbohydrate binding	403	132	95.44	1.9e-05
+GO:1901682	sulfur compound transmembrane transporte...	49	25	11.6	3.0e-05
+GO:0019825	oxygen binding	312	105	73.89	3.9e-05
+GO:0016701	oxidoreductase activity, acting on singl...	81	36	19.18	0.00012
+GO:0005506	iron ion binding	419	132	99.23	0.00014
+GO:0005267	potassium channel activity	57	26	13.5	0.00023
+GO:0048037	cofactor binding	1512	424	358.07	0.00050
+GO:0015205	nucleobase transmembrane transporter act...	26	15	6.16	0.00055
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	19	9.24	0.00057
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	19	9.24	0.00057
+GO:0015238	drug transmembrane transporter activity	244	82	57.78	0.00065
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	5	1.18	0.00074
+GO:1901618	organic hydroxy compound transmembrane t...	41	20	9.71	0.00081
+GO:0016160	amylase activity	32	16	7.58	0.00108
+GO:0004364	glutathione transferase activity	72	29	17.05	0.00128
+GO:0015431	glutathione S-conjugate-exporting ATPase...	14	9	3.32	0.00142
+GO:0010290	chlorophyll catabolite transmembrane tra...	14	9	3.32	0.00142
+GO:0046906	tetrapyrrole binding	557	162	131.91	0.00175
+GO:0015204	urea transmembrane transporter activity	12	8	2.84	0.00191
+GO:0030551	cyclic nucleotide binding	49	21	11.6	0.00235
+GO:0035673	oligopeptide transmembrane transporter a...	37	17	8.76	0.00245
+GO:0016679	oxidoreductase activity, acting on diphe...	67	26	15.87	0.00263
+GO:0008574	ATP-dependent microtubule motor activity...	8	6	1.89	0.00314
+GO:0016420	malonyltransferase activity	8	6	1.89	0.00314
+GO:0016628	oxidoreductase activity, acting on the C...	63	25	14.92	0.00340
+GO:0003913	DNA photolyase activity	6	5	1.42	0.00358
+GO:0047202	sinapoylglucose-choline O-sinapoyltransf...	6	5	1.42	0.00358
+GO:0071949	FAD binding	16	9	3.79	0.00508
+GO:0015171	amino acid transmembrane transporter act...	219	70	51.86	0.00584
+GO:0008144	drug binding	4085	1052	967.39	0.00620
+GO:0015140	malate transmembrane transporter activit...	22	11	5.21	0.00647
+GO:0016843	amine-lyase activity	14	8	3.32	0.00728
+GO:0015926	glucosidase activity	140	46	33.15	0.00847
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	5	1.66	0.01009
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	5	1.66	0.01009
+GO:0045548	phenylalanine ammonia-lyase activity	7	5	1.66	0.01009
+GO:0004576	oligosaccharyl transferase activity	12	7	2.84	0.01046
+GO:0004867	serine-type endopeptidase inhibitor acti...	15	8	3.55	0.01239
+GO:0080031	methyl salicylate esterase activity	5	4	1.18	0.01274
+GO:0015301	anion:anion antiporter activity	33	14	7.81	0.01331
+GO:0043178	alcohol binding	10	6	2.37	0.01506
+GO:0140102	catalytic activity, acting on a rRNA	19	9	4.5	0.02040
+GO:0070401	NADP+ binding	8	5	1.89	0.02167
+GO:0004645	phosphorylase activity	8	5	1.89	0.02167
+GO:0019202	amino acid kinase activity	8	5	1.89	0.02167
+GO:0016987	sigma factor activity	8	5	1.89	0.02167
+GO:0052736	beta-glucanase activity	11	6	2.6	0.02656
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	6	2.6	0.02656
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	6	2.6	0.02656
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	6	2.6	0.02656
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	6	2.6	0.02656
+GO:0010277	chlorophyllide a oxygenase [overall] act...	11	6	2.6	0.02656
+GO:0016899	oxidoreductase activity, acting on the C...	23	10	5.45	0.02866
+GO:0050734	hydroxycinnamoyltransferase activity	26	10	6.16	0.02888
+GO:0102229	amylopectin maltohydrolase activity	14	7	3.32	0.02888
+GO:0008519	ammonium transmembrane transporter activ...	17	8	4.03	0.02964
+GO:0005047	signal recognition particle binding	17	8	4.03	0.02964
+GO:0015229	L-ascorbic acid transmembrane transporte...	6	4	1.42	0.03105
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	4	1.42	0.03105
+GO:0080116	glucuronoxylan glucuronosyltransferase a...	6	4	1.42	0.03105
+GO:0010279	indole-3-acetic acid amido synthetase ac...	6	4	1.42	0.03105
+GO:0004014	adenosylmethionine decarboxylase activit...	6	4	1.42	0.03105
+GO:0051537	2 iron, 2 sulfur cluster binding	92	30	21.79	0.03225
+GO:0016621	cinnamoyl-CoA reductase activity	9	5	2.13	0.03935
+GO:0008878	glucose-1-phosphate adenylyltransferase ...	9	5	2.13	0.03935
+GO:0016851	magnesium chelatase activity	9	5	2.13	0.03935
+GO:0080030	methyl indole-3-acetate esterase activit...	9	5	2.13	0.03935
+GO:0080032	methyl jasmonate esterase activity	9	5	2.13	0.03935
+GO:0001047	core promoter binding	44	16	10.42	0.04014
+GO:0003777	microtubule motor activity	124	42	29.37	0.04206
+GO:0004144	diacylglycerol O-acyltransferase activit...	12	6	2.84	0.04265
+GO:0004864	protein phosphatase inhibitor activity	15	7	3.55	0.04331
+GO:0031409	pigment binding	28	11	6.63	0.04796
+GO:0008106	alcohol dehydrogenase (NADP+) activity	22	9	5.21	0.05515
+GO:0004462	lactoylglutathione lyase activity	22	9	5.21	0.05515
+GO:0005354	galactose transmembrane transporter acti...	19	8	4.5	0.05862
+GO:0016755	transferase activity, transferring amino...	7	4	1.66	0.05900
+GO:0004828	serine-tRNA ligase activity	7	4	1.66	0.05900
+GO:0097027	ubiquitin-protein transferase activator ...	7	4	1.66	0.05900
+GO:0015293	symporter activity	410	113	97.09	0.06097
+GO:0005034	osmosensor activity	16	7	3.79	0.06166
+GO:0030151	molybdenum ion binding	10	5	2.37	0.06363
+GO:0005199	structural constituent of cell wall	13	6	3.08	0.06371
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	13	8.53	0.06403
+GO:0016860	intramolecular oxidoreductase activity	90	31	21.31	0.07344
+GO:0004180	carboxypeptidase activity	84	26	19.89	0.07764
+GO:0017096	acetylserotonin O-methyltransferase acti...	20	8	4.74	0.07807
+GO:0016872	intramolecular lyase activity	20	8	4.74	0.07807
+GO:0003756	protein disulfide isomerase activity	37	13	8.76	0.07808
+GO:0050897	cobalt ion binding	62	20	14.68	0.07811
+GO:0016774	phosphotransferase activity, carboxyl gr...	14	6	3.32	0.08982
+GO:0004034	aldose 1-epimerase activity	14	6	3.32	0.08982
+GO:0016661	oxidoreductase activity, acting on other...	5	3	1.18	0.09008

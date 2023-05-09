@@ -1,0 +1,1834 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value	nc	Genes
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27156.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21109.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18752.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25324.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04158.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11775.1
+GO:0000155	phosphorelay sensor kinase activity	42	7	4.2	0.12129	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01838.1
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15298.1
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03094.1
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32099.1
+GO:0000822	inositol hexakisphosphate binding	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04536.1
+GO:0000822	inositol hexakisphosphate binding	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19113.1
+GO:0000822	inositol hexakisphosphate binding	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25594.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26445.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34028.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01436.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29709.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30866.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03426.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12591.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35969.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02862.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16543.1
+GO:0001047	core promoter binding	44	11	4.4	0.00333	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18962.1
+GO:0001077	proximal promoter DNA-binding transcript...	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16253.1
+GO:0001077	proximal promoter DNA-binding transcript...	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08165.1
+GO:0003691	double-stranded telomeric DNA binding	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21297.1
+GO:0003691	double-stranded telomeric DNA binding	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34811.1
+GO:0003691	double-stranded telomeric DNA binding	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12660.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19353.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37668.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29263.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08512.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31797.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23037.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07697.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07880.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23038.1
+GO:0003714	transcription corepressor activity	32	10	3.2	0.00080	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08388.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15840.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34222.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12551.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29374.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31712.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26834.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05081.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11237.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07187.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01246.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07098.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25338.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02246.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18335.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03104.1
+GO:0003746	translation elongation factor activity	99	16	9.9	0.03654	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15861.1
+GO:0003857	3-hydroxyacyl-CoA dehydrogenase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32271.1
+GO:0003857	3-hydroxyacyl-CoA dehydrogenase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08479.1
+GO:0003988	acetyl-CoA C-acyltransferase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01773.1
+GO:0003988	acetyl-CoA C-acyltransferase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01486.1
+GO:0003988	acetyl-CoA C-acyltransferase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12449.1
+GO:0003988	acetyl-CoA C-acyltransferase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29537.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15028.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16580.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20525.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29256.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26111.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31014.1
+GO:0003995	acyl-CoA dehydrogenase activity	14	7	1.4	0.00018	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09205.1
+GO:0003997	acyl-CoA oxidase activity	16	5	1.6	0.01697	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31014.1
+GO:0003997	acyl-CoA oxidase activity	16	5	1.6	0.01697	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15028.1
+GO:0003997	acyl-CoA oxidase activity	16	5	1.6	0.01697	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26111.1
+GO:0003997	acyl-CoA oxidase activity	16	5	1.6	0.01697	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29256.1
+GO:0003997	acyl-CoA oxidase activity	16	5	1.6	0.01697	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20525.1
+GO:0004030	aldehyde dehydrogenase [NAD(P)+] activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07626.1
+GO:0004030	aldehyde dehydrogenase [NAD(P)+] activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34553.1
+GO:0004030	aldehyde dehydrogenase [NAD(P)+] activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12673.1
+GO:0004045	aminoacyl-tRNA hydrolase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12951.1
+GO:0004045	aminoacyl-tRNA hydrolase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28130.1
+GO:0004045	aminoacyl-tRNA hydrolase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12952.1
+GO:0004130	cytochrome-c peroxidase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14837.1
+GO:0004130	cytochrome-c peroxidase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14832.1
+GO:0004144	diacylglycerol O-acyltransferase activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31673.1
+GO:0004144	diacylglycerol O-acyltransferase activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08295.1
+GO:0004144	diacylglycerol O-acyltransferase activit...	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32261.1
+GO:0004161	dimethylallyltranstransferase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20130.1
+GO:0004161	dimethylallyltranstransferase activity	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33833.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35179.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03539.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19676.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01164.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04803.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11504.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30053.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10183.1
+GO:0004176	ATP-dependent peptidase activity	39	9	3.9	0.01309	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05484.1
+GO:0004420	hydroxymethylglutaryl-CoA reductase (NAD...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22508.1
+GO:0004420	hydroxymethylglutaryl-CoA reductase (NAD...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20689.1
+GO:0004420	hydroxymethylglutaryl-CoA reductase (NAD...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19596.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20250.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13652.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13649.1
+GO:0004575	sucrose alpha-glucosidase activity	17	5	1.7	0.02211	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31476.1
+GO:0004575	sucrose alpha-glucosidase activity	17	5	1.7	0.02211	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29356.1
+GO:0004575	sucrose alpha-glucosidase activity	17	5	1.7	0.02211	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10464.1
+GO:0004575	sucrose alpha-glucosidase activity	17	5	1.7	0.02211	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12317.1
+GO:0004575	sucrose alpha-glucosidase activity	17	5	1.7	0.02211	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01391.1
+GO:0004607	phosphatidylcholine-sterol O-acyltransfe...	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16782.1
+GO:0004607	phosphatidylcholine-sterol O-acyltransfe...	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19398.1
+GO:0004607	phosphatidylcholine-sterol O-acyltransfe...	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26064.1
+GO:0004635	phosphoribosyl-AMP cyclohydrolase activi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37757.1
+GO:0004635	phosphoribosyl-AMP cyclohydrolase activi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33047.1
+GO:0004636	phosphoribosyl-ATP diphosphatase activit...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37757.1
+GO:0004636	phosphoribosyl-ATP diphosphatase activit...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33047.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30732.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31556.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37869.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09389.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07072.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28251.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10555.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23006.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23913.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06123.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07717.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03612.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10349.1
+GO:0004712	protein serine/threonine/tyrosine kinase...	81	14	8.1	0.02926	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18642.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36515.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34474.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22310.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18105.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20903.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36452.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35991.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27627.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17516.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31557.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24214.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15595.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03780.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03529.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14512.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30584.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33625.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29969.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04608.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37480.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25268.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30675.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05504.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14061.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11352.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21649.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28301.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11609.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05077.1
+GO:0004722	protein serine/threonine phosphatase act...	238	30	23.8	0.11038	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09477.1
+GO:0004805	trehalose-phosphatase activity	13	5	1.3	0.00645	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33932.1
+GO:0004805	trehalose-phosphatase activity	13	5	1.3	0.00645	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35282.1
+GO:0004805	trehalose-phosphatase activity	13	5	1.3	0.00645	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18336.1
+GO:0004805	trehalose-phosphatase activity	13	5	1.3	0.00645	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33696.1
+GO:0004805	trehalose-phosphatase activity	13	5	1.3	0.00645	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01827.1
+GO:0004834	tryptophan synthase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11384.1
+GO:0004834	tryptophan synthase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23176.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28785.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22919.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30215.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09753.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29093.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38861.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28411.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24584.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10122.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24417.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04304.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08876.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21464.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21871.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22883.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37638.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33628.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09896.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22973.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30338.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21850.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29842.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35372.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38312.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23390.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27354.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28366.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16052.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25594.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04536.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08413.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06441.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21849.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14680.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36314.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15089.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36688.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01268.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23672.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05749.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31100.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31099.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31917.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34956.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34028.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32108.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00425.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01254.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00219.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03668.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17123.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17377.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12544.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21273.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27353.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07619.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33687.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24110.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30660.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02117.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00303.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26875.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07954.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12837.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05382.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21104.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02087.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03103.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13996.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10565.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26903.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18823.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16757.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21367.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05849.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19287.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07849.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19113.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01465.1
+GO:0004842	ubiquitin-protein transferase activity	493	80	49.3	1.0e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16131.1
+GO:0004849	uridine kinase activity	17	4	1.7	0.08258	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29198.1
+GO:0004849	uridine kinase activity	17	4	1.7	0.08258	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15514.1
+GO:0004849	uridine kinase activity	17	4	1.7	0.08258	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10990.1
+GO:0004849	uridine kinase activity	17	4	1.7	0.08258	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29114.1
+GO:0004860	protein kinase inhibitor activity	18	4	1.8	0.09813	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26299.1
+GO:0004860	protein kinase inhibitor activity	18	4	1.8	0.09813	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38680.1
+GO:0004860	protein kinase inhibitor activity	18	4	1.8	0.09813	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21295.1
+GO:0004860	protein kinase inhibitor activity	18	4	1.8	0.09813	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12396.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10502.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24966.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03700.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35761.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32624.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11344.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09612.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17899.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30268.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13759.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22218.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11916.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31342.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23739.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13756.1
+GO:0004866	endopeptidase inhibitor activity	63	16	6.3	0.00036	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38417.1
+GO:0005366	myo-inositol:proton symporter activity	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00800.1
+GO:0005366	myo-inositol:proton symporter activity	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07704.1
+GO:0005366	myo-inositol:proton symporter activity	12	3	1.2	0.11083	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27308.1
+GO:0008184	glycogen phosphorylase activity	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18771.1
+GO:0008184	glycogen phosphorylase activity	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14683.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31795.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24837.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05849.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25431.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02989.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24728.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10183.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04304.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09579.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02833.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05484.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26903.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34737.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09753.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27053.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09419.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38157.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35469.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23672.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27598.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24100.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23767.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05334.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18818.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18826.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10139.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10122.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08413.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20583.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29027.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11272.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09566.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02917.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21393.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29047.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21889.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03564.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31850.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31345.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10818.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20277.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04951.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23450.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32112.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33427.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33593.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23777.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34377.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14008.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34956.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07289.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07800.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07840.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07849.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38312.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07954.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27512.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27531.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17946.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18043.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18115.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09896.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18657.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22071.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28176.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00219.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19871.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20254.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00230.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00303.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00425.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20682.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30338.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02696.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21181.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21871.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28054.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22302.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03668.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04417.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19484.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23668.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03818.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13134.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33217.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13359.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34222.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33687.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30870.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02431.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05912.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07619.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36580.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36864.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08229.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27194.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16957.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00361.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17768.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17123.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11778.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13996.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20687.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21875.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11892.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12085.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19006.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19287.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04622.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28263.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13074.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00463.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01475.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20547.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01592.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13819.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18184.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14026.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06920.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03804.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33152.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36912.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23042.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16324.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13245.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28933.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28571.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01418.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20683.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11832.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29558.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27129.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06937.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27108.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28189.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01668.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12837.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28431.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29487.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32099.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32108.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28785.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32065.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29093.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07002.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16591.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12615.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14866.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12544.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36570.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22883.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15962.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12326.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15089.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22466.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15394.1
+GO:0008270	zinc ion binding	1310	157	131	0.00927	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36314.1
+GO:0008506	sucrose:proton symporter activity	10	3	1	0.07016	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37605.1
+GO:0008506	sucrose:proton symporter activity	10	3	1	0.07016	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28365.1
+GO:0008506	sucrose:proton symporter activity	10	3	1	0.07016	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03026.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	2	0.04312	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28755.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	2	0.04312	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27237.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	2	0.04312	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27709.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	2	0.04312	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06996.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	2	0.04312	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29652.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29735.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06334.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01761.1
+GO:0008970	phospholipase A1 activity	13	4	1.3	0.03413	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36035.1
+GO:0008970	phospholipase A1 activity	13	4	1.3	0.03413	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23051.1
+GO:0008970	phospholipase A1 activity	13	4	1.3	0.03413	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26064.1
+GO:0008970	phospholipase A1 activity	13	4	1.3	0.03413	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25147.1
+GO:0009881	photoreceptor activity	25	5	2.5	0.09790	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01308.1
+GO:0009881	photoreceptor activity	25	5	2.5	0.09790	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01153.1
+GO:0009881	photoreceptor activity	25	5	2.5	0.09790	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34028.1
+GO:0009881	photoreceptor activity	25	5	2.5	0.09790	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21109.1
+GO:0009881	photoreceptor activity	25	5	2.5	0.09790	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04158.1
+GO:0009927	histidine phosphotransfer kinase activit...	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29022.1
+GO:0009927	histidine phosphotransfer kinase activit...	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25905.1
+GO:0009927	histidine phosphotransfer kinase activit...	13	3	1.3	0.13384	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05535.1
+GO:0009978	allene oxide synthase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13214.1
+GO:0009978	allene oxide synthase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11261.1
+GO:0009978	allene oxide synthase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17271.1
+GO:0010011	auxin binding	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25594.1
+GO:0010011	auxin binding	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19113.1
+GO:0010011	auxin binding	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04536.1
+GO:0010011	auxin binding	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35372.1
+GO:0010279	indole-3-acetic acid amido synthetase ac...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31268.1
+GO:0010279	indole-3-acetic acid amido synthetase ac...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23194.1
+GO:0010295	(+)-abscisic acid 8'-hydroxylase activit...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16917.1
+GO:0010295	(+)-abscisic acid 8'-hydroxylase activit...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28840.1
+GO:0010295	(+)-abscisic acid 8'-hydroxylase activit...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19719.1
+GO:0010428	methyl-CpNpG binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33628.1
+GO:0010428	methyl-CpNpG binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23042.1
+GO:0010428	methyl-CpNpG binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01465.1
+GO:0010429	methyl-CpNpN binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33628.1
+GO:0010429	methyl-CpNpN binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01465.1
+GO:0010429	methyl-CpNpN binding	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23042.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12011.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05982.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13727.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29652.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06996.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18407.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28755.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23950.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14229.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27709.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24038.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22033.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27237.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01636.1
+GO:0015035	protein disulfide oxidoreductase activit...	107	15	10.7	0.11293	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00508.1
+GO:0015217	ADP transmembrane transporter activity	23	5	2.3	0.07303	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08543.1
+GO:0015217	ADP transmembrane transporter activity	23	5	2.3	0.07303	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36966.1
+GO:0015217	ADP transmembrane transporter activity	23	5	2.3	0.07303	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22981.1
+GO:0015217	ADP transmembrane transporter activity	23	5	2.3	0.07303	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14863.1
+GO:0015217	ADP transmembrane transporter activity	23	5	2.3	0.07303	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11983.1
+GO:0016040	glutamate synthase (NADH) activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13149.1
+GO:0016040	glutamate synthase (NADH) activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04366.1
+GO:0016040	glutamate synthase (NADH) activity	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04365.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07641.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23051.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13652.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00878.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03722.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03641.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24264.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25016.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07516.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23792.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13649.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28404.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25147.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12390.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17214.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20250.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04521.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20548.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36035.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07848.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08733.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10847.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26064.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05026.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31533.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04540.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16782.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06074.1
+GO:0016298	lipase activity	185	29	18.5	0.12058	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14609.1
+GO:0016308	1-phosphatidylinositol-4-phosphate 5-kin...	15	4	1.5	0.05551	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15298.1
+GO:0016308	1-phosphatidylinositol-4-phosphate 5-kin...	15	4	1.5	0.05551	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03094.1
+GO:0016308	1-phosphatidylinositol-4-phosphate 5-kin...	15	4	1.5	0.05551	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34327.1
+GO:0016308	1-phosphatidylinositol-4-phosphate 5-kin...	15	4	1.5	0.05551	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32099.1
+GO:0016621	cinnamoyl-CoA reductase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36747.1
+GO:0016621	cinnamoyl-CoA reductase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05550.1
+GO:0016621	cinnamoyl-CoA reductase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23232.1
+GO:0016621	cinnamoyl-CoA reductase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14968.1
+GO:0016629	12-oxophytodienoate reductase activity	20	4	2	0.13288	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22787.1
+GO:0016629	12-oxophytodienoate reductase activity	20	4	2	0.13288	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21487.1
+GO:0016629	12-oxophytodienoate reductase activity	20	4	2	0.13288	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14219.1
+GO:0016629	12-oxophytodienoate reductase activity	20	4	2	0.13288	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20397.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36068.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07532.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36737.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37538.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05887.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02715.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13478.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29521.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25329.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31758.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03321.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14890.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32085.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09688.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21338.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02280.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13476.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21787.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	19	6.3	2.6e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28426.1
+GO:0016756	glutathione gamma-glutamylcysteinyltrans...	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07822.1
+GO:0016756	glutathione gamma-glutamylcysteinyltrans...	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34697.1
+GO:0016774	phosphotransferase activity, carboxyl gr...	14	4	1.4	0.04409	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27267.1
+GO:0016774	phosphotransferase activity, carboxyl gr...	14	4	1.4	0.04409	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14398.1
+GO:0016774	phosphotransferase activity, carboxyl gr...	14	4	1.4	0.04409	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19130.1
+GO:0016774	phosphotransferase activity, carboxyl gr...	14	4	1.4	0.04409	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04554.1
+GO:0016778	diphosphotransferase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31683.1
+GO:0016778	diphosphotransferase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25458.1
+GO:0016778	diphosphotransferase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26612.1
+GO:0016778	diphosphotransferase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28600.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36464.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04466.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18826.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00867.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36420.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23129.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18033.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29259.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25751.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31268.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00058.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23194.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35098.1
+GO:0016879	ligase activity, forming carbon-nitrogen...	71	14	7.1	0.02919	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31395.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11767.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16939.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23089.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30542.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03549.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23242.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29524.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29027.1
+GO:0019200	carbohydrate kinase activity	42	9	4.2	0.03167	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31053.1
+GO:0019202	amino acid kinase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04554.1
+GO:0019202	amino acid kinase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14398.1
+GO:0019202	amino acid kinase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19130.1
+GO:0019202	amino acid kinase activity	8	4	0.8	0.00502	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27267.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24387.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11243.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19429.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11963.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14446.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04406.1
+GO:0019888	protein phosphatase regulator activity	40	7	4	0.09937	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00135.1
+GO:0030795	jasmonate O-methyltransferase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22052.1
+GO:0030795	jasmonate O-methyltransferase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16643.1
+GO:0033926	glycopeptide alpha-N-acetylgalactosamini...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12317.1
+GO:0033926	glycopeptide alpha-N-acetylgalactosamini...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01391.1
+GO:0038199	ethylene receptor activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01838.1
+GO:0038199	ethylene receptor activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27156.1
+GO:0038199	ethylene receptor activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18752.1
+GO:0042282	hydroxymethylglutaryl-CoA reductase acti...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20689.1
+GO:0042282	hydroxymethylglutaryl-CoA reductase acti...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19596.1
+GO:0042282	hydroxymethylglutaryl-CoA reductase acti...	7	3	0.7	0.02567	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22508.1
+GO:0043495	protein membrane anchor	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27263.1
+GO:0043495	protein membrane anchor	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38455.1
+GO:0043495	protein membrane anchor	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04565.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29118.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24226.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28055.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23911.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31716.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05265.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13714.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22296.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16365.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14057.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16074.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31347.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23686.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24100.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30562.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12376.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23482.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33281.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16253.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23131.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23649.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11920.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28819.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28007.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29459.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04780.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09055.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33606.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30879.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01436.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13670.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16094.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01465.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28183.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38008.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15234.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04594.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22210.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22170.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12230.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30866.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00647.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13407.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11697.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20430.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04427.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32415.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21498.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08919.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38858.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04504.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29203.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16989.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16438.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26445.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01252.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32181.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32253.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27820.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17249.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14153.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21410.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21271.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37775.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08962.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24896.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30016.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29709.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10064.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26787.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20343.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19484.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19556.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17342.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08229.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36805.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37157.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07393.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12591.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22259.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22640.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22716.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10018.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13359.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04417.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03842.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08165.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12025.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02833.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20940.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20818.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09494.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05927.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25349.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16543.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26692.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16740.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27702.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27199.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03679.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07875.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36025.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36644.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29779.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07204.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30297.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30394.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19311.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29471.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00620.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19343.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21297.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35969.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03451.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21875.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13082.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13134.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13405.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23042.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32132.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03863.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03564.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03426.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18090.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35976.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05956.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25388.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06401.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33628.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16444.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35821.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34811.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06686.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08755.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09566.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09651.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10641.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10624.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18962.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31915.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03081.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02994.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02856.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32065.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12660.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34299.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13179.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37327.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34708.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19316.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34317.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09892.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06620.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18225.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18725.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05854.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31884.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18793.1
+GO:0043565	sequence-specific DNA binding	1192	159	119.2	0.00042	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02862.1
+GO:0044183	protein binding involved in protein fold...	27	5	2.7	0.12646	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02172.1
+GO:0044183	protein binding involved in protein fold...	27	5	2.7	0.12646	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22990.1
+GO:0044183	protein binding involved in protein fold...	27	5	2.7	0.12646	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29823.1
+GO:0044183	protein binding involved in protein fold...	27	5	2.7	0.12646	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05254.1
+GO:0044183	protein binding involved in protein fold...	27	5	2.7	0.12646	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10595.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38008.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32065.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32132.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37157.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19556.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18225.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31915.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32181.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01436.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17342.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18090.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36805.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12326.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03679.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32253.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01252.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09055.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09358.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31606.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31884.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02862.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11697.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18962.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31644.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04427.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04780.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22170.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12376.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36570.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35821.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36644.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36025.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02856.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09651.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03426.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03564.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19343.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12591.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13082.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21875.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22174.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00620.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22296.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23131.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23686.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16543.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04417.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10018.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28018.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26692.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34028.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28007.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30866.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21271.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16438.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30297.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25388.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31081.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32415.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26445.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20430.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06401.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35969.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20940.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34708.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26787.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16365.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20818.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29471.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29709.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13670.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07941.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30016.1
+GO:0044212	transcription regulatory region DNA bind...	611	74	61.1	0.11030	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13405.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	5	1.4	0.00921	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17123.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	5	1.4	0.00921	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08413.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	5	1.4	0.00921	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29093.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	5	1.4	0.00921	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16052.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	5	1.4	0.00921	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16131.1
+GO:0045543	gibberellin 2-beta-dioxygenase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17526.1
+GO:0045543	gibberellin 2-beta-dioxygenase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33360.1
+GO:0045543	gibberellin 2-beta-dioxygenase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03733.1
+GO:0045543	gibberellin 2-beta-dioxygenase activity	12	4	1.2	0.02561	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37246.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37364.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03924.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24787.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07713.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24180.1
+GO:0046423	allene-oxide cyclase activity	7	6	0.7	6.4e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26587.1
+GO:0046592	polyamine oxidase activity	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13212.1
+GO:0046592	polyamine oxidase activity	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38704.1
+GO:0046592	polyamine oxidase activity	8	3	0.8	0.03807	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38463.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11695.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27972.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11686.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10144.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27778.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11778.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11832.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11352.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27709.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09688.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28758.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10139.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34222.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28755.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11697.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36943.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37123.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34344.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37388.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09739.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11272.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28580.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09222.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09310.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09322.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09358.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09395.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09419.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09441.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09452.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37246.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09566.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09579.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17946.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18013.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09753.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09896.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10122.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10138.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18184.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18202.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10183.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10686.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10734.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10746.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10771.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10818.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10859.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11056.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11261.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36633.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36687.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11552.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11575.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36912.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22310.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22364.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22466.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22655.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11892.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11925.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12044.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12052.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12085.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12143.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12153.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12166.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12203.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12266.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12326.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09477.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06922.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06937.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06992.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06996.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07002.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07098.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07240.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07289.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07304.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07358.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07532.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07619.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07757.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07800.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07833.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07840.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07849.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07954.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07987.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08001.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08012.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08096.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08117.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08227.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08229.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08323.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08388.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08413.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08507.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08755.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08831.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09015.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26555.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26875.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26903.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27053.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27108.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27129.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27156.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27194.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27321.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27389.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27512.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27531.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27537.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27598.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27627.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01418.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01465.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01475.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28054.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28085.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28176.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28189.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28263.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28301.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28411.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28426.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28431.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28571.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02087.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02246.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02280.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28785.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28812.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28840.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28900.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28933.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28967.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28975.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29027.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29047.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29093.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29212.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29437.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29487.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29494.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29521.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29524.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29537.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29558.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29635.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29652.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29687.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29709.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29911.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30184.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30268.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30297.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30333.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30338.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30405.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30448.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30559.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30584.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30675.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30700.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30718.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30870.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31042.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31053.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31078.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31345.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31400.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31401.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31427.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31428.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31496.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31557.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31577.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31606.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31622.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31683.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31758.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31795.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31850.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31884.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31953.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31959.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32065.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32085.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32099.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32104.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32108.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32112.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32229.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32291.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32550.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32963.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33152.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33185.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33217.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33279.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33350.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33357.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33360.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33427.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33441.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33593.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33625.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33628.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33630.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33687.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33707.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33833.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33991.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16591.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16616.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34347.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34348.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34377.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34474.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34537.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34547.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34611.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34697.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34737.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34765.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34834.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34854.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34956.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35082.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35179.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35279.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35343.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35469.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35804.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35808.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35862.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35953.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35976.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35991.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36030.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36068.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36143.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36199.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36314.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36452.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36515.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36570.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36580.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36614.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19271.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19287.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36737.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36864.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19498.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19620.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19719.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19866.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19871.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37480.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37538.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37638.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38037.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38157.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38312.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38328.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38330.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38658.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38791.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38810.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12346.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12361.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12390.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12423.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12543.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12544.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12597.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12615.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12697.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12724.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12739.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12750.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12835.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12837.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13074.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13134.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13149.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13214.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13245.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13359.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13476.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13478.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13518.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13540.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13552.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13815.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13816.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13819.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13996.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14008.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14026.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14047.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14061.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14169.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14512.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14688.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14780.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14832.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14837.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14847.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14866.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14890.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14920.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15007.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15034.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15077.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15089.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15135.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15330.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15368.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15394.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15401.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15493.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15580.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15595.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15626.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15632.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15839.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15962.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15985.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16052.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16058.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16131.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16236.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16324.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25431.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25480.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16618.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16819.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16841.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16844.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16886.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16917.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16957.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17123.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17249.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17267.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17271.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17454.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17516.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17526.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17648.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17743.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17768.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01153.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01164.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18033.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18043.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18105.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18115.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21119.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01486.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18657.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18752.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18818.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18826.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18828.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18974.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19006.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19046.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19166.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21889.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22028.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19458.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19484.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02431.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02644.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02658.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02675.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02696.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20041.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20052.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20130.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20135.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20254.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20276.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20277.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20286.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20430.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20456.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20459.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20545.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20547.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20548.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20583.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20626.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20682.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20683.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20687.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20903.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23767.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21148.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21181.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21213.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21338.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21393.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21519.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21598.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21787.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21871.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21875.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25227.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25247.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22029.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22071.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22227.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22277.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22302.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05533.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05749.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05841.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05849.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22697.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22830.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22879.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22883.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23042.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23053.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23317.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23320.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23346.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23450.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23497.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23614.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23628.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23630.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23668.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23672.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23702.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23763.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03818.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23777.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24100.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24214.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24521.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24624.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24669.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24728.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24837.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24966.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24985.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02001.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05077.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25268.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25324.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25329.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05367.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05484.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25737.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25994.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26243.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26281.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26400.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26532.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00219.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00230.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00303.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00361.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00425.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00463.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00480.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00631.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00769.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00867.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00895.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03693.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03733.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01252.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01308.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03814.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05193.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04060.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04304.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01592.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01612.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01628.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01668.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01674.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01680.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01764.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01838.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04951.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03180.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03321.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05334.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02413.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03446.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03514.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05504.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03564.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03668.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02715.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02833.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02917.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02989.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03804.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05945.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03397.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03398.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05356.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04365.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03529.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04386.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04417.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03683.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04622.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04803.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03780.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05912.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06448.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06074.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06199.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06382.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04608.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04366.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06765.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06767.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05887.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06920.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06757.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04823.1
+GO:0046872	metal ion binding	4863	535	486.3	0.12628	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06804.1
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	4	0.5	0.00046	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03398.1
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	4	0.5	0.00046	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03397.1
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	4	0.5	0.00046	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25247.1
+GO:0047216	inositol 3-alpha-galactosyltransferase a...	5	4	0.5	0.00046	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34547.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04823.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29633.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04352.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32409.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13252.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	6	0.6	1.0e-06	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08228.1
+GO:0047714	galactolipase activity	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25147.1
+GO:0047714	galactolipase activity	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23051.1
+GO:0047714	galactolipase activity	9	3	0.9	0.05294	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36035.1
+GO:0047987	hydroperoxide dehydratase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11261.1
+GO:0047987	hydroperoxide dehydratase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13214.1
+GO:0047987	hydroperoxide dehydratase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17271.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29027.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23763.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09310.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33279.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35862.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23242.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23089.1
+GO:0048029	monosaccharide binding	47	8	4.7	0.09259	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31053.1
+GO:0050378	UDP-glucuronate 4-epimerase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31253.1
+GO:0050378	UDP-glucuronate 4-epimerase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34783.1
+GO:0050378	UDP-glucuronate 4-epimerase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26478.1
+GO:0050378	UDP-glucuronate 4-epimerase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18990.1
+GO:0050736	O-malonyltransferase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28204.1
+GO:0050736	O-malonyltransferase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27645.1
+GO:0050736	O-malonyltransferase activity	6	3	0.6	0.01584	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24481.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00867.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18826.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01418.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18974.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22364.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36943.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10859.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31953.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30268.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34854.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07289.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34222.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24966.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35469.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28571.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36864.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36143.1
+GO:0050897	cobalt ion binding	62	18	6.2	2.3e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18115.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11983.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28365.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08543.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01628.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01463.1
+GO:0051185	coenzyme transmembrane transporter activ...	19	6	1.9	0.00857	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37605.1
+GO:0051538	3 iron, 4 sulfur cluster binding	11	3	1.1	0.08952	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13149.1
+GO:0051538	3 iron, 4 sulfur cluster binding	11	3	1.1	0.08952	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04366.1
+GO:0051538	3 iron, 4 sulfur cluster binding	11	3	1.1	0.08952	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04365.1
+GO:0051740	ethylene binding	7	4	0.7	0.00272	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25324.1
+GO:0051740	ethylene binding	7	4	0.7	0.00272	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18752.1
+GO:0051740	ethylene binding	7	4	0.7	0.00272	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01838.1
+GO:0051740	ethylene binding	7	4	0.7	0.00272	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27156.1
+GO:0052894	norspermine:oxygen oxidoreductase activi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38463.1
+GO:0052894	norspermine:oxygen oxidoreductase activi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13212.1
+GO:0052895	N1-acetylspermine:oxygen oxidoreductase ...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13212.1
+GO:0052895	N1-acetylspermine:oxygen oxidoreductase ...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38463.1
+GO:0052901	spermine:oxygen oxidoreductase (spermidi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38463.1
+GO:0052901	spermine:oxygen oxidoreductase (spermidi...	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13212.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01308.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29256.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20525.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01153.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19663.1
+GO:0071949	FAD binding	16	6	1.6	0.00329	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31014.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22021.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22020.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30722.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22019.1
+GO:0080031	methyl salicylate esterase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22019.1
+GO:0080031	methyl salicylate esterase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30722.1
+GO:0080031	methyl salicylate esterase activity	5	3	0.5	0.00855	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22021.1
+GO:0080032	methyl jasmonate esterase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22019.1
+GO:0080032	methyl jasmonate esterase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30722.1
+GO:0080032	methyl jasmonate esterase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22021.1
+GO:0080032	methyl jasmonate esterase activity	9	4	0.9	0.00832	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22020.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38955.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05396.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10946.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16633.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17394.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27038.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08810.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00028.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37461.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18488.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05205.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08138.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12100.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32191.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25851.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06360.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17587.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19647.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25284.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23887.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20775.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20175.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19647.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25851.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05205.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25284.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05396.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20175.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23887.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20775.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08138.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00028.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06360.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18488.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17394.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12100.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10946.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17587.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27038.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37461.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32191.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08810.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38955.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	22	15.3	0.05231	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16633.1
+GO:0097027	ubiquitin-protein transferase activator ...	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29415.1
+GO:0097027	ubiquitin-protein transferase activator ...	7	2	0.7	0.14968	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15822.1
+GO:0102078	methyl jasmonate methylesterase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16643.1
+GO:0102078	methyl jasmonate methylesterase activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22052.1
+GO:0102499	SHG alpha-glucan phosphorylase activity	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18771.1
+GO:0102499	SHG alpha-glucan phosphorylase activity	5	2	0.5	0.08144	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14683.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05049.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15632.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15821.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23037.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15739.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38008.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04855.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30879.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15073.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15512.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03564.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03451.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04854.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13134.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05123.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00594.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05265.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06328.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37775.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06957.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc14247.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22548.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06686.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03679.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04951.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22879.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34615.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34737.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35914.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13359.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35976.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35969.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36644.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22716.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13738.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30297.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20343.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03703.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20583.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31081.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20664.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05078.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31644.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30866.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00175.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05927.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13670.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22170.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06347.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21350.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15234.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15480.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15359.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22609.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06401.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06943.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38816.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05525.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00321.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21816.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03081.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03401.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28501.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34708.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18202.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13082.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03863.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18794.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13179.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19046.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36024.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05854.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13714.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04417.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13540.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30394.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20277.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20430.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37668.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37327.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00415.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00620.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05087.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31586.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38858.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38965.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22083.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21875.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05956.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16236.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16253.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10624.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07204.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06372.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22174.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc06620.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22640.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07385.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28055.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07393.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28288.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28387.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17439.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03426.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23038.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03842.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12966.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29026.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04202.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29239.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29733.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30419.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36570.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13381.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04427.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04504.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19353.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30016.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc37157.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04629.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09061.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09358.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31347.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38791.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21126.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21235.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21271.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc05563.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc21410.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31797.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31884.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01475.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01666.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27702.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27820.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22210.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22259.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc22296.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28018.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33606.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11892.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc17236.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12025.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12104.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc03449.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18225.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18793.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12835.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35082.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18962.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29203.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29779.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13641.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19311.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc13405.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29938.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08755.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04780.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19674.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24896.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04594.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09055.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc38669.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25388.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25516.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31606.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00625.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc15912.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16074.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26692.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00709.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00745.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26950.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01668.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10641.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11001.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01809.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28239.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32445.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28007.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34251.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11920.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02960.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34299.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12143.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18090.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12670.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07512.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07697.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29118.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35821.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc04227.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36025.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24226.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19316.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19343.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08229.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19556.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10130.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc36805.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24444.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24427.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08962.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09413.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09441.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20688.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc20818.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26070.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31716.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc00647.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10064.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34317.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01252.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27108.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16365.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01680.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32065.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28183.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02666.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32667.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28089.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11756.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02943.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16989.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16740.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc34496.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12230.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12591.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28819.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc35343.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07875.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29263.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29471.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24215.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08388.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc29879.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08165.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23867.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26307.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24626.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc01436.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc27199.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc28749.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23053.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32132.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26445.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25787.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09768.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09892.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26451.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09651.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02994.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10138.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18028.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10374.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc31915.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc26787.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12376.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc18838.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11038.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33107.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc33281.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02862.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16444.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16543.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16896.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24355.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc12326.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc19166.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24160.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23911.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08512.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc24100.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08070.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23686.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc10018.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09566.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc09494.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25597.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11272.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07941.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02856.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16438.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc02833.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc07880.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc11697.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23128.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32253.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23131.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32181.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc23649.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc32415.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc25349.1
+GO:0140110	transcription regulator activity	2279	294	227.9	1.5e-05	5topMF.G1.D.S-G1.D.NS.down.txt	Lc08027.1
+GO:1901474	azole transmembrane transporter activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc30762.1
+GO:1901474	azole transmembrane transporter activity	6	2	0.6	0.11425	5topMF.G1.D.S-G1.D.NS.down.txt	Lc16112.1

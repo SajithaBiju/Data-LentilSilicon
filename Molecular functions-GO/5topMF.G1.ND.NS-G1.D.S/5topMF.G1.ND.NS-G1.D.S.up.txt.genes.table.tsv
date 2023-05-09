@@ -1,0 +1,1155 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value	nc	Genes
+GO:0000035	acyl binding	11	2	0.79	0.18301	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37004.1
+GO:0000035	acyl binding	11	2	0.79	0.18301	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27348.1
+GO:0000064	L-ornithine transmembrane transporter ac...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18858.1
+GO:0000064	L-ornithine transmembrane transporter ac...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16112.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20916.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11471.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38991.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29239.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38965.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14825.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12676.1
+GO:0000156	phosphorelay response regulator activity	62	8	4.43	0.07313	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00583.1
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13394.1
+GO:0000285	1-phosphatidylinositol-3-phosphate 5-kin...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15298.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10124.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38392.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12500.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09891.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06278.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16341.1
+GO:0001054	RNA polymerase I activity	26	7	1.86	0.00185	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19737.1
+GO:0001055	RNA polymerase II activity	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10124.1
+GO:0001055	RNA polymerase II activity	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06278.1
+GO:0001055	RNA polymerase II activity	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09891.1
+GO:0001056	RNA polymerase III activity	26	5	1.86	0.03455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10124.1
+GO:0001056	RNA polymerase III activity	26	5	1.86	0.03455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06278.1
+GO:0001056	RNA polymerase III activity	26	5	1.86	0.03455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18688.1
+GO:0001056	RNA polymerase III activity	26	5	1.86	0.03455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12500.1
+GO:0001056	RNA polymerase III activity	26	5	1.86	0.03455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09891.1
+GO:0003689	DNA clamp loader activity	10	3	0.71	0.02987	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12671.1
+GO:0003689	DNA clamp loader activity	10	3	0.71	0.02987	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32169.1
+GO:0003689	DNA clamp loader activity	10	3	0.71	0.02987	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12154.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03758.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30796.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23254.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16840.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29137.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37108.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12143.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11196.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02093.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12770.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19111.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16301.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27207.1
+GO:0003697	single-stranded DNA binding	83	14	5.93	0.00214	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02205.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21740.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29708.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11564.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11453.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13530.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11196.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22002.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05161.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21371.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10978.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05091.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26834.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06241.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01390.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29398.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20940.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13074.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29633.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05978.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03052.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11779.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26659.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22051.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21805.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10730.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24420.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26823.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29238.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21215.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26981.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13255.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14866.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13430.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13121.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26292.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04548.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23450.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26644.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05151.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05917.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23254.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06281.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36064.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01282.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01313.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14260.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33953.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23806.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22376.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21165.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13820.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13875.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07838.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07840.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10629.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02206.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30976.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14882.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01361.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36196.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21341.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13993.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05401.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22468.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22823.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12143.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28617.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35679.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10498.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26610.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04388.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15825.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33848.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13669.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05059.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05315.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27684.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05570.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12366.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14155.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02378.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27915.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05912.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12770.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13022.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05991.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04553.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13972.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01583.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06987.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22385.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32583.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35522.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11889.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07593.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24394.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19056.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38328.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31678.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17003.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21235.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04868.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06446.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00041.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34304.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01031.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14175.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10333.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10390.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04363.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26251.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20534.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20915.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36285.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23485.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15881.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23925.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24090.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10073.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27796.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00782.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00874.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35185.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01189.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16840.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28951.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15679.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04691.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01406.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29916.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30122.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30242.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06988.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37601.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14108.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31371.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24302.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01792.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07966.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33593.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17235.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15861.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17253.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01519.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09565.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32480.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15077.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32935.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10317.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26201.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20506.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15307.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36193.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15400.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31712.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08418.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08885.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37002.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37108.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34620.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34948.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27879.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35169.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16338.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28767.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24442.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24653.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38835.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24767.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08132.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36908.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32112.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13994.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37491.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02246.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02205.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30796.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01782.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20446.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28809.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16777.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18467.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38869.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24939.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23584.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09609.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25615.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10282.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15146.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15200.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04346.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16485.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19111.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37193.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18516.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16128.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38870.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32262.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06463.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00779.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34632.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35041.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00740.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25253.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20363.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16302.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20096.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07187.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06674.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02949.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14909.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30384.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18883.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16301.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07184.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19283.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36958.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32461.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16195.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14913.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03818.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26178.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14925.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30578.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16140.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09451.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24300.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17590.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20178.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00361.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17530.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04167.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25325.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30305.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34744.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32188.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18768.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24140.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38984.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31066.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25050.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17308.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14025.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03468.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03739.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20087.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25338.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17354.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32089.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24805.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03441.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08076.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31941.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16164.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20068.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20007.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19471.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31775.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37340.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31781.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20027.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31715.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08013.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19761.1
+GO:0003723	RNA binding	1989	267	142.1	2.9e-22	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03259.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19449.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11283.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10978.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10979.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19283.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04812.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00874.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04868.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10730.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05059.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19188.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31598.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00740.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21806.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19056.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21805.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09974.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09580.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11779.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14882.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22008.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13716.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10254.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13022.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30865.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04346.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21894.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11064.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10629.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14337.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21143.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31715.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12366.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21215.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13430.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03969.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04363.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30716.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19051.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23925.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25913.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14108.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26981.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01406.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03721.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12427.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20826.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31375.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30122.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21722.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16164.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19044.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09565.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26227.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26823.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32202.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14377.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01282.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03468.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03485.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31269.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23753.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20506.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18576.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23076.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05938.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25253.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13820.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38869.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22326.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22352.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01313.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19657.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18594.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29971.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16338.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28809.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25050.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18883.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18768.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25325.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38743.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12180.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32935.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14913.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15182.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28789.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34744.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20363.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23634.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33818.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15686.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22909.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09451.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18516.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27887.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16790.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05091.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09004.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05704.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24809.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05917.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06223.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31999.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18467.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08076.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20068.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02136.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05151.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06152.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05392.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38870.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07187.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02949.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05827.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34620.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24140.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15825.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38300.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07164.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15678.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32188.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17212.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27875.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33176.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01698.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22823.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27957.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18403.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34948.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34121.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06816.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24171.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24805.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34131.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18065.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14493.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08013.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22385.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18025.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05790.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01519.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16636.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37468.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24236.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06987.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37707.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17003.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24446.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24653.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37309.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06988.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35363.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17851.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35679.1
+GO:0003735	structural constituent of ribosome	672	156	48.01	< 1e-30	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17253.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07187.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02246.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22051.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15861.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17308.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26834.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05401.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05161.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23485.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31712.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25338.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30976.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38835.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26610.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33953.1
+GO:0003746	translation elongation factor activity	99	16	7.07	0.00170	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31066.1
+GO:0003825	alpha,alpha-trehalose-phosphate synthase...	8	3	0.57	0.01552	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09347.1
+GO:0003825	alpha,alpha-trehalose-phosphate synthase...	8	3	0.57	0.01552	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18336.1
+GO:0003825	alpha,alpha-trehalose-phosphate synthase...	8	3	0.57	0.01552	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01827.1
+GO:0003917	DNA topoisomerase type I activity	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23404.1
+GO:0003917	DNA topoisomerase type I activity	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20171.1
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12615.1
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14717.1
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14008.1
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19060.1
+GO:0004022	alcohol dehydrogenase (NAD) activity	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23767.1
+GO:0004040	amidase activity	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15347.1
+GO:0004040	amidase activity	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17901.1
+GO:0004040	amidase activity	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01075.1
+GO:0004040	amidase activity	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12772.1
+GO:0004045	aminoacyl-tRNA hydrolase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28130.1
+GO:0004045	aminoacyl-tRNA hydrolase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12952.1
+GO:0004072	aspartate kinase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04554.1
+GO:0004072	aspartate kinase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14398.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23767.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15414.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12615.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38622.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36758.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18520.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26555.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34372.1
+GO:0004180	carboxypeptidase activity	84	9	6	0.14480	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25796.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20250.1
+GO:0004435	phosphatidylinositol phospholipase C act...	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13652.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06463.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10282.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08037.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11616.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07184.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07840.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32461.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06446.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14909.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14260.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11453.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32089.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15307.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05912.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18615.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15200.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32112.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31781.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03052.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15881.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01583.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32480.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03818.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03739.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30578.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04278.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14866.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04167.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02206.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29470.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29238.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26659.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01792.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01390.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16485.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20007.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17354.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01361.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15679.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14175.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25615.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35169.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22468.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30305.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26292.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14025.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16195.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10730.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37601.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24088.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33593.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16777.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38984.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13074.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00361.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22002.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23450.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16128.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21740.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21341.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00041.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20027.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20540.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20626.1
+GO:0004519	endonuclease activity	397	65	28.36	3.3e-11	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20446.1
+GO:0004635	phosphoribosyl-AMP cyclohydrolase activi...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33047.1
+GO:0004635	phosphoribosyl-AMP cyclohydrolase activi...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37757.1
+GO:0004636	phosphoribosyl-ATP diphosphatase activit...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33047.1
+GO:0004636	phosphoribosyl-ATP diphosphatase activit...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37757.1
+GO:0004654	polyribonucleotide nucleotidyltransferas...	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05978.1
+GO:0004654	polyribonucleotide nucleotidyltransferas...	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35041.1
+GO:0004725	protein tyrosine phosphatase activity	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11538.1
+GO:0004725	protein tyrosine phosphatase activity	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36585.1
+GO:0004725	protein tyrosine phosphatase activity	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23880.1
+GO:0004725	protein tyrosine phosphatase activity	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23546.1
+GO:0004784	superoxide dismutase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02523.1
+GO:0004784	superoxide dismutase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12619.1
+GO:0004805	trehalose-phosphatase activity	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35282.1
+GO:0004805	trehalose-phosphatase activity	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18336.1
+GO:0004805	trehalose-phosphatase activity	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01827.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23739.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15875.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21832.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32765.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23659.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19536.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15225.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18791.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30145.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32105.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04823.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05086.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34858.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14446.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36845.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12931.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10502.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04406.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14191.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12396.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09612.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38098.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37535.1
+GO:0004857	enzyme inhibitor activity	221	24	15.79	0.13648	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12137.1
+GO:0004864	protein phosphatase inhibitor activity	15	4	1.07	0.01875	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04406.1
+GO:0004864	protein phosphatase inhibitor activity	15	4	1.07	0.01875	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37535.1
+GO:0004864	protein phosphatase inhibitor activity	15	4	1.07	0.01875	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14446.1
+GO:0004864	protein phosphatase inhibitor activity	15	4	1.07	0.01875	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19536.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20087.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13972.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29916.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24394.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13243.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06171.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24302.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19471.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33049.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36958.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31371.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13993.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32262.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04388.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07477.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32583.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05315.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33848.1
+GO:0008026	ATP-dependent helicase activity	163	19	11.65	0.03341	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36908.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18202.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19363.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20178.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09609.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05771.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37431.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18421.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13489.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38932.1
+GO:0008170	N-methyltransferase activity	84	12	6	0.02746	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21235.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13875.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26166.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09609.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10764.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36193.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20178.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13090.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28673.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36203.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31678.1
+GO:0008173	RNA methyltransferase activity	45	13	3.21	1.0e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18421.1
+GO:0008235	metalloexopeptidase activity	19	3	1.36	0.15036	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12615.1
+GO:0008235	metalloexopeptidase activity	19	3	1.36	0.15036	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23767.1
+GO:0008235	metalloexopeptidase activity	19	3	1.36	0.15036	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06281.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23672.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14866.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23668.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33085.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14717.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23450.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23767.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36916.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14954.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14008.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36864.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22302.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32461.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32112.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17248.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14585.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13258.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35065.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25615.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24990.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15163.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00463.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32108.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00287.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36746.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02917.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15201.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29464.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00361.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37386.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29083.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07954.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17947.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24925.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26292.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23821.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37350.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00250.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06463.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23254.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15922.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23850.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02989.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16341.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13118.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07750.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07002.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22288.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26527.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02281.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13134.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12615.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02431.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17510.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17123.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17590.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18657.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16195.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24728.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35403.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02696.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21952.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21740.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11892.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32065.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13074.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03564.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16957.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33245.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26077.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27598.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28542.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28431.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23906.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35169.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02205.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34956.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11778.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20670.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08132.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29487.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38262.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33593.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29076.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15393.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15394.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07840.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01998.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21393.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00103.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01792.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11272.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12000.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11453.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37601.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27108.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38835.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31108.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29238.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24837.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28189.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01668.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33964.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20683.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38261.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11832.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04951.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03804.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29047.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31781.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17946.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33687.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21305.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31850.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03818.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00041.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08229.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16890.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15200.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31485.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05334.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20547.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18579.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20583.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27512.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05912.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01475.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18818.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16485.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31084.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03910.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17768.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01607.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10818.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19484.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20277.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10386.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19487.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08413.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20254.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30802.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09896.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19322.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08758.1
+GO:0008270	zinc ion binding	1310	145	93.59	8.0e-08	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30305.1
+GO:0008381	mechanosensitive ion channel activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32857.1
+GO:0008381	mechanosensitive ion channel activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12412.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10642.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10819.1
+GO:0008519	ammonium transmembrane transporter activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31177.1
+GO:0008526	phosphatidylinositol transporter activit...	18	3	1.29	0.13332	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14152.1
+GO:0008526	phosphatidylinositol transporter activit...	18	3	1.29	0.13332	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10891.1
+GO:0008526	phosphatidylinositol transporter activit...	18	3	1.29	0.13332	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19961.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37431.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01054.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19363.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13607.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36203.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13604.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38932.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36037.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26436.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18202.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20814.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13489.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02696.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21235.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20178.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18421.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11996.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28673.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29130.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16643.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05771.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13090.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11095.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22052.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10764.1
+GO:0008757	S-adenosylmethionine-dependent methyltra...	194	28	13.86	0.02105	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09609.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	1.43	0.01161	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06996.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	1.43	0.01161	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27206.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	1.43	0.01161	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28755.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	1.43	0.01161	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27709.1
+GO:0008794	arsenate reductase (glutaredoxin) activi...	20	5	1.43	0.01161	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29652.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01761.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06334.1
+GO:0008964	phosphoenolpyruvate carboxylase activity	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29735.1
+GO:0009374	biotin binding	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33870.1
+GO:0009374	biotin binding	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08548.1
+GO:0009672	auxin:proton symporter activity	31	4	2.21	0.17750	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21758.1
+GO:0009672	auxin:proton symporter activity	31	4	2.21	0.17750	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02494.1
+GO:0009672	auxin:proton symporter activity	31	4	2.21	0.17750	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34510.1
+GO:0009672	auxin:proton symporter activity	31	4	2.21	0.17750	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33616.1
+GO:0009881	photoreceptor activity	25	4	1.79	0.09906	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc34028.1
+GO:0009881	photoreceptor activity	25	4	1.79	0.09906	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21109.1
+GO:0009881	photoreceptor activity	25	4	1.79	0.09906	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01308.1
+GO:0009881	photoreceptor activity	25	4	1.79	0.09906	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01153.1
+GO:0009982	pseudouridine synthase activity	22	4	1.57	0.06767	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31775.1
+GO:0009982	pseudouridine synthase activity	22	4	1.57	0.06767	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11889.1
+GO:0009982	pseudouridine synthase activity	22	4	1.57	0.06767	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17530.1
+GO:0009982	pseudouridine synthase activity	22	4	1.57	0.06767	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04691.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20775.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08138.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19647.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10946.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10899.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38292.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08810.1
+GO:0015020	glucuronosyltransferase activity	55	8	3.93	0.04056	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06360.1
+GO:0015101	organic cation transmembrane transporter...	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31177.1
+GO:0015101	organic cation transmembrane transporter...	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10642.1
+GO:0015101	organic cation transmembrane transporter...	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30762.1
+GO:0015101	organic cation transmembrane transporter...	23	4	1.64	0.07747	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14050.1
+GO:0015173	aromatic amino acid transmembrane transp...	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05874.1
+GO:0015173	aromatic amino acid transmembrane transp...	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16112.1
+GO:0015173	aromatic amino acid transmembrane transp...	7	3	0.5	0.01024	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18858.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16112.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19085.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18858.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20113.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37347.1
+GO:0015174	basic amino acid transmembrane transport...	28	6	2	0.01271	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03615.1
+GO:0015203	polyamine transmembrane transporter acti...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20113.1
+GO:0015203	polyamine transmembrane transporter acti...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19085.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04745.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14379.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05496.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04758.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21943.1
+GO:0015205	nucleobase transmembrane transporter act...	26	6	1.86	0.05001	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21442.1
+GO:0015210	uracil transmembrane transporter activit...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05496.1
+GO:0015210	uracil transmembrane transporter activit...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21442.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07607.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04267.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12112.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32866.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12548.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37776.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02724.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33161.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29897.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19372.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12850.1
+GO:0015450	P-P-bond-hydrolysis-driven protein trans...	56	12	4	0.00050	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17163.1
+GO:0015605	organophosphate ester transmembrane tran...	47	5	3.36	0.20498	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01463.1
+GO:0015605	organophosphate ester transmembrane tran...	47	5	3.36	0.20498	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30762.1
+GO:0015605	organophosphate ester transmembrane tran...	47	5	3.36	0.20498	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31942.1
+GO:0015605	organophosphate ester transmembrane tran...	47	5	3.36	0.20498	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14050.1
+GO:0015605	organophosphate ester transmembrane tran...	47	5	3.36	0.20498	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14863.1
+GO:0015665	alcohol transmembrane transporter activi...	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10642.1
+GO:0015665	alcohol transmembrane transporter activi...	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30300.1
+GO:0015665	alcohol transmembrane transporter activi...	13	3	0.93	0.06069	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29494.1
+GO:0016634	oxidoreductase activity, acting on the C...	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29256.1
+GO:0016634	oxidoreductase activity, acting on the C...	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14084.1
+GO:0016634	oxidoreductase activity, acting on the C...	20	3	1.43	0.16804	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31014.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06867.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02280.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27605.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21338.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02715.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28426.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07065.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29521.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09688.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32085.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27472.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13476.1
+GO:0016702	oxidoreductase activity, acting on singl...	63	13	4.5	0.00044	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28698.1
+GO:0016760	cellulose synthase (UDP-forming) activit...	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13157.1
+GO:0016760	cellulose synthase (UDP-forming) activit...	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13156.1
+GO:0016760	cellulose synthase (UDP-forming) activit...	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09611.1
+GO:0016760	cellulose synthase (UDP-forming) activit...	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13159.1
+GO:0016760	cellulose synthase (UDP-forming) activit...	36	5	2.57	0.11099	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17389.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23194.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00058.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31395.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25751.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23939.1
+GO:0016881	acid-amino acid ligase activity	27	6	1.93	0.01061	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31268.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15400.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc35041.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05978.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27684.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22302.1
+GO:0016896	exoribonuclease activity, producing 5'-p...	36	6	2.57	0.04052	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08885.1
+GO:0017056	structural constituent of nuclear pore	21	4	1.5	0.05855	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26721.1
+GO:0017056	structural constituent of nuclear pore	21	4	1.5	0.05855	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31031.1
+GO:0017056	structural constituent of nuclear pore	21	4	1.5	0.05855	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10131.1
+GO:0017056	structural constituent of nuclear pore	21	4	1.5	0.05855	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10986.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11767.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16939.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23089.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06633.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30542.1
+GO:0019200	carbohydrate kinase activity	42	6	3	0.12110	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08761.1
+GO:0030523	dihydrolipoamide S-acyltransferase activ...	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03222.1
+GO:0030523	dihydrolipoamide S-acyltransferase activ...	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28431.1
+GO:0031177	phosphopantetheine binding	10	2	0.71	0.15682	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37004.1
+GO:0031177	phosphopantetheine binding	10	2	0.71	0.15682	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc27348.1
+GO:0035671	enone reductase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12385.1
+GO:0035671	enone reductase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11082.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21235.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05771.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19363.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18202.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37431.1
+GO:0042054	histone methyltransferase activity	64	8	4.57	0.08469	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13489.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05254.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00688.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10595.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02172.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29823.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16800.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02889.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22990.1
+GO:0044183	protein binding involved in protein fold...	27	9	1.93	6.8e-05	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32463.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	3	1	0.07327	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14954.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	3	1	0.07327	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17123.1
+GO:0044390	ubiquitin-like protein conjugating enzym...	14	3	1	0.07327	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08413.1
+GO:0045430	chalcone isomerase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02533.1
+GO:0045430	chalcone isomerase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02235.1
+GO:0045544	gibberellin 20-oxidase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10961.1
+GO:0045544	gibberellin 20-oxidase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04060.1
+GO:0046423	allene-oxide cyclase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03924.1
+GO:0046423	allene-oxide cyclase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07713.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc04823.1
+GO:0047274	galactinol-sucrose galactosyltransferase...	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29633.1
+GO:0047714	galactolipase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36035.1
+GO:0047714	galactolipase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25147.1
+GO:0047893	flavonol 3-O-glucosyltransferase activit...	40	5	2.86	0.15435	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37461.1
+GO:0047893	flavonol 3-O-glucosyltransferase activit...	40	5	2.86	0.15435	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24199.1
+GO:0047893	flavonol 3-O-glucosyltransferase activit...	40	5	2.86	0.15435	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26295.1
+GO:0047893	flavonol 3-O-glucosyltransferase activit...	40	5	2.86	0.15435	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25284.1
+GO:0047893	flavonol 3-O-glucosyltransferase activit...	40	5	2.86	0.15435	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17394.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	5	1.86	0.01455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26069.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	5	1.86	0.01455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc15103.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	5	1.86	0.01455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14785.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	5	1.86	0.01455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11735.1
+GO:0050734	hydroxycinnamoyltransferase activity	26	5	1.86	0.01455	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11736.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19375.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16800.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22990.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10595.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00688.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02889.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20254.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01082.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14048.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11698.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23744.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc02172.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29823.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21945.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc13619.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26281.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32463.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc21384.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc23457.1
+GO:0051082	unfolded protein binding	112	20	8	0.00012	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc32229.1
+GO:0051184	cofactor transmembrane transporter activ...	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01552.1
+GO:0051184	cofactor transmembrane transporter activ...	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31897.1
+GO:0051184	cofactor transmembrane transporter activ...	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01463.1
+GO:0051184	cofactor transmembrane transporter activ...	27	4	1.93	0.12310	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28365.1
+GO:0052634	C-19 gibberellin 2-beta-dioxygenase acti...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16768.1
+GO:0052634	C-19 gibberellin 2-beta-dioxygenase acti...	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33360.1
+GO:0052691	UDP-arabinopyranose mutase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20521.1
+GO:0052691	UDP-arabinopyranose mutase activity	7	2	0.5	0.08422	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09611.1
+GO:0060590	ATPase regulator activity	11	3	0.79	0.03894	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11698.1
+GO:0060590	ATPase regulator activity	11	3	0.79	0.03894	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05086.1
+GO:0060590	ATPase regulator activity	11	3	0.79	0.03894	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26281.1
+GO:0070717	poly-purine tract binding	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24300.1
+GO:0070717	poly-purine tract binding	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37491.1
+GO:0070717	poly-purine tract binding	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03818.1
+GO:0071949	FAD binding	16	5	1.14	0.00415	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01153.1
+GO:0071949	FAD binding	16	5	1.14	0.00415	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc29256.1
+GO:0071949	FAD binding	16	5	1.14	0.00415	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc36277.1
+GO:0071949	FAD binding	16	5	1.14	0.00415	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc31014.1
+GO:0071949	FAD binding	16	5	1.14	0.00415	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc01308.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30722.1
+GO:0080030	methyl indole-3-acetate esterase activit...	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22019.1
+GO:0080031	methyl salicylate esterase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22019.1
+GO:0080031	methyl salicylate esterase activity	5	2	0.36	0.04412	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30722.1
+GO:0080032	methyl jasmonate esterase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30722.1
+GO:0080032	methyl jasmonate esterase activity	9	2	0.64	0.13143	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22019.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10899.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17394.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06360.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37461.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00028.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26295.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38955.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33437.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24899.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09929.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16633.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10946.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20175.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20775.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08138.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08810.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24199.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12100.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25284.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18488.1
+GO:0080043	quercetin 3-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19647.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17394.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10946.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc19647.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09929.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10899.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18488.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16633.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26295.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08810.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24199.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12100.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37461.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25284.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc06360.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc00028.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc38955.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20775.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24899.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc33437.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08138.1
+GO:0080044	quercetin 7-O-glucosyltransferase activi...	153	21	10.93	0.00298	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20175.1
+GO:0080046	quercetin 4'-O-glucosyltransferase activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18488.1
+GO:0080046	quercetin 4'-O-glucosyltransferase activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12100.1
+GO:0080046	quercetin 4'-O-glucosyltransferase activ...	17	3	1.21	0.11700	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24899.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11735.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11736.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26069.1
+GO:0080072	spermidine:sinapoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14785.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26069.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11736.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11735.1
+GO:0080073	spermidine:coumaroyl CoA N-acyltransfera...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14785.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14785.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11735.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11736.1
+GO:0080074	spermidine:caffeoyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26069.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11735.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc14785.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26069.1
+GO:0080075	spermidine:feruloyl CoA N-acyltransferas...	11	4	0.79	0.00570	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc11736.1
+GO:0102078	methyl jasmonate methylesterase activity	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc22052.1
+GO:0102078	methyl jasmonate methylesterase activity	6	2	0.43	0.06309	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16643.1
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07033.1
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08531.1
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09775.1
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28717.1
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09775.1
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28717.1
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07033.1
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08531.1
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc09775.1
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28717.1
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc07033.1
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	32	4	2.29	0.19220	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc08531.1
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26295.1
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17394.1
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37461.1
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25284.1
+GO:0102360	daphnetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24199.1
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc37461.1
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc17394.1
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc25284.1
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc26295.1
+GO:0102425	myricetin 3-O-glucosyltransferase activi...	39	5	2.79	0.14292	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc24199.1
+GO:0120013	intermembrane lipid transfer activity	11	2	0.79	0.18301	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10642.1
+GO:0120013	intermembrane lipid transfer activity	11	2	0.79	0.18301	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03970.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc28673.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc20178.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc05969.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc03324.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc10764.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18421.1
+GO:0140102	catalytic activity, acting on a rRNA	19	7	1.36	0.00022	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc12931.1
+GO:1901474	azole transmembrane transporter activity	6	3	0.43	0.00618	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc18858.1
+GO:1901474	azole transmembrane transporter activity	6	3	0.43	0.00618	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc30762.1
+GO:1901474	azole transmembrane transporter activity	6	3	0.43	0.00618	5topMF.G1.ND.NS-G1.D.S.up.txt	Lc16112.1
