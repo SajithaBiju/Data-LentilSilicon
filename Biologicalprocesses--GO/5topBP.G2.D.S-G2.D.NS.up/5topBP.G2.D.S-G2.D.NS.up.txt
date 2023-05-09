@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0006952	defense response	2388	443	220.11	< 1e-30
+GO:0006468	protein phosphorylation	1409	251	129.87	2.2e-26
+GO:0009620	response to fungus	604	125	55.67	3.7e-18
+GO:0044550	secondary metabolite biosynthetic proces...	463	119	42.68	6.6e-18
+GO:0006955	immune response	655	130	60.37	9.8e-15
+GO:0009834	plant-type secondary cell wall biogenesi...	104	37	9.59	1.6e-13
+GO:0007165	signal transduction	2557	353	235.68	7.9e-10
+GO:0010200	response to chitin	237	53	21.84	9.6e-10
+GO:0009808	lignin metabolic process	188	47	17.33	2.3e-09
+GO:0007169	transmembrane receptor protein tyrosine ...	217	49	20	2.9e-09
+GO:0006865	amino acid transport	204	46	18.8	1.2e-08
+GO:0010422	regulation of brassinosteroid biosynthet...	17	11	1.57	2.9e-08
+GO:0042343	indole glucosinolate metabolic process	35	15	3.23	1.5e-07
+GO:0080167	response to karrikin	223	46	20.55	1.6e-07
+GO:0048544	recognition of pollen	74	22	6.82	4.9e-07
+GO:0009407	toxin catabolic process	62	19	5.71	1.7e-06
+GO:0080142	regulation of salicylic acid biosyntheti...	12	8	1.11	1.8e-06
+GO:0002237	response to molecule of bacterial origin	79	21	7.28	2.0e-06
+GO:0006749	glutathione metabolic process	82	21	7.56	1.2e-05
+GO:0006857	oligopeptide transport	128	28	11.8	1.3e-05
+GO:0010065	primary meristem tissue development	15	8	1.38	1.8e-05
+GO:0055114	oxidation-reduction process	2387	275	220.01	2.4e-05
+GO:0006836	neurotransmitter transport	34	11	3.13	2.5e-05
+GO:0010120	camalexin biosynthetic process	24	10	2.21	2.5e-05
+GO:0009299	mRNA transcription	24	10	2.21	2.5e-05
+GO:0001944	vasculature development	39	13	3.59	2.7e-05
+GO:0009887	animal organ morphogenesis	45	14	4.15	3.3e-05
+GO:0002252	immune effector process	150	34	13.83	3.4e-05
+GO:0030308	negative regulation of cell growth	18	8	1.66	9.7e-05
+GO:0009833	plant-type primary cell wall biogenesis	24	9	2.21	0.00017
+GO:0009646	response to absence of light	58	15	5.35	0.00018
+GO:0009851	auxin biosynthetic process	92	20	8.48	0.00023
+GO:0010483	pollen tube reception	17	7	1.57	0.00047
+GO:0009820	alkaloid metabolic process	17	7	1.57	0.00047
+GO:0010233	phloem transport	22	8	2.03	0.00050
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.2	0.00059
+GO:0050691	regulation of defense response to virus ...	18	7	1.66	0.00071
+GO:1900055	regulation of leaf senescence	35	10	3.23	0.00092
+GO:0045764	positive regulation of cellular amino ac...	6	4	0.55	0.00093
+GO:0000162	tryptophan biosynthetic process	31	9	2.86	0.00146
+GO:0009812	flavonoid metabolic process	242	39	22.31	0.00148
+GO:0009683	indoleacetic acid metabolic process	26	8	2.4	0.00177
+GO:0042391	regulation of membrane potential	51	12	4.7	0.00192
+GO:0048439	flower morphogenesis	7	4	0.65	0.00201
+GO:0042737	drug catabolic process	363	51	33.46	0.00204
+GO:0009641	shade avoidance	33	9	3.04	0.00236
+GO:0017001	antibiotic catabolic process	133	23	12.26	0.00236
+GO:0010115	regulation of abscisic acid biosynthetic...	17	6	1.57	0.00309
+GO:0010089	xylem development	105	19	9.68	0.00323
+GO:0019748	secondary metabolic process	695	173	64.06	0.00434
+GO:0009085	lysine biosynthetic process	19	6	1.75	0.00576
+GO:0010051	xylem and phloem pattern formation	96	17	8.85	0.00645
+GO:0010966	regulation of phosphate transport	5	3	0.46	0.00678
+GO:0090357	regulation of tryptophan metabolic proce...	5	3	0.46	0.00678
+GO:0043406	positive regulation of MAP kinase activi...	5	3	0.46	0.00678
+GO:1901699	cellular response to nitrogen compound	94	18	8.66	0.00707
+GO:1903338	regulation of cell wall organization or ...	42	10	3.87	0.00721
+GO:0048830	adventitious root development	20	6	1.84	0.00760
+GO:0009625	response to insect	20	6	1.84	0.00760
+GO:0080144	amino acid homeostasis	26	7	2.4	0.00767
+GO:0001763	morphogenesis of a branching structure	33	8	3.04	0.00878
+GO:0015696	ammonium transport	15	5	1.38	0.00905
+GO:0010411	xyloglucan metabolic process	84	15	7.74	0.00938
+GO:0006558	L-phenylalanine metabolic process	27	7	2.49	0.00954
+GO:0018279	protein N-linked glycosylation via aspar...	10	4	0.92	0.00960
+GO:0045229	external encapsulating structure organiz...	763	100	70.33	0.00991
+GO:0030244	cellulose biosynthetic process	65	13	5.99	0.01018
+GO:1902358	sulfate transmembrane transport	16	5	1.47	0.01218
+GO:0042743	hydrogen peroxide metabolic process	195	28	17.97	0.01242
+GO:0045827	negative regulation of isoprenoid metabo...	6	3	0.55	0.01264
+GO:0010618	aerenchyma formation	6	3	0.55	0.01264
+GO:0080088	spermidine hydroxycinnamate conjugate bi...	11	4	1.01	0.01399
+GO:0055074	calcium ion homeostasis	46	10	4.24	0.01494
+GO:0031640	killing of cells of other organism	36	8	3.32	0.01496
+GO:0052033	pathogen-associated molecular pattern de...	23	6	2.12	0.01558
+GO:0065001	specification of axis polarity	51	10	4.7	0.01664
+GO:0015698	inorganic anion transport	184	31	16.96	0.01863
+GO:0042178	xenobiotic catabolic process	12	4	1.11	0.01948
+GO:0009399	nitrogen fixation	7	3	0.65	0.02061
+GO:0048833	specification of floral organ number	7	3	0.65	0.02061
+GO:0071289	cellular response to nickel ion	7	3	0.65	0.02061
+GO:0046323	glucose import	68	12	6.27	0.02065
+GO:0071456	cellular response to hypoxia	50	10	4.61	0.02278
+GO:2000067	regulation of root morphogenesis	19	5	1.75	0.02571
+GO:0009867	jasmonic acid mediated signaling pathway	159	27	14.66	0.02595
+GO:0030104	water homeostasis	13	4	1.2	0.02613
+GO:0009819	drought recovery	13	4	1.2	0.02613
+GO:0009411	response to UV	240	32	22.12	0.02697
+GO:0016045	detection of bacterium	8	3	0.74	0.03074
+GO:0090615	mitochondrial mRNA processing	8	3	0.74	0.03074
+GO:1903959	regulation of anion transmembrane transp...	34	7	3.13	0.03331
+GO:0051055	negative regulation of lipid biosyntheti...	14	4	1.29	0.03397
+GO:0010271	regulation of chlorophyll catabolic proc...	14	4	1.29	0.03397
+GO:0048441	petal development	35	7	3.23	0.03793
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.58	0.03922
+GO:0010039	response to iron ion	83	13	7.65	0.04001
+GO:0019483	beta-alanine biosynthetic process	15	4	1.38	0.04303
+GO:0031540	regulation of anthocyanin biosynthetic p...	29	6	2.67	0.04573
+GO:0007338	single fertilization	37	7	3.41	0.04952
+GO:0006563	L-serine metabolic process	45	8	4.15	0.05124

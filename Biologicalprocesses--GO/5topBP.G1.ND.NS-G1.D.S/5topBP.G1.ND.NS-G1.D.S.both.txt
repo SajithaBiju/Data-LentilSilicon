@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0080167	response to karrikin	223	72	33.69	8.7e-11
+GO:0048511	rhythmic process	201	64	30.36	1.8e-09
+GO:0009416	response to light stimulus	1236	282	186.71	4.0e-08
+GO:0009311	oligosaccharide metabolic process	116	39	17.52	8.6e-08
+GO:0006559	L-phenylalanine catabolic process	12	10	1.81	3.0e-07
+GO:0009819	drought recovery	13	10	1.96	1.1e-06
+GO:0016554	cytidine to uridine editing	19	12	2.87	2.5e-06
+GO:0009611	response to wounding	490	112	74.02	3.1e-06
+GO:0042254	ribosome biogenesis	540	121	81.57	9.9e-06
+GO:0010114	response to red light	99	32	14.96	1.3e-05
+GO:0009636	response to toxic substance	364	84	54.99	1.4e-05
+GO:0015994	chlorophyll metabolic process	136	40	20.54	1.6e-05
+GO:0009415	response to water	636	138	96.07	0.00011
+GO:0006839	mitochondrial transport	158	42	23.87	0.00013
+GO:0009800	cinnamic acid biosynthetic process	8	6	1.21	0.00025
+GO:0019336	phenol-containing compound catabolic pro...	11	7	1.66	0.00034
+GO:0043043	peptide biosynthetic process	1121	211	169.34	0.00036
+GO:1900865	chloroplast RNA modification	29	12	4.38	0.00058
+GO:0009641	shade avoidance	33	13	4.99	0.00061
+GO:0019760	glucosinolate metabolic process	117	32	17.67	0.00062
+GO:0031425	chloroplast RNA processing	30	12	4.53	0.00083
+GO:0009684	indoleacetic acid biosynthetic process	23	10	3.47	0.00105
+GO:0071470	cellular response to osmotic stress	53	17	8.01	0.00149
+GO:0009694	jasmonic acid metabolic process	106	28	16.01	0.00178
+GO:0006020	inositol metabolic process	17	8	2.57	0.00181
+GO:0015695	organic cation transport	21	9	3.17	0.00211
+GO:0010039	response to iron ion	83	23	12.54	0.00225
+GO:0006561	proline biosynthetic process	14	7	2.11	0.00230
+GO:0042128	nitrate assimilation	55	17	8.31	0.00233
+GO:0031408	oxylipin biosynthetic process	100	26	15.11	0.00322
+GO:0016131	brassinosteroid metabolic process	66	19	9.97	0.00329
+GO:0052542	defense response by callose deposition	39	13	5.89	0.00356
+GO:0009631	cold acclimation	62	18	9.37	0.00377
+GO:0055081	anion homeostasis	69	21	10.42	0.00407
+GO:0003333	amino acid transmembrane transport	112	27	16.92	0.00432
+GO:0016123	xanthophyll biosynthetic process	9	5	1.36	0.00580
+GO:0042026	protein refolding	16	7	2.42	0.00580
+GO:0046688	response to copper ion	16	7	2.42	0.00580
+GO:0018107	peptidyl-threonine phosphorylation	28	10	4.23	0.00587
+GO:0006557	S-adenosylmethioninamine biosynthetic pr...	6	4	0.91	0.00604
+GO:0071712	ER-associated misfolded protein cataboli...	6	4	0.91	0.00604
+GO:0010236	plastoquinone biosynthetic process	6	4	0.91	0.00604
+GO:0048830	adventitious root development	20	8	3.02	0.00617
+GO:1902456	regulation of stomatal opening	20	8	3.02	0.00617
+GO:0010189	vitamin E biosynthetic process	13	6	1.96	0.00779
+GO:1901002	positive regulation of response to salt ...	13	6	1.96	0.00779
+GO:0010197	polar nucleus fusion	43	13	6.5	0.00895
+GO:0009061	anaerobic respiration	10	5	1.51	0.01016
+GO:0071492	cellular response to UV-A	10	5	1.51	0.01016
+GO:0070417	cellular response to cold	58	16	8.76	0.01033
+GO:0009682	induced systemic resistance	44	13	6.65	0.01098
+GO:0006636	unsaturated fatty acid biosynthetic proc...	35	11	5.29	0.01151
+GO:0032527	protein exit from endoplasmic reticulum	7	4	1.06	0.01240
+GO:0009939	positive regulation of gibberellic acid ...	7	4	1.06	0.01240
+GO:0043628	ncRNA 3'-end processing	27	9	4.08	0.01440
+GO:0010017	red or far-red light signaling pathway	117	27	17.67	0.01454
+GO:0006857	oligopeptide transport	128	29	19.34	0.01495
+GO:0019748	secondary metabolic process	695	147	104.99	0.01526
+GO:0016556	mRNA modification	81	20	12.24	0.01605
+GO:0042793	plastid transcription	11	5	1.66	0.01634
+GO:0015696	ammonium transport	15	6	2.27	0.01735
+GO:0046173	polyol biosynthetic process	28	9	4.23	0.01844
+GO:0009902	chloroplast relocation	28	9	4.23	0.01844
+GO:0009833	plant-type primary cell wall biogenesis	24	8	3.63	0.02062
+GO:0043447	alkane biosynthetic process	8	4	1.21	0.02186
+GO:0035336	long-chain fatty-acyl-CoA metabolic proc...	8	4	1.21	0.02186
+GO:0046184	aldehyde biosynthetic process	8	4	1.21	0.02186
+GO:0010021	amylopectin biosynthetic process	8	4	1.21	0.02186
+GO:0072348	sulfur compound transport	43	12	6.5	0.02242
+GO:0055072	iron ion homeostasis	73	19	11.03	0.02277
+GO:0000041	transition metal ion transport	135	31	20.39	0.02304
+GO:0006863	purine nucleobase transport	16	6	2.42	0.02428
+GO:0000466	maturation of 5.8S rRNA from tricistroni...	12	5	1.81	0.02458
+GO:0009266	response to temperature stimulus	1117	206	168.73	0.02616
+GO:0010501	RNA secondary structure unwinding	64	16	9.67	0.02616
+GO:0042538	hyperosmotic salinity response	85	20	12.84	0.02650
+GO:0042168	heme metabolic process	44	12	6.65	0.02671
+GO:0035019	somatic stem cell population maintenance	5	3	0.76	0.02712
+GO:0006564	L-serine biosynthetic process	5	3	0.76	0.02712
+GO:0030497	fatty acid elongation	5	3	0.76	0.02712
+GO:0010201	response to continuous far red light sti...	5	3	0.76	0.02712
+GO:0010966	regulation of phosphate transport	5	3	0.76	0.02712
+GO:0050982	detection of mechanical stimulus	5	3	0.76	0.02712
+GO:0008615	pyridoxine biosynthetic process	5	3	0.76	0.02712
+GO:0006970	response to osmotic stress	1142	210	172.51	0.02778
+GO:0010030	positive regulation of seed germination	40	11	6.04	0.03124
+GO:0032353	negative regulation of hormone biosynthe...	9	4	1.36	0.03471
+GO:0051984	positive regulation of chromosome segreg...	9	4	1.36	0.03471
+GO:0097468	programmed cell death in response to rea...	9	4	1.36	0.03471
+GO:0010586	miRNA metabolic process	13	5	1.96	0.03508
+GO:0000162	tryptophan biosynthetic process	31	9	4.68	0.03540
+GO:0006787	porphyrin-containing compound catabolic ...	31	9	4.68	0.03540
+GO:0010166	wax metabolic process	51	13	7.7	0.03664
+GO:0051181	cofactor transport	46	12	6.95	0.03703
+GO:0006801	superoxide metabolic process	29	7	4.38	0.04316
+GO:0046274	lignin catabolic process	37	10	5.59	0.04356
+GO:0055088	lipid homeostasis	58	14	8.76	0.04715
+GO:0048544	recognition of pollen	74	17	11.18	0.04740
+GO:0010345	suberin biosynthetic process	23	7	3.47	0.04779
+GO:1901068	guanosine-containing compound metabolic ...	14	5	2.11	0.04795

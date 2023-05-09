@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0019388	galactose catabolic process	12	2	0.02	0.00023
+GO:0055072	iron ion homeostasis	73	4	0.14	0.00027
+GO:0009590	detection of gravity	13	2	0.02	0.00027
+GO:0005978	glycogen biosynthetic process	22	2	0.04	0.00079
+GO:0009694	jasmonic acid metabolic process	106	3	0.2	0.00108
+GO:0032508	DNA duplex unwinding	29	2	0.05	0.00138
+GO:0009611	response to wounding	490	5	0.93	0.00231
+GO:0055114	oxidation-reduction process	2387	13	4.52	0.00298
+GO:0019252	starch biosynthetic process	45	2	0.09	0.00330
+GO:0006006	glucose metabolic process	61	2	0.12	0.00599
+GO:0009631	cold acclimation	62	2	0.12	0.00618
+GO:0010501	RNA secondary structure unwinding	64	2	0.12	0.00657
+GO:0010193	response to ozone	75	2	0.14	0.00893
+GO:0009102	biotin biosynthetic process	5	1	0.01	0.00943
+GO:0010046	response to mycotoxin	6	1	0.01	0.01130
+GO:0006167	AMP biosynthetic process	6	1	0.01	0.01130
+GO:0010106	cellular response to iron ion starvation	6	1	0.01	0.01130
+GO:0048480	stigma development	6	1	0.01	0.01130
+GO:0071035	nuclear polyadenylation-dependent rRNA c...	6	1	0.01	0.01130
+GO:0010587	miRNA catabolic process	7	1	0.01	0.01318
+GO:0034471	ncRNA 5'-end processing	7	1	0.01	0.01318
+GO:0032261	purine nucleotide salvage	8	1	0.02	0.01504
+GO:1904668	positive regulation of ubiquitin protein...	8	1	0.02	0.01504
+GO:0060149	negative regulation of posttranscription...	8	1	0.02	0.01504
+GO:0010114	response to red light	99	2	0.19	0.01517
+GO:1901678	iron coordination entity transport	9	1	0.02	0.01691
+GO:0015691	cadmium ion transport	10	1	0.02	0.01877
+GO:0071492	cellular response to UV-A	10	1	0.02	0.01877
+GO:0071486	cellular response to high light intensit...	12	1	0.02	0.02248
+GO:0006875	cellular metal ion homeostasis	151	3	0.29	0.02372
+GO:0009819	drought recovery	13	1	0.02	0.02433
+GO:2000377	regulation of reactive oxygen species me...	128	2	0.24	0.02454
+GO:0010190	cytochrome b6f complex assembly	14	1	0.03	0.02618
+GO:0010117	photoprotection	14	1	0.03	0.02618
+GO:0048443	stamen development	141	2	0.27	0.02934
+GO:0046129	purine ribonucleoside biosynthetic proce...	18	1	0.03	0.03354
+GO:0009867	jasmonic acid mediated signaling pathway	159	2	0.3	0.03655
+GO:0043174	nucleoside salvage	21	1	0.04	0.03902
+GO:0010233	phloem transport	22	1	0.04	0.04084
+GO:0009113	purine nucleobase biosynthetic process	23	1	0.04	0.04265
+GO:0052033	pathogen-associated molecular pattern de...	23	1	0.04	0.04265
+GO:0016024	CDP-diacylglycerol biosynthetic process	23	1	0.04	0.04265
+GO:0006828	manganese ion transport	25	1	0.05	0.04628
+GO:0015692	lead ion transport	25	1	0.05	0.04628
+GO:0080036	regulation of cytokinin-activated signal...	28	1	0.05	0.05169
+GO:0006826	iron ion transport	33	1	0.06	0.06064
+GO:0071490	cellular response to far red light	35	1	0.07	0.06420
+GO:0080167	response to karrikin	223	2	0.42	0.06677
+GO:0002213	defense response to insect	37	1	0.07	0.06774
+GO:0009411	response to UV	240	3	0.45	0.06820
+GO:0045926	negative regulation of growth	38	1	0.07	0.06951
+GO:0019432	triglyceride biosynthetic process	40	1	0.08	0.07303
+GO:0010030	positive regulation of seed germination	40	1	0.08	0.07303
+GO:0071483	cellular response to blue light	42	1	0.08	0.07654
+GO:0006032	chitin catabolic process	43	1	0.08	0.07829
+GO:0030048	actin filament-based movement	43	1	0.08	0.07829
+GO:0010072	primary shoot apical meristem specificat...	44	1	0.08	0.08004
+GO:0010380	regulation of chlorophyll biosynthetic p...	44	1	0.08	0.08004
+GO:0006662	glycerol ether metabolic process	48	1	0.09	0.08699
+GO:0042631	cellular response to water deprivation	49	1	0.09	0.08873
+GO:0000272	polysaccharide catabolic process	277	2	0.52	0.09677
+GO:2000030	regulation of response to red or far red...	59	1	0.11	0.10586
+GO:0010183	pollen tube guidance	62	1	0.12	0.11094
+GO:0048229	gametophyte development	625	3	1.18	0.11467
+GO:0009686	gibberellin biosynthetic process	65	1	0.12	0.11599
+GO:0034605	cellular response to heat	73	1	0.14	0.12932
+GO:0010043	response to zinc ion	82	1	0.16	0.14408
+GO:0009585	red, far-red light phototransduction	97	1	0.18	0.16813
+GO:0031408	oxylipin biosynthetic process	100	1	0.19	0.17287
+GO:0031348	negative regulation of defense response	104	1	0.2	0.17913
+GO:0009740	gibberellic acid mediated signaling path...	113	1	0.21	0.19306
+GO:0000226	microtubule cytoskeleton organization	126	1	0.24	0.21278
+GO:0007346	regulation of mitotic cell cycle	127	1	0.24	0.21427
+GO:0009627	systemic acquired resistance	128	1	0.24	0.21577
+GO:0006857	oligopeptide transport	128	1	0.24	0.21577
+GO:0044550	secondary metabolite biosynthetic proces...	463	2	0.88	0.21843
+GO:0009640	photomorphogenesis	137	1	0.26	0.22909
+GO:0034599	cellular response to oxidative stress	143	1	0.27	0.23785
+GO:0006754	ATP biosynthetic process	165	1	0.31	0.26913
+GO:0009414	response to water deprivation	626	4	1.18	0.28450
+GO:0031347	regulation of defense response	387	3	0.73	0.29143
+GO:0045454	cell redox homeostasis	185	1	0.35	0.29647
+GO:0006470	protein dephosphorylation	188	1	0.36	0.30048
+GO:0009651	response to salt stress	1014	3	1.92	0.30100
+GO:0006364	rRNA processing	189	1	0.36	0.30182
+GO:0010119	regulation of stomatal movement	203	1	0.38	0.32022
+GO:0009813	flavonoid biosynthetic process	217	1	0.41	0.33814
+GO:0042545	cell wall modification	237	1	0.45	0.36295
+GO:0009409	response to cold	777	4	1.47	0.37711
+GO:0009733	response to auxin	695	2	1.32	0.38013
+GO:0007275	multicellular organism development	4444	11	8.41	0.38295
+GO:0016051	carbohydrate biosynthetic process	477	3	0.9	0.38795
+GO:0046686	response to cadmium ion	713	2	1.35	0.39229
+GO:0009642	response to light intensity	280	2	0.53	0.39392
+GO:0010035	response to inorganic substance	1738	9	3.29	0.42454
+GO:0055085	transmembrane transport	1357	3	2.57	0.47731
+GO:0009617	response to bacterium	904	3	1.71	0.49107
+GO:0000160	phosphorelay signal transduction system	362	1	0.69	0.49856
+GO:0015979	photosynthesis	391	1	0.74	0.52572
+GO:1903507	negative regulation of nucleic acid-temp...	404	1	0.76	0.53743

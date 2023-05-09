@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0006412	translation	1114	188	79.69	2.0e-28
+GO:0042254	ribosome biogenesis	540	118	38.63	7.4e-23
+GO:0016554	cytidine to uridine editing	19	12	1.36	5.5e-10
+GO:0009451	RNA modification	397	82	28.4	1.5e-09
+GO:0006626	protein targeting to mitochondrion	49	15	3.5	9.6e-07
+GO:0031425	chloroplast RNA processing	30	11	2.15	3.7e-06
+GO:0010501	RNA secondary structure unwinding	64	15	4.58	3.5e-05
+GO:0042026	protein refolding	16	7	1.14	6.1e-05
+GO:0043628	ncRNA 3'-end processing	27	9	1.93	6.9e-05
+GO:0007623	circadian rhythm	190	29	13.59	8.8e-05
+GO:0009684	indoleacetic acid biosynthetic process	23	8	1.65	0.00013
+GO:0006397	mRNA processing	461	57	32.98	0.00015
+GO:0048830	adventitious root development	20	7	1.43	0.00032
+GO:0006458	'de novo' protein folding	31	9	2.22	0.00033
+GO:0009641	shade avoidance	33	9	2.36	0.00038
+GO:1990542	mitochondrial transmembrane transport	64	13	4.58	0.00052
+GO:0042793	plastid transcription	11	5	0.79	0.00060
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.57	0.00062
+GO:0032508	DNA duplex unwinding	29	8	2.07	0.00074
+GO:0000466	maturation of 5.8S rRNA from tricistroni...	12	5	0.86	0.00096
+GO:0070413	trehalose metabolism in response to stre...	12	5	0.86	0.00096
+GO:0000373	Group II intron splicing	24	7	1.72	0.00111
+GO:0000162	tryptophan biosynthetic process	31	8	2.22	0.00120
+GO:0052544	defense response by callose deposition i...	31	8	2.22	0.00120
+GO:0009694	jasmonic acid metabolic process	106	17	7.58	0.00137
+GO:0044743	protein transmembrane import into intrac...	65	12	4.65	0.00200
+GO:1902456	regulation of stomatal opening	20	6	1.43	0.00215
+GO:0051984	positive regulation of chromosome segreg...	9	4	0.64	0.00246
+GO:0009790	embryo development	954	95	68.24	0.00252
+GO:0030397	membrane disassembly	21	6	1.5	0.00283
+GO:0010197	polar nucleus fusion	43	9	3.08	0.00294
+GO:0006564	L-serine biosynthetic process	5	3	0.36	0.00327
+GO:0009682	induced systemic resistance	44	9	3.15	0.00347
+GO:0009061	anaerobic respiration	10	4	0.72	0.00386
+GO:0090151	establishment of protein localization to...	16	5	1.14	0.00417
+GO:0080088	spermidine hydroxycinnamate conjugate bi...	11	4	0.79	0.00573
+GO:0071712	ER-associated misfolded protein cataboli...	6	3	0.43	0.00620
+GO:0006353	DNA-templated transcription, termination	18	5	1.29	0.00726
+GO:0065002	intracellular protein transmembrane tran...	107	15	7.65	0.00917
+GO:0017004	cytochrome complex assembly	34	7	2.43	0.00921
+GO:0080167	response to karrikin	223	26	15.95	0.00962
+GO:0046482	para-aminobenzoic acid metabolic process	7	3	0.5	0.01028
+GO:0032527	protein exit from endoplasmic reticulum	7	3	0.5	0.01028
+GO:0009631	cold acclimation	62	10	4.43	0.01208
+GO:0015695	organic cation transport	21	5	1.5	0.01443
+GO:0006633	fatty acid biosynthetic process	321	33	22.96	0.02308
+GO:0019760	glucosinolate metabolic process	117	20	8.37	0.02401
+GO:0000959	mitochondrial RNA metabolic process	80	19	5.72	0.02475
+GO:0032973	amino acid export across plasma membrane	24	5	1.72	0.02523
+GO:0005992	trehalose biosynthetic process	24	5	1.72	0.02523
+GO:0000105	histidine biosynthetic process	17	4	1.22	0.02928
+GO:2000114	regulation of establishment of cell pola...	10	3	0.72	0.02997
+GO:0010244	response to low fluence blue light stimu...	10	3	0.72	0.02997
+GO:0034427	nuclear-transcribed mRNA catabolic proce...	10	3	0.72	0.02997
+GO:0018198	peptidyl-cysteine modification	34	6	2.43	0.03171
+GO:0080144	amino acid homeostasis	26	5	1.86	0.03471
+GO:0006839	mitochondrial transport	158	28	11.3	0.03817
+GO:0010031	circumnutation	11	3	0.79	0.03906
+GO:0048579	negative regulation of long-day photoper...	11	3	0.79	0.03906
+GO:0034440	lipid oxidation	110	14	7.87	0.04364
+GO:0090322	regulation of superoxide metabolic proce...	16	3	1.14	0.04421
+GO:1902347	response to strigolactone	5	2	0.36	0.04422
+GO:0070483	detection of hypoxia	5	2	0.36	0.04422
+GO:0010219	regulation of vernalization response	5	2	0.36	0.04422
+GO:0072387	flavin adenine dinucleotide metabolic pr...	5	2	0.36	0.04422
+GO:0060969	negative regulation of gene silencing	20	4	1.43	0.05032
+GO:0006396	RNA processing	940	130	67.24	0.05033
+GO:0006457	protein folding	408	42	29.18	0.05342
+GO:0061077	chaperone-mediated protein folding	79	10	5.65	0.05472
+GO:1901371	regulation of leaf morphogenesis	21	4	1.5	0.05876
+GO:0000380	alternative mRNA splicing, via spliceoso...	21	4	1.5	0.05876
+GO:0010067	procambium histogenesis	13	3	0.93	0.06087
+GO:0009819	drought recovery	13	3	0.93	0.06087
+GO:0016073	snRNA metabolic process	16	5	1.14	0.06310
+GO:0031112	positive regulation of microtubule polym...	6	2	0.43	0.06323
+GO:0009092	homoserine metabolic process	6	2	0.43	0.06323
+GO:0010450	inflorescence meristem growth	6	2	0.43	0.06323
+GO:0071035	nuclear polyadenylation-dependent rRNA c...	6	2	0.43	0.06323
+GO:0006348	chromatin silencing at telomere	6	2	0.43	0.06323
+GO:0072531	pyrimidine-containing compound transmemb...	6	2	0.43	0.06323
+GO:0046256	2,4,6-trinitrotoluene catabolic process	6	2	0.43	0.06323
+GO:0000076	DNA replication checkpoint	6	2	0.43	0.06323
+GO:0015853	adenine transport	6	2	0.43	0.06323
+GO:0015854	guanine transport	6	2	0.43	0.06323
+GO:0006999	nuclear pore organization	6	2	0.43	0.06323
+GO:1901679	nucleotide transmembrane transport	6	2	0.43	0.06323
+GO:0016444	somatic cell DNA recombination	14	3	1	0.07348
+GO:0006561	proline biosynthetic process	14	3	1	0.07348
+GO:0009658	chloroplast organization	258	25	18.45	0.07567
+GO:0140053	mitochondrial gene expression	23	4	1.65	0.07775
+GO:0019856	pyrimidine nucleobase biosynthetic proce...	23	4	1.65	0.07775
+GO:0009561	megagametogenesis	84	15	6.01	0.08301
+GO:0043488	regulation of mRNA stability	7	2	0.5	0.08440
+GO:0010597	green leaf volatile biosynthetic process	7	2	0.5	0.08440
+GO:0043928	exonucleolytic nuclear-transcribed mRNA ...	7	2	0.5	0.08440
+GO:0071028	nuclear mRNA surveillance	7	2	0.5	0.08440
+GO:0015857	uracil transport	7	2	0.5	0.08440
+GO:0015846	polyamine transport	7	2	0.5	0.08440
+GO:0051322	anaphase	7	2	0.5	0.08440
+GO:0034471	ncRNA 5'-end processing	7	2	0.5	0.08440

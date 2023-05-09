@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0001101	response to acid chemical	2048	363	191.18	1.2e-27
+GO:0009611	response to wounding	490	106	45.74	2.6e-16
+GO:0006970	response to osmotic stress	1142	191	106.61	6.9e-15
+GO:0010200	response to chitin	237	51	22.12	1.2e-08
+GO:0006914	autophagy	82	26	7.65	1.4e-08
+GO:0009409	response to cold	777	114	72.53	8.1e-07
+GO:0016567	protein ubiquitination	712	107	66.47	8.1e-07
+GO:0009695	jasmonic acid biosynthetic process	89	24	8.31	1.4e-06
+GO:0010597	green leaf volatile biosynthetic process	7	6	0.65	4.2e-06
+GO:0046351	disaccharide biosynthetic process	54	16	5.04	2.1e-05
+GO:0009620	response to fungus	604	87	56.38	3.1e-05
+GO:0007033	vacuole organization	91	23	8.49	3.2e-05
+GO:0031408	oxylipin biosynthetic process	100	23	9.34	3.8e-05
+GO:0046677	response to antibiotic	514	77	47.98	4.1e-05
+GO:0006787	porphyrin-containing compound catabolic ...	31	11	2.89	6.6e-05
+GO:0042594	response to starvation	226	40	21.1	7.1e-05
+GO:1901700	response to oxygen-containing compound	2681	439	250.27	8.5e-05
+GO:0042128	nitrate assimilation	55	15	5.13	0.00011
+GO:0006979	response to oxidative stress	786	108	73.37	0.00011
+GO:0010345	suberin biosynthetic process	23	9	2.15	0.00013
+GO:1900140	regulation of seedling development	152	29	14.19	0.00016
+GO:0016311	dephosphorylation	271	44	25.3	0.00019
+GO:0009268	response to pH	11	6	1.03	0.00020
+GO:0031098	stress-activated protein kinase signalin...	35	11	3.27	0.00023
+GO:0043620	regulation of DNA-templated transcriptio...	5	4	0.47	0.00035
+GO:0006552	leucine catabolic process	5	4	0.47	0.00035
+GO:0006559	L-phenylalanine catabolic process	12	6	1.12	0.00037
+GO:0070413	trehalose metabolism in response to stre...	12	6	1.12	0.00037
+GO:0006355	regulation of transcription, DNA-templat...	3229	362	301.43	0.00051
+GO:0071329	cellular response to sucrose stimulus	17	7	1.59	0.00051
+GO:0000122	negative regulation of transcription by ...	22	8	2.05	0.00055
+GO:0009642	response to light intensity	280	44	26.14	0.00055
+GO:0006012	galactose metabolic process	63	15	5.88	0.00055
+GO:0010286	heat acclimation	97	20	9.05	0.00056
+GO:0006511	ubiquitin-dependent protein catabolic pr...	481	71	44.9	0.00064
+GO:0010226	response to lithium ion	9	5	0.84	0.00064
+GO:0010325	raffinose family oligosaccharide biosynt...	6	4	0.56	0.00097
+GO:0019373	epoxygenase P450 pathway	6	4	0.56	0.00097
+GO:0010150	leaf senescence	250	39	23.34	0.00102
+GO:0006561	proline biosynthetic process	14	6	1.31	0.00102
+GO:0000160	phosphorelay signal transduction system	362	57	33.79	0.00116
+GO:0009065	glutamine family amino acid catabolic pr...	14	6	1.31	0.00119
+GO:1901562	response to paraquat	10	5	0.93	0.00119
+GO:0072329	monocarboxylic acid catabolic process	88	22	8.21	0.00121
+GO:0009696	salicylic acid metabolic process	61	14	5.69	0.00123
+GO:0010105	negative regulation of ethylene-activate...	30	9	2.8	0.00123
+GO:2000022	regulation of jasmonic acid mediated sig...	25	8	2.33	0.00144
+GO:0006635	fatty acid beta-oxidation	62	14	5.79	0.00145
+GO:0010039	response to iron ion	83	17	7.75	0.00152
+GO:0017000	antibiotic biosynthetic process	43	11	4.01	0.00158
+GO:0046165	alcohol biosynthetic process	102	19	9.52	0.00178
+GO:0019676	ammonia assimilation cycle	11	5	1.03	0.00202
+GO:0019336	phenol-containing compound catabolic pro...	11	5	1.03	0.00202
+GO:0009939	positive regulation of gibberellic acid ...	7	4	0.65	0.00210
+GO:0035264	multicellular organism growth	7	4	0.65	0.00210
+GO:0030644	cellular chloride ion homeostasis	7	4	0.65	0.00210
+GO:0032147	activation of protein kinase activity	33	9	3.08	0.00258
+GO:0010498	proteasomal protein catabolic process	216	38	20.16	0.00297
+GO:0043562	cellular response to nitrogen levels	67	14	6.25	0.00315
+GO:0055078	sodium ion homeostasis	12	5	1.12	0.00319
+GO:0009617	response to bacterium	904	109	84.39	0.00338
+GO:0016143	S-glycoside metabolic process	117	17	10.92	0.00365
+GO:0097054	L-glutamate biosynthetic process	8	4	0.75	0.00390
+GO:0051446	positive regulation of meiotic cell cycl...	8	4	0.75	0.00390
+GO:0097428	protein maturation by iron-sulfur cluste...	8	4	0.75	0.00390
+GO:0007568	aging	350	57	32.67	0.00451
+GO:0071333	cellular response to glucose stimulus	18	6	1.68	0.00455
+GO:0080027	response to herbivore	36	9	3.36	0.00487
+GO:0005985	sucrose metabolic process	56	12	5.23	0.00488
+GO:0009313	oligosaccharide catabolic process	9	4	0.84	0.00650
+GO:0010336	gibberellic acid homeostasis	5	3	0.47	0.00703
+GO:2000232	regulation of rRNA processing	5	3	0.47	0.00703
+GO:0043406	positive regulation of MAP kinase activi...	5	3	0.47	0.00703
+GO:1900459	positive regulation of brassinosteroid m...	5	3	0.47	0.00703
+GO:0006891	intra-Golgi vesicle-mediated transport	59	12	5.51	0.00754
+GO:0023014	signal transduction by protein phosphory...	40	11	3.73	0.00775
+GO:0010227	floral organ abscission	25	7	2.33	0.00807
+GO:0080167	response to karrikin	223	32	20.82	0.00960
+GO:1904589	regulation of protein import	10	4	0.93	0.01004
+GO:0009407	toxin catabolic process	62	12	5.79	0.01122
+GO:2000762	regulation of phenylpropanoid metabolic ...	50	10	4.67	0.01137
+GO:0018107	peptidyl-threonine phosphorylation	28	7	2.61	0.01254
+GO:0046688	response to copper ion	16	5	1.49	0.01283
+GO:0016121	carotene catabolic process	6	3	0.56	0.01309
+GO:0016124	xanthophyll catabolic process	6	3	0.56	0.01309
+GO:0071712	ER-associated misfolded protein cataboli...	6	3	0.56	0.01309
+GO:0030258	lipid modification	172	32	16.06	0.01466
+GO:0010431	seed maturation	91	16	8.49	0.01550
+GO:0032101	regulation of response to external stimu...	127	21	11.86	0.01577
+GO:0002831	regulation of response to biotic stimulu...	119	19	11.11	0.01584
+GO:0033865	nucleoside bisphosphate metabolic proces...	73	14	6.81	0.01671
+GO:0006020	inositol metabolic process	17	5	1.59	0.01680
+GO:0033157	regulation of intracellular protein tran...	17	5	1.59	0.01680
+GO:0006414	translational elongation	93	16	8.68	0.01739
+GO:0033993	response to lipid	1226	211	114.45	0.01829
+GO:0016125	sterol metabolic process	95	16	8.87	0.01913
+GO:0010120	camalexin biosynthetic process	24	6	2.24	0.02033
+GO:0006880	intracellular sequestering of iron ion	24	6	2.24	0.02033
+GO:0048511	rhythmic process	201	28	18.76	0.02105
+GO:0016093	polyprenol metabolic process	7	3	0.65	0.02133

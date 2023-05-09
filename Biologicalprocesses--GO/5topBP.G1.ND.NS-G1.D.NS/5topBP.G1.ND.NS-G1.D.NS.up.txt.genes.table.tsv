@@ -1,0 +1,1905 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value	nc	Genes
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03324.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17530.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10764.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13090.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37193.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05969.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20178.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28673.1
+GO:0000154	rRNA modification	21	9	1.89	4.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29398.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05489.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34958.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19703.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0000162	tryptophan biosynthetic process	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0000914	phragmoplast assembly	6	5	0.54	3.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24494.1
+GO:0000914	phragmoplast assembly	6	5	0.54	3.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12331.1
+GO:0000914	phragmoplast assembly	6	5	0.54	3.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06351.1
+GO:0000914	phragmoplast assembly	6	5	0.54	3.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02276.1
+GO:0000914	phragmoplast assembly	6	5	0.54	3.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17900.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05769.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14175.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10730.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02239.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21341.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11196.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25694.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11439.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02206.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01390.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05978.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09417.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09235.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21371.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13079.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25549.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06870.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26292.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09345.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30670.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32868.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34280.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33918.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08676.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28510.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30305.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33404.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22468.1
+GO:0000959	mitochondrial RNA metabolic process	80	29	7.21	2.2e-11	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34854.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00052.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04191.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27342.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23234.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00069.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00237.1
+GO:0001944	vasculature development	39	9	3.51	0.00676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26897.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11115.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14011.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10214.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10652.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19213.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11385.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16443.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29828.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06840.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11939.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17970.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21920.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29771.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34196.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17905.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12154.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14017.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25433.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21844.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36938.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37086.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15452.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23635.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13657.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27207.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23189.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06171.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03273.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21226.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19602.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22151.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13790.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12496.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01738.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14649.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38197.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20566.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20171.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15460.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03050.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36924.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26693.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32250.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00155.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33700.1
+GO:0006260	DNA replication	202	46	18.19	0.00430	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36480.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15460.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17970.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20171.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38197.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32250.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36480.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25433.1
+GO:0006268	DNA unwinding involved in DNA replicatio...	12	8	1.08	1.5e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29771.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14017.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38197.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36480.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03273.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17970.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10652.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19602.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27207.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25433.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29771.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11939.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15460.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10214.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32250.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11385.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12496.1
+GO:0006270	DNA replication initiation	34	17	3.06	8.4e-10	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33700.1
+GO:0006271	DNA strand elongation involved in DNA re...	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14011.1
+GO:0006271	DNA strand elongation involved in DNA re...	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33700.1
+GO:0006271	DNA strand elongation involved in DNA re...	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19213.1
+GO:0006271	DNA strand elongation involved in DNA re...	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15452.1
+GO:0006271	DNA strand elongation involved in DNA re...	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23635.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19590.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21556.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24546.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20110.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21485.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19980.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25766.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20649.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33093.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25795.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19310.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21582.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19738.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24824.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19947.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18979.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32701.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20453.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32594.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20360.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19403.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32692.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26350.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26072.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20480.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24586.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20454.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20578.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33118.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25680.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09147.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01140.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24995.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26549.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24617.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25201.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24498.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25369.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09491.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25525.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11428.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01957.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09679.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32278.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26000.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33147.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08414.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00052.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08547.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27415.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27636.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27852.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00708.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22012.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24953.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08145.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07115.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33155.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18766.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24393.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00069.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27248.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09120.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27737.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07022.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11293.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11644.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21912.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04147.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03872.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07357.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31847.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18977.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07377.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10047.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00456.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00074.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10547.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34752.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11171.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12462.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07457.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24163.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31839.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05104.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32140.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24228.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10988.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05277.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18067.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29669.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23602.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34759.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02803.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03096.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28071.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30170.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18651.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05028.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04624.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17630.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10476.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16644.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10531.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34091.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34689.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35191.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35643.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23802.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27919.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29025.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30442.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31234.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31434.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29452.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04557.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16680.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16981.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05461.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34740.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23691.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02414.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18103.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12988.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28143.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28282.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04986.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29574.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36845.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15971.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33469.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37967.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17056.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23673.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07074.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36144.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06089.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36304.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36549.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14074.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28878.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23156.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17206.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14929.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14752.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18372.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23158.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06939.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18482.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37084.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18267.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29972.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14414.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29877.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22766.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13772.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22483.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14133.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22496.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37953.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37973.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22295.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23518.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06077.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38620.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37737.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22286.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22048.1
+GO:0006468	protein phosphorylation	1409	172	126.9	2.3e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37923.1
+GO:0006564	L-serine biosynthetic process	5	4	0.45	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30065.1
+GO:0006564	L-serine biosynthetic process	5	4	0.45	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17987.1
+GO:0006564	L-serine biosynthetic process	5	4	0.45	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11194.1
+GO:0006564	L-serine biosynthetic process	5	4	0.45	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02398.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02724.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12112.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00688.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02984.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11698.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12850.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33161.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02889.1
+GO:0006626	protein targeting to mitochondrion	49	9	4.41	0.02917	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34202.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36953.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32222.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18672.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17550.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09029.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27833.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19849.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11894.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08245.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08234.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31868.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12586.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08985.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11259.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16563.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25393.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31110.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30107.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00313.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26899.1
+GO:0006857	oligopeptide transport	128	21	11.53	0.00513	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25468.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19105.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16023.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07592.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25475.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07611.1
+GO:0006949	syncytium formation	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15777.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07322.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07319.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02004.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14430.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06606.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12331.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24974.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21127.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16903.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27884.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17900.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10989.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15749.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29768.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15732.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04058.1
+GO:0007018	microtubule-based movement	64	17	5.76	3.6e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01961.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22295.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22286.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20453.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19980.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05277.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21556.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19590.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20360.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06939.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07457.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20454.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24953.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05028.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14414.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04557.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37953.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00708.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24228.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37737.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14929.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16644.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24393.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24546.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00052.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07115.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04624.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34740.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01957.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34689.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34752.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23156.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37973.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10988.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23802.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32594.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30442.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22496.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16981.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33469.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10531.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18979.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28143.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12988.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38620.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33147.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29574.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18977.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32692.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18651.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11171.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10476.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32701.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22483.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32140.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12462.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09120.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09679.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18267.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34759.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29877.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26549.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17056.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18482.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37084.1
+GO:0007169	transmembrane receptor protein tyrosine ...	217	66	19.54	2.4e-19	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27415.1
+GO:0007349	cellularization	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06606.1
+GO:0007349	cellularization	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06351.1
+GO:0007349	cellularization	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29768.1
+GO:0007349	cellularization	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37159.1
+GO:0009129	pyrimidine nucleoside monophosphate meta...	23	5	2.07	0.00272	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16724.1
+GO:0009129	pyrimidine nucleoside monophosphate meta...	23	5	2.07	0.00272	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26413.1
+GO:0009129	pyrimidine nucleoside monophosphate meta...	23	5	2.07	0.00272	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24942.1
+GO:0009129	pyrimidine nucleoside monophosphate meta...	23	5	2.07	0.00272	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10330.1
+GO:0009129	pyrimidine nucleoside monophosphate meta...	23	5	2.07	0.00272	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14448.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36385.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03614.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37098.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05677.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09355.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04640.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26563.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02412.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16515.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25988.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00222.1
+GO:0009299	mRNA transcription	24	12	2.16	2.7e-07	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05990.1
+GO:0009394	2'-deoxyribonucleotide metabolic process	14	4	1.26	0.03151	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24942.1
+GO:0009394	2'-deoxyribonucleotide metabolic process	14	4	1.26	0.03151	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14448.1
+GO:0009394	2'-deoxyribonucleotide metabolic process	14	4	1.26	0.03151	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16724.1
+GO:0009394	2'-deoxyribonucleotide metabolic process	14	4	1.26	0.03151	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20472.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27345.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26775.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30802.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28510.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26375.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06463.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17530.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26659.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04819.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31781.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28673.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32868.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16195.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29338.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25615.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25549.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33918.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32480.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03324.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33404.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16485.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09345.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05969.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10730.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08676.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06446.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16128.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29398.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34280.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21341.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02206.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26292.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30406.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34854.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07184.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32112.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10764.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08412.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30305.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02239.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30129.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09417.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01583.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23450.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21740.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38944.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01792.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06870.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15933.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07648.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37924.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35388.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08511.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22567.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20915.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14175.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15679.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18848.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37193.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15200.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11196.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22468.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14909.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19917.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01390.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18753.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13090.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01361.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20178.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14025.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11889.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35387.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11439.1
+GO:0009451	RNA modification	397	74	35.76	0.00457	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13079.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15486.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37193.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29768.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12063.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06606.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02444.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02586.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06421.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17639.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07477.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22063.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32257.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34493.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19913.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02398.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35016.1
+GO:0009561	megagametogenesis	84	17	7.57	0.04024	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35686.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35192.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15165.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14877.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17206.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01308.1
+GO:0009638	phototropism	27	6	2.43	0.03017	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31107.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33964.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21363.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34256.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0009641	shade avoidance	33	8	2.97	0.00767	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37722.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26756.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18101.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12150.1
+GO:0009682	induced systemic resistance	44	10	3.96	0.00495	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25960.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0009684	indoleacetic acid biosynthetic process	23	7	2.07	0.00320	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01998.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08466.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10133.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10961.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09797.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07344.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22074.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09327.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36304.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38098.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06976.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14056.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33091.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24341.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09989.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02876.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28719.1
+GO:0009740	gibberellic acid mediated signaling path...	113	18	10.18	0.03383	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23602.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21363.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25369.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21873.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27045.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36304.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03096.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27078.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23251.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23659.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12762.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28282.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08145.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29051.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23602.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01158.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18372.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16680.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10047.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12396.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12312.1
+GO:0009741	response to brassinosteroid	123	22	11.08	0.02333	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09656.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10047.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09656.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27078.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12396.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08145.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16680.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21363.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03096.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18372.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23659.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25369.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28282.1
+GO:0009742	brassinosteroid mediated signaling pathw...	82	14	7.39	0.01433	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27045.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12150.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25960.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0009759	indole glucosinolate biosynthetic proces...	22	7	1.98	0.00241	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0009833	plant-type primary cell wall biogenesis	24	7	2.16	0.00417	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04624.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09762.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09760.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33129.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09764.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14990.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17712.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17730.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15705.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33128.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05319.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18164.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16021.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16071.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35710.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05653.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16362.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15085.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08434.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16361.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32203.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29992.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20047.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23640.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24914.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27730.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17962.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22386.1
+GO:0009834	plant-type secondary cell wall biogenesi...	104	43	9.37	1.1e-18	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28143.1
+GO:0009855	determination of bilateral symmetry	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09462.1
+GO:0009855	determination of bilateral symmetry	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18276.1
+GO:0009855	determination of bilateral symmetry	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08631.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38225.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31070.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28562.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25201.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38277.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27910.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13035.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18340.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29829.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10033.1
+GO:0009887	animal organ morphogenesis	45	12	4.05	0.00047	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21019.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30442.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23824.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21384.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36558.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07163.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23802.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16644.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03872.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16231.1
+GO:0009934	regulation of meristem structural organi...	31	10	2.79	0.00026	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20757.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11996.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33282.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18276.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27244.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26756.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08631.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13035.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09462.1
+GO:0009943	adaxial/abaxial axis specification	45	10	4.05	0.00586	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31158.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19844.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29829.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37849.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13035.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35732.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38845.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26549.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08508.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09462.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18276.1
+GO:0009956	radial pattern formation	28	11	2.52	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25949.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25103.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16157.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26707.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10033.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02494.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31107.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21726.1
+GO:0009958	positive gravitropism	43	10	3.87	0.00415	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22177.1
+GO:0009971	anastral spindle assembly involved in ma...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07322.1
+GO:0009971	anastral spindle assembly involved in ma...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16903.1
+GO:0009971	anastral spindle assembly involved in ma...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07319.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19844.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37055.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04453.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18538.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23553.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35732.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31177.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26249.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24279.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06014.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15933.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18276.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16116.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27244.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08266.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13035.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07357.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38845.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14056.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06463.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15200.1
+GO:0010051	xylem and phloem pattern formation	96	29	8.65	3.1e-09	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09462.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04453.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08266.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31177.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23234.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00069.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00052.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25201.1
+GO:0010065	primary meristem tissue development	15	9	1.35	1.2e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27342.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03317.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21384.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10988.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01957.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23802.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24393.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18323.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02494.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01308.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05028.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20265.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27244.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34759.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30442.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27248.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38197.1
+GO:0010075	regulation of meristem growth	85	17	7.66	0.00135	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11471.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03928.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01080.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04191.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21920.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15200.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06014.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00237.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01507.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21547.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23843.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06463.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09971.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14022.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14174.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37055.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09462.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26897.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12543.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31177.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08266.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35400.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27342.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23553.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26249.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28366.1
+GO:0010087	phloem or xylem histogenesis	175	30	15.76	0.00045	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18276.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32257.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37193.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02444.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17639.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35016.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35686.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34493.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22063.1
+GO:0010197	polar nucleus fusion	43	9	3.87	0.01300	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19913.1
+GO:0010199	organ boundary specification between lat...	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00222.1
+GO:0010199	organ boundary specification between lat...	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34955.1
+GO:0010199	organ boundary specification between lat...	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26563.1
+GO:0010199	organ boundary specification between lat...	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04640.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05319.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24914.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26526.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14430.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05318.1
+GO:0010215	cellulose microfibril organization	23	6	2.07	0.01401	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27891.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38225.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28869.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18340.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27342.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31935.1
+GO:0010223	secondary shoot formation	29	7	2.61	0.01265	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09407.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36050.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18340.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18537.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38225.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18323.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31158.1
+GO:0010229	inflorescence development	40	11	3.6	0.00061	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09797.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30107.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06750.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08219.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02748.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26249.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30240.1
+GO:0010233	phloem transport	22	8	1.98	0.00062	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0010338	leaf formation	12	4	1.08	0.01801	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20265.1
+GO:0010338	leaf formation	12	4	1.08	0.01801	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0010338	leaf formation	12	4	1.08	0.01801	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0010338	leaf formation	12	4	1.08	0.01801	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0010358	leaf shaping	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27244.1
+GO:0010358	leaf shaping	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0010358	leaf shaping	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28114.1
+GO:0010358	leaf shaping	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0010358	leaf shaping	19	5	1.71	0.02350	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02373.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17425.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01999.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35400.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08112.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36475.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15167.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17448.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00554.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12986.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30052.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14122.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28782.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29236.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27258.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27961.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32537.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25054.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09790.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21169.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26284.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17509.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21283.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22444.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18834.1
+GO:0010411	xyloglucan metabolic process	84	26	7.57	1.1e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25778.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38277.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00222.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26563.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21019.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04640.1
+GO:0010492	maintenance of shoot apical meristem ide...	13	6	1.17	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28562.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12762.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16023.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02584.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00995.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06606.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00045.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01719.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01158.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26972.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11713.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06609.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38416.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28896.1
+GO:0010583	response to cyclopentenone	69	18	6.21	2.8e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20369.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21341.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01792.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31781.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34854.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30305.1
+GO:0016554	cytidine to uridine editing	19	6	1.71	0.00514	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14909.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23088.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15203.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12231.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03234.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0030071	regulation of mitotic metaphase/anaphase...	17	6	1.53	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17510.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09611.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37103.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04042.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20521.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38096.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09235.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11407.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20752.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11160.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22496.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37527.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04834.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0030243	cellulose metabolic process	99	21	8.92	0.00030	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0031126	snoRNA 3'-end processing	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03324.1
+GO:0031126	snoRNA 3'-end processing	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05969.1
+GO:0031126	snoRNA 3'-end processing	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17530.1
+GO:0031145	anaphase-promoting complex-dependent cat...	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23088.1
+GO:0031145	anaphase-promoting complex-dependent cat...	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15203.1
+GO:0031145	anaphase-promoting complex-dependent cat...	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0032465	regulation of cytokinesis	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37967.1
+GO:0032465	regulation of cytokinesis	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19738.1
+GO:0032465	regulation of cytokinesis	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10924.1
+GO:0032957	inositol trisphosphate metabolic process	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29254.1
+GO:0032957	inositol trisphosphate metabolic process	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18573.1
+GO:0032957	inositol trisphosphate metabolic process	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04453.1
+GO:0032957	inositol trisphosphate metabolic process	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29255.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14557.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25746.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14427.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22134.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28317.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05143.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00558.1
+GO:0032973	amino acid export across plasma membrane	24	8	2.16	0.00084	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14773.1
+GO:0033206	meiotic cytokinesis	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17900.1
+GO:0033206	meiotic cytokinesis	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29768.1
+GO:0033206	meiotic cytokinesis	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12331.1
+GO:0033206	meiotic cytokinesis	15	4	1.35	0.03999	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09797.1
+GO:0033260	nuclear DNA replication	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12496.1
+GO:0033260	nuclear DNA replication	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33700.1
+GO:0033260	nuclear DNA replication	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27207.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26425.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14214.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27584.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13555.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08480.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25201.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03218.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09537.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18002.1
+GO:0042335	cuticle development	59	10	5.31	0.03676	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26188.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09762.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09760.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20521.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08112.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05653.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26526.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27682.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06222.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09790.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12175.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25054.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23640.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28143.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19662.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20047.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09611.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09764.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26793.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27730.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24914.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24904.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27961.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28782.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09347.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14990.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15085.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27891.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22386.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19535.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32537.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25778.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12986.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29992.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30052.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18834.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05318.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32203.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00554.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31766.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30049.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08434.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33129.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15167.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14430.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04042.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18164.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30494.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17712.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29171.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33128.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17509.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04624.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17448.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36475.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05319.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35710.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02373.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17730.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15705.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16362.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36954.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16361.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17962.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16021.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35400.1
+GO:0042546	cell wall biogenesis	306	84	27.56	2.4e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16071.1
+GO:0043570	maintenance of DNA repeat elements	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09080.1
+GO:0043570	maintenance of DNA repeat elements	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10401.1
+GO:0043570	maintenance of DNA repeat elements	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30782.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14448.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21253.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33060.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32854.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21423.1
+GO:0043650	dicarboxylic acid biosynthetic process	28	6	2.52	0.03556	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16724.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19508.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34861.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25374.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30895.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37338.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00502.1
+GO:0045010	actin nucleation	37	7	3.33	0.04458	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30731.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21895.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25566.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20748.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15669.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13944.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12079.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12048.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05448.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25638.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23500.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21542.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21715.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12931.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37221.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31998.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25413.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04038.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32106.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25583.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26706.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33476.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31766.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26378.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37209.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08948.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07038.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02082.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06222.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29171.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27682.1
+GO:0045488	pectin metabolic process	217	35	19.54	0.00052	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07858.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16071.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32203.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30049.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19535.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24904.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18813.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17712.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22444.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23640.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12175.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01999.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19662.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21169.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08141.1
+GO:0045491	xylan metabolic process	81	22	7.3	0.04722	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19662.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19535.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17712.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12175.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24904.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32203.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16071.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0045492	xylan biosynthetic process	51	16	4.59	6.0e-06	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30049.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26693.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24951.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00155.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32251.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30782.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37849.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23189.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03234.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36558.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21912.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13660.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08508.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12231.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14341.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36845.1
+GO:0045786	negative regulation of cell cycle	58	16	5.22	5.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17992.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27923.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12688.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16021.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27925.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26764.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09636.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30227.1
+GO:0046274	lignin catabolic process	37	8	3.33	0.01546	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23132.1
+GO:0046654	tetrahydrofolate biosynthetic process	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16724.1
+GO:0046654	tetrahydrofolate biosynthetic process	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21423.1
+GO:0046654	tetrahydrofolate biosynthetic process	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09718.1
+GO:0046654	tetrahydrofolate biosynthetic process	16	4	1.44	0.04963	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14448.1
+GO:0046855	inositol phosphate dephosphorylation	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29255.1
+GO:0046855	inositol phosphate dephosphorylation	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04453.1
+GO:0046855	inositol phosphate dephosphorylation	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29254.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31733.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14877.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26563.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13035.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30442.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30670.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33093.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33282.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34104.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13018.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07163.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25694.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10033.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14767.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10093.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26549.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34013.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15391.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25103.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13621.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04640.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23802.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00375.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14056.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08631.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29992.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20757.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00222.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22767.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04147.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01738.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04974.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13689.1
+GO:0048438	floral whorl development	306	38	27.56	0.01837	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13786.1
+GO:0048439	flower morphogenesis	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17719.1
+GO:0048439	flower morphogenesis	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26756.1
+GO:0048439	flower morphogenesis	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00375.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37055.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16116.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32962.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18538.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20234.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04453.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06463.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24279.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15200.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26249.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0048826	cotyledon morphogenesis	39	16	3.51	9.0e-08	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06014.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37766.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0048830	adventitious root development	20	6	1.8	0.00679	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0048833	specification of floral organ number	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00222.1
+GO:0048833	specification of floral organ number	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26563.1
+GO:0048833	specification of floral organ number	7	3	0.63	0.01936	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04640.1
+GO:0051016	barbed-end actin filament capping	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19508.1
+GO:0051016	barbed-end actin filament capping	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30731.1
+GO:0051016	barbed-end actin filament capping	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25374.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32167.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32877.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12231.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12248.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32300.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11445.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32148.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26019.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11713.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29768.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35194.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36868.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25949.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05203.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00708.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11385.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12063.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30315.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33550.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04903.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13660.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02276.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31231.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22426.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11115.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11693.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00792.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12762.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27342.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27207.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22611.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22198.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02258.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12629.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01158.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08508.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12722.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38532.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13790.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24494.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12659.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23878.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23031.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12331.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07319.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14830.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06606.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17510.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17900.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16903.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12912.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12911.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10924.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07527.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23234.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23309.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09347.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07804.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15749.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37849.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37967.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07322.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06840.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23824.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09382.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19450.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05599.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15486.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37699.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15452.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18358.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16231.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37159.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02586.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13857.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06351.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09797.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21700.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19213.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05822.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37067.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20369.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19738.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18067.1
+GO:0051301	cell division	595	94	53.59	1.1e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27396.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15203.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23088.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12231.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21912.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14341.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17992.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03234.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05822.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17510.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12248.1
+GO:0051304	chromosome separation	41	13	3.69	0.00413	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35194.1
+GO:0051513	regulation of monopolar cell growth	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24569.1
+GO:0051513	regulation of monopolar cell growth	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04230.1
+GO:0051513	regulation of monopolar cell growth	6	3	0.54	0.01185	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07722.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12762.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14830.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37967.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36845.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33550.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37849.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11713.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17510.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13660.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32251.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36558.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11644.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37067.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12911.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32300.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12912.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15203.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03234.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11693.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36868.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19738.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35194.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03872.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12722.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20566.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07022.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14341.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01738.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07357.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32148.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05822.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12231.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11385.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01140.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08508.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17992.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01158.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26693.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23189.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21912.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10924.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27207.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21920.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08547.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00360.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24951.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30782.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11115.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23158.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22198.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31231.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18067.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19146.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23031.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00155.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22426.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22611.1
+GO:0051726	regulation of cell cycle	289	58	26.03	0.00072	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23088.1
+GO:0051984	positive regulation of chromosome segreg...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05822.1
+GO:0051984	positive regulation of chromosome segreg...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35194.1
+GO:0051984	positive regulation of chromosome segreg...	9	3	0.81	0.04053	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17510.1
+GO:0061087	positive regulation of histone H3-K27 me...	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24179.1
+GO:0061087	positive regulation of histone H3-K27 me...	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27471.1
+GO:0061087	positive regulation of histone H3-K27 me...	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06794.1
+GO:0061087	positive regulation of histone H3-K27 me...	10	4	0.9	0.00884	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27470.1
+GO:0070483	detection of hypoxia	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27472.1
+GO:0070483	detection of hypoxia	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27605.1
+GO:0070483	detection of hypoxia	5	3	0.45	0.00635	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08471.1
+GO:0071218	cellular response to misfolded protein	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38675.1
+GO:0071218	cellular response to misfolded protein	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10277.1
+GO:0071218	cellular response to misfolded protein	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33396.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37126.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38945.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02584.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35447.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02494.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37766.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38845.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37699.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32126.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24341.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16157.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33616.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04903.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15383.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09382.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09801.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10033.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18676.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11662.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25103.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27361.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22735.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26707.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28366.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28896.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18538.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31327.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19784.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19849.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11153.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14877.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21726.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14056.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26019.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20901.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29829.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18358.1
+GO:0071365	cellular response to auxin stimulus	325	40	29.27	0.03868	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14605.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05740.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21283.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06249.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22386.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21715.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26972.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27252.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23500.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22324.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27303.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07083.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27682.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22496.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28143.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06222.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23640.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27258.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29171.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21542.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26898.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07038.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28782.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36475.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00554.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27891.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35400.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08112.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22444.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15777.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15705.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15438.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21886.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23693.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27816.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07611.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37103.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27730.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05667.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21895.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07082.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15669.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36578.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00897.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07592.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36954.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27961.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20521.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21354.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20047.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05687.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36202.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30052.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35710.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30347.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30494.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24904.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24914.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26526.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05319.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20748.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15198.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26845.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06286.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30049.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08948.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12986.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09347.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09357.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09611.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11407.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12048.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29236.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29456.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34009.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29992.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15940.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16361.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16362.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16583.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26287.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26793.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19535.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14430.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15167.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21169.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08354.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19662.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08434.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31998.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16021.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26175.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16879.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09790.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01296.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08141.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34436.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15863.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05653.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12931.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32280.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32537.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16071.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16075.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14122.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26655.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26378.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31005.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34013.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19579.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20752.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31511.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33769.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12254.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37209.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13707.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38096.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04624.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14990.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05318.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12079.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11160.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09772.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31766.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17448.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16023.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37629.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26284.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37902.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33128.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30673.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09860.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18834.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05548.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18020.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09762.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09764.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32203.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12175.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17509.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37766.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04042.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32106.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15085.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14406.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04954.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31310.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33129.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37221.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25638.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17332.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04834.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09760.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25778.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25566.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17343.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17425.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17962.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18813.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01814.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18164.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37527.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17056.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14988.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02373.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19105.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25475.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25583.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17712.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01719.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17730.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25054.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02702.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31818.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03218.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02108.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33763.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01577.1
+GO:0071554	cell wall organization or biogenesis	991	200	89.25	3.2e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01999.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09611.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21715.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21542.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09772.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12079.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09860.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21354.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27991.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08692.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11407.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24914.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08112.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14406.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12134.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08948.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09790.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17509.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09198.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19105.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12931.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc28782.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21169.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24818.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23500.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18834.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22496.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12048.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08354.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32106.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14430.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33763.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20752.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29456.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07592.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23693.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27961.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07611.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31511.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18020.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14240.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32537.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05740.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31998.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21886.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11160.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19579.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22275.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20748.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26175.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14374.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30673.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22444.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33769.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06008.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15135.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31310.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12986.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20521.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13707.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25890.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26287.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27891.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23143.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04042.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38096.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05318.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29171.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31766.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05687.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17389.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22038.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21895.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc06222.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07038.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30494.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37766.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37103.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30347.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17343.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00897.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15940.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14988.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21925.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05653.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27303.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30052.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36633.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25583.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17448.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35400.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15777.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15167.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00554.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc38898.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25566.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25778.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05548.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25054.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37902.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01067.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27682.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37527.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17332.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02702.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16618.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01999.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36475.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25638.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26972.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15669.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc36578.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01814.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37209.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30306.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04834.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26378.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34009.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc03218.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37221.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26655.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05319.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01719.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25475.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26898.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34013.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26526.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16316.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15438.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01296.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02373.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16879.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc17056.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16023.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15431.1
+GO:0071555	cell wall organization	705	135	63.5	2.4e-14	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc16583.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10093.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13253.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30863.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc11471.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04974.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc20234.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37055.1
+GO:0080022	primary root development	42	8	3.78	0.03174	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32962.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07687.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14557.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc00558.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05143.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14773.1
+GO:0080144	amino acid homeostasis	26	6	2.34	0.02534	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25746.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10125.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14252.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc13203.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc35875.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09783.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12236.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc24554.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc01056.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29428.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10423.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12137.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc04025.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc33437.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc22018.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26316.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc10961.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc27493.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15069.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32895.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32901.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc32441.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc02235.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08245.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19860.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc15777.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29672.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc31509.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc29547.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21251.1
+GO:0080167	response to karrikin	223	30	20.08	0.01739	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc14402.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05769.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09345.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc05978.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09235.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc34280.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc21371.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc25694.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30670.1
+GO:0140053	mitochondrial gene expression	23	9	2.07	9.7e-05	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc30305.1
+GO:1901703	protein localization involved in auxin p...	8	4	0.72	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc09382.1
+GO:1901703	protein localization involved in auxin p...	8	4	0.72	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc26019.1
+GO:1901703	protein localization involved in auxin p...	8	4	0.72	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc18358.1
+GO:1901703	protein localization involved in auxin p...	8	4	0.72	0.00341	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37699.1
+GO:1902850	microtubule cytoskeleton organization in...	15	5	1.35	0.00821	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc37967.1
+GO:1902850	microtubule cytoskeleton organization in...	15	5	1.35	0.00821	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23158.1
+GO:1902850	microtubule cytoskeleton organization in...	15	5	1.35	0.00821	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19738.1
+GO:1902850	microtubule cytoskeleton organization in...	15	5	1.35	0.00821	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc08547.1
+GO:1902850	microtubule cytoskeleton organization in...	15	5	1.35	0.00821	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc07527.1
+GO:1904668	positive regulation of ubiquitin protein...	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc19450.1
+GO:1904668	positive regulation of ubiquitin protein...	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc23309.1
+GO:1904668	positive regulation of ubiquitin protein...	8	3	0.72	0.02892	5topBP.G1.ND.NS-G1.D.NS.up.txt	Lc12659.1
